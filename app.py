@@ -82,6 +82,8 @@ evaluation["score"] = pd.to_numeric(evaluation["score"], errors="coerce").fillna
 
 app = Dash(__name__)
 
+server = app.server
+
 PAGE = {
     "fontFamily": "Arial, sans-serif",
     "background": "#f7f9f7",
