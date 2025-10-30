@@ -2,4 +2,3 @@ dash
 gunicorn
 pandas
 plotly
-json
