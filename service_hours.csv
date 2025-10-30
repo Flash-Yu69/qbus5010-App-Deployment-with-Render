@@ -1,0 +1,1601 @@
+﻿name,org_id,field,age_group,gender,hours
+Blue Path 1,O01,Environment,18-25,Female,819.39
+Blue Path 1,O01,Environment,18-25,Male,0
+Blue Path 1,O01,Environment,26-45,Female,1302.66
+Blue Path 1,O01,Environment,26-45,Male,53
+Blue Path 1,O01,Environment,46-60,Female,787.44
+Blue Path 1,O01,Environment,46-60,Male,291.1
+Blue Path 1,O01,Environment,Above 60,Female,59.67
+Blue Path 1,O01,Environment,Above 60,Male,2350.74
+Blue Path 1,O01,Health,18-25,Female,1009.14
+Blue Path 1,O01,Health,18-25,Male,186.49
+Blue Path 1,O01,Health,26-45,Female,1586.7
+Blue Path 1,O01,Health,26-45,Male,540.94
+Blue Path 1,O01,Health,46-60,Female,2968.94
+Blue Path 1,O01,Health,46-60,Male,0
+Blue Path 1,O01,Health,Above 60,Female,1096.81
+Blue Path 1,O01,Health,Above 60,Male,4446.98
+Blue Path 1,O01,Education,18-25,Female,214.74
+Blue Path 1,O01,Education,18-25,Male,248.65
+Blue Path 1,O01,Education,26-45,Female,964.47
+Blue Path 1,O01,Education,26-45,Male,635.59
+Blue Path 1,O01,Education,46-60,Female,0
+Blue Path 1,O01,Education,46-60,Male,232.79
+Blue Path 1,O01,Education,Above 60,Female,463.95
+Blue Path 1,O01,Education,Above 60,Male,1005.81
+Blue Path 1,O01,Law,18-25,Female,234.86
+Blue Path 1,O01,Law,18-25,Male,14.01
+Blue Path 1,O01,Law,26-45,Female,871.58
+Blue Path 1,O01,Law,26-45,Male,2648.28
+Blue Path 1,O01,Law,46-60,Female,110.92
+Blue Path 1,O01,Law,46-60,Male,109.85
+Blue Path 1,O01,Law,Above 60,Female,373.5
+Blue Path 1,O01,Law,Above 60,Male,0
+Blue Path 1,O01,Community,18-25,Female,2064.98
+Blue Path 1,O01,Community,18-25,Male,937.67
+Blue Path 1,O01,Community,26-45,Female,1612.32
+Blue Path 1,O01,Community,26-45,Male,43.58
+Blue Path 1,O01,Community,46-60,Female,580.8
+Blue Path 1,O01,Community,46-60,Male,0
+Blue Path 1,O01,Community,Above 60,Female,1022.84
+Blue Path 1,O01,Community,Above 60,Male,5204.81
+Green Hearts 2,O02,Environment,18-25,Female,9.36
+Green Hearts 2,O02,Environment,18-25,Male,18.98
+Green Hearts 2,O02,Environment,26-45,Female,86.35
+Green Hearts 2,O02,Environment,26-45,Male,53.96
+Green Hearts 2,O02,Environment,46-60,Female,0
+Green Hearts 2,O02,Environment,46-60,Male,8.83
+Green Hearts 2,O02,Environment,Above 60,Female,49.48
+Green Hearts 2,O02,Environment,Above 60,Male,140.04
+Green Hearts 2,O02,Health,18-25,Female,374.09
+Green Hearts 2,O02,Health,18-25,Male,0
+Green Hearts 2,O02,Health,26-45,Female,231.95
+Green Hearts 2,O02,Health,26-45,Male,910.15
+Green Hearts 2,O02,Health,46-60,Female,53.36
+Green Hearts 2,O02,Health,46-60,Male,214.75
+Green Hearts 2,O02,Health,Above 60,Female,1351.39
+Green Hearts 2,O02,Health,Above 60,Male,141.31
+Green Hearts 2,O02,Education,18-25,Female,1330.43
+Green Hearts 2,O02,Education,18-25,Male,174.8
+Green Hearts 2,O02,Education,26-45,Female,2672.35
+Green Hearts 2,O02,Education,26-45,Male,905.68
+Green Hearts 2,O02,Education,46-60,Female,272.92
+Green Hearts 2,O02,Education,46-60,Male,234.11
+Green Hearts 2,O02,Education,Above 60,Female,473.71
+Green Hearts 2,O02,Education,Above 60,Male,0
+Green Hearts 2,O02,Law,18-25,Female,673.95
+Green Hearts 2,O02,Law,18-25,Male,384.22
+Green Hearts 2,O02,Law,26-45,Female,2175.06
+Green Hearts 2,O02,Law,26-45,Male,2474.85
+Green Hearts 2,O02,Law,46-60,Female,0
+Green Hearts 2,O02,Law,46-60,Male,6476.95
+Green Hearts 2,O02,Law,Above 60,Female,4983.07
+Green Hearts 2,O02,Law,Above 60,Male,930.9
+Green Hearts 2,O02,Community,18-25,Female,101.18
+Green Hearts 2,O02,Community,18-25,Male,209.96
+Green Hearts 2,O02,Community,26-45,Female,815.9
+Green Hearts 2,O02,Community,26-45,Male,13.99
+Green Hearts 2,O02,Community,46-60,Female,246.54
+Green Hearts 2,O02,Community,46-60,Male,36.61
+Green Hearts 2,O02,Community,Above 60,Female,251.82
+Green Hearts 2,O02,Community,Above 60,Male,0
+Spark Support 3,O03,Environment,18-25,Female,11.37
+Spark Support 3,O03,Environment,18-25,Male,242.63
+Spark Support 3,O03,Environment,26-45,Female,993.36
+Spark Support 3,O03,Environment,26-45,Male,0
+Spark Support 3,O03,Environment,46-60,Female,229.95
+Spark Support 3,O03,Environment,46-60,Male,1347.39
+Spark Support 3,O03,Environment,Above 60,Female,628.36
+Spark Support 3,O03,Environment,Above 60,Male,186.94
+Spark Support 3,O03,Health,18-25,Female,846.28
+Spark Support 3,O03,Health,18-25,Male,381.93
+Spark Support 3,O03,Health,26-45,Female,1156.53
+Spark Support 3,O03,Health,26-45,Male,248.07
+Spark Support 3,O03,Health,46-60,Female,645.96
+Spark Support 3,O03,Health,46-60,Male,308.68
+Spark Support 3,O03,Health,Above 60,Female,0
+Spark Support 3,O03,Health,Above 60,Male,1636.55
+Spark Support 3,O03,Education,18-25,Female,258.69
+Spark Support 3,O03,Education,18-25,Male,248.9
+Spark Support 3,O03,Education,26-45,Female,221.98
+Spark Support 3,O03,Education,26-45,Male,308.82
+Spark Support 3,O03,Education,46-60,Female,237.91
+Spark Support 3,O03,Education,46-60,Male,40.53
+Spark Support 3,O03,Education,Above 60,Female,0
+Spark Support 3,O03,Education,Above 60,Male,207.17
+Spark Support 3,O03,Law,18-25,Female,4126.07
+Spark Support 3,O03,Law,18-25,Male,166.5
+Spark Support 3,O03,Law,26-45,Female,679.49
+Spark Support 3,O03,Law,26-45,Male,136.67
+Spark Support 3,O03,Law,46-60,Female,0
+Spark Support 3,O03,Law,46-60,Male,325.06
+Spark Support 3,O03,Law,Above 60,Female,1239.79
+Spark Support 3,O03,Law,Above 60,Male,1245.42
+Spark Support 3,O03,Community,18-25,Female,576.73
+Spark Support 3,O03,Community,18-25,Male,283.85
+Spark Support 3,O03,Community,26-45,Female,29.73
+Spark Support 3,O03,Community,26-45,Male,0
+Spark Support 3,O03,Community,46-60,Female,42.02
+Spark Support 3,O03,Community,46-60,Male,122.19
+Spark Support 3,O03,Community,Above 60,Female,190.87
+Spark Support 3,O03,Community,Above 60,Male,800.61
+Open Path 4,O04,Environment,18-25,Female,134.94
+Open Path 4,O04,Environment,18-25,Male,0
+Open Path 4,O04,Environment,26-45,Female,150
+Open Path 4,O04,Environment,26-45,Male,122.06
+Open Path 4,O04,Environment,46-60,Female,75.96
+Open Path 4,O04,Environment,46-60,Male,122.22
+Open Path 4,O04,Environment,Above 60,Female,163.55
+Open Path 4,O04,Environment,Above 60,Male,101.27
+Open Path 4,O04,Health,18-25,Female,0.35
+Open Path 4,O04,Health,18-25,Male,0
+Open Path 4,O04,Health,26-45,Female,27.74
+Open Path 4,O04,Health,26-45,Male,3.73
+Open Path 4,O04,Health,46-60,Female,3.04
+Open Path 4,O04,Health,46-60,Male,0.56
+Open Path 4,O04,Health,Above 60,Female,13.39
+Open Path 4,O04,Health,Above 60,Male,40.19
+Open Path 4,O04,Education,18-25,Female,260.32
+Open Path 4,O04,Education,18-25,Male,62.68
+Open Path 4,O04,Education,26-45,Female,129.19
+Open Path 4,O04,Education,26-45,Male,77.8
+Open Path 4,O04,Education,46-60,Female,0
+Open Path 4,O04,Education,46-60,Male,687.8
+Open Path 4,O04,Education,Above 60,Female,354.68
+Open Path 4,O04,Education,Above 60,Male,551.53
+Open Path 4,O04,Law,18-25,Female,290.46
+Open Path 4,O04,Law,18-25,Male,0
+Open Path 4,O04,Law,26-45,Female,4467.55
+Open Path 4,O04,Law,26-45,Male,681.74
+Open Path 4,O04,Law,46-60,Female,164.09
+Open Path 4,O04,Law,46-60,Male,706.02
+Open Path 4,O04,Law,Above 60,Female,1731.85
+Open Path 4,O04,Law,Above 60,Male,437.29
+Open Path 4,O04,Community,18-25,Female,177.51
+Open Path 4,O04,Community,18-25,Male,952.46
+Open Path 4,O04,Community,26-45,Female,35.08
+Open Path 4,O04,Community,26-45,Male,282.17
+Open Path 4,O04,Community,46-60,Female,58.39
+Open Path 4,O04,Community,46-60,Male,24.48
+Open Path 4,O04,Community,Above 60,Female,224.91
+Open Path 4,O04,Community,Above 60,Male,0
+Clear Roots 5,O05,Environment,18-25,Female,30.8
+Clear Roots 5,O05,Environment,18-25,Male,31.95
+Clear Roots 5,O05,Environment,26-45,Female,0
+Clear Roots 5,O05,Environment,26-45,Male,137
+Clear Roots 5,O05,Environment,46-60,Female,9.38
+Clear Roots 5,O05,Environment,46-60,Male,336.58
+Clear Roots 5,O05,Environment,Above 60,Female,6.34
+Clear Roots 5,O05,Environment,Above 60,Male,121.95
+Clear Roots 5,O05,Health,18-25,Female,1649.84
+Clear Roots 5,O05,Health,18-25,Male,768.88
+Clear Roots 5,O05,Health,26-45,Female,2127.01
+Clear Roots 5,O05,Health,26-45,Male,498.27
+Clear Roots 5,O05,Health,46-60,Female,1940.13
+Clear Roots 5,O05,Health,46-60,Male,1527.03
+Clear Roots 5,O05,Health,Above 60,Female,0
+Clear Roots 5,O05,Health,Above 60,Male,358.84
+Clear Roots 5,O05,Education,18-25,Female,332.92
+Clear Roots 5,O05,Education,18-25,Male,273.43
+Clear Roots 5,O05,Education,26-45,Female,182.67
+Clear Roots 5,O05,Education,26-45,Male,171.3
+Clear Roots 5,O05,Education,46-60,Female,0
+Clear Roots 5,O05,Education,46-60,Male,171.21
+Clear Roots 5,O05,Education,Above 60,Female,113.54
+Clear Roots 5,O05,Education,Above 60,Male,115.93
+Clear Roots 5,O05,Law,18-25,Female,0
+Clear Roots 5,O05,Law,18-25,Male,3.96
+Clear Roots 5,O05,Law,26-45,Female,105.58
+Clear Roots 5,O05,Law,26-45,Male,24.43
+Clear Roots 5,O05,Law,46-60,Female,253.61
+Clear Roots 5,O05,Law,46-60,Male,9.95
+Clear Roots 5,O05,Law,Above 60,Female,320.56
+Clear Roots 5,O05,Law,Above 60,Male,114.91
+Clear Roots 5,O05,Community,18-25,Female,2069.27
+Clear Roots 5,O05,Community,18-25,Male,556.82
+Clear Roots 5,O05,Community,26-45,Female,258.67
+Clear Roots 5,O05,Community,26-45,Male,0
+Clear Roots 5,O05,Community,46-60,Female,285.75
+Clear Roots 5,O05,Community,46-60,Male,23.57
+Clear Roots 5,O05,Community,Above 60,Female,1058.26
+Clear Roots 5,O05,Community,Above 60,Male,319.66
+Care Minds 6,O06,Environment,18-25,Female,370.53
+Care Minds 6,O06,Environment,18-25,Male,158.2
+Care Minds 6,O06,Environment,26-45,Female,53.88
+Care Minds 6,O06,Environment,26-45,Male,27.08
+Care Minds 6,O06,Environment,46-60,Female,0
+Care Minds 6,O06,Environment,46-60,Male,464.1
+Care Minds 6,O06,Environment,Above 60,Female,128.01
+Care Minds 6,O06,Environment,Above 60,Male,69.2
+Care Minds 6,O06,Health,18-25,Female,2246.34
+Care Minds 6,O06,Health,18-25,Male,130.2
+Care Minds 6,O06,Health,26-45,Female,148.89
+Care Minds 6,O06,Health,26-45,Male,1735.87
+Care Minds 6,O06,Health,46-60,Female,425.73
+Care Minds 6,O06,Health,46-60,Male,233.88
+Care Minds 6,O06,Health,Above 60,Female,480.09
+Care Minds 6,O06,Health,Above 60,Male,0
+Care Minds 6,O06,Education,18-25,Female,1817.16
+Care Minds 6,O06,Education,18-25,Male,292.88
+Care Minds 6,O06,Education,26-45,Female,495.19
+Care Minds 6,O06,Education,26-45,Male,5337.43
+Care Minds 6,O06,Education,46-60,Female,4010.6
+Care Minds 6,O06,Education,46-60,Male,490.73
+Care Minds 6,O06,Education,Above 60,Female,0
+Care Minds 6,O06,Education,Above 60,Male,1655.01
+Care Minds 6,O06,Law,18-25,Female,48.56
+Care Minds 6,O06,Law,18-25,Male,91.49
+Care Minds 6,O06,Law,26-45,Female,29.95
+Care Minds 6,O06,Law,26-45,Male,200.92
+Care Minds 6,O06,Law,46-60,Female,38.61
+Care Minds 6,O06,Law,46-60,Male,1.99
+Care Minds 6,O06,Law,Above 60,Female,0
+Care Minds 6,O06,Law,Above 60,Male,160.48
+Care Minds 6,O06,Community,18-25,Female,2090
+Care Minds 6,O06,Community,18-25,Male,57.51
+Care Minds 6,O06,Community,26-45,Female,330.19
+Care Minds 6,O06,Community,26-45,Male,0
+Care Minds 6,O06,Community,46-60,Female,3.03
+Care Minds 6,O06,Community,46-60,Male,1316.49
+Care Minds 6,O06,Community,Above 60,Female,26.84
+Care Minds 6,O06,Community,Above 60,Male,737.94
+East Path 7,O07,Environment,18-25,Female,4.38
+East Path 7,O07,Environment,18-25,Male,22.52
+East Path 7,O07,Environment,26-45,Female,0
+East Path 7,O07,Environment,26-45,Male,42.53
+East Path 7,O07,Environment,46-60,Female,84.92
+East Path 7,O07,Environment,46-60,Male,24.16
+East Path 7,O07,Environment,Above 60,Female,111.22
+East Path 7,O07,Environment,Above 60,Male,115.27
+East Path 7,O07,Health,18-25,Female,1257.63
+East Path 7,O07,Health,18-25,Male,2634.3
+East Path 7,O07,Health,26-45,Female,677.85
+East Path 7,O07,Health,26-45,Male,0
+East Path 7,O07,Health,46-60,Female,907.2
+East Path 7,O07,Health,46-60,Male,180.36
+East Path 7,O07,Health,Above 60,Female,242.3
+East Path 7,O07,Health,Above 60,Male,8156.36
+East Path 7,O07,Education,18-25,Female,3.59
+East Path 7,O07,Education,18-25,Male,0
+East Path 7,O07,Education,26-45,Female,68.36
+East Path 7,O07,Education,26-45,Male,65.07
+East Path 7,O07,Education,46-60,Female,23.05
+East Path 7,O07,Education,46-60,Male,8.12
+East Path 7,O07,Education,Above 60,Female,6.24
+East Path 7,O07,Education,Above 60,Male,10.57
+East Path 7,O07,Law,18-25,Female,193.54
+East Path 7,O07,Law,18-25,Male,67.67
+East Path 7,O07,Law,26-45,Female,64.81
+East Path 7,O07,Law,26-45,Male,0
+East Path 7,O07,Law,46-60,Female,98.3
+East Path 7,O07,Law,46-60,Male,181.13
+East Path 7,O07,Law,Above 60,Female,208.11
+East Path 7,O07,Law,Above 60,Male,406.44
+East Path 7,O07,Community,18-25,Female,43.26
+East Path 7,O07,Community,18-25,Male,54.09
+East Path 7,O07,Community,26-45,Female,29.78
+East Path 7,O07,Community,26-45,Male,157.49
+East Path 7,O07,Community,46-60,Female,772.99
+East Path 7,O07,Community,46-60,Male,755.19
+East Path 7,O07,Community,Above 60,Female,0
+East Path 7,O07,Community,Above 60,Male,1571.2
+Spark Scholars 8,O08,Environment,18-25,Female,111.33
+Spark Scholars 8,O08,Environment,18-25,Male,66.93
+Spark Scholars 8,O08,Environment,26-45,Female,84.28
+Spark Scholars 8,O08,Environment,26-45,Male,30.59
+Spark Scholars 8,O08,Environment,46-60,Female,0
+Spark Scholars 8,O08,Environment,46-60,Male,99.71
+Spark Scholars 8,O08,Environment,Above 60,Female,645.51
+Spark Scholars 8,O08,Environment,Above 60,Male,183.65
+Spark Scholars 8,O08,Health,18-25,Female,1442.73
+Spark Scholars 8,O08,Health,18-25,Male,0
+Spark Scholars 8,O08,Health,26-45,Female,1484.71
+Spark Scholars 8,O08,Health,26-45,Male,409.12
+Spark Scholars 8,O08,Health,46-60,Female,270.08
+Spark Scholars 8,O08,Health,46-60,Male,2651.96
+Spark Scholars 8,O08,Health,Above 60,Female,15.8
+Spark Scholars 8,O08,Health,Above 60,Male,447.6
+Spark Scholars 8,O08,Education,18-25,Female,40.78
+Spark Scholars 8,O08,Education,18-25,Male,4925.98
+Spark Scholars 8,O08,Education,26-45,Female,629.28
+Spark Scholars 8,O08,Education,26-45,Male,2863.69
+Spark Scholars 8,O08,Education,46-60,Female,1041.57
+Spark Scholars 8,O08,Education,46-60,Male,0
+Spark Scholars 8,O08,Education,Above 60,Female,3189.8
+Spark Scholars 8,O08,Education,Above 60,Male,916.9
+Spark Scholars 8,O08,Law,18-25,Female,8.05
+Spark Scholars 8,O08,Law,18-25,Male,2.9
+Spark Scholars 8,O08,Law,26-45,Female,0
+Spark Scholars 8,O08,Law,26-45,Male,1.4
+Spark Scholars 8,O08,Law,46-60,Female,1.19
+Spark Scholars 8,O08,Law,46-60,Male,6.08
+Spark Scholars 8,O08,Law,Above 60,Female,3.36
+Spark Scholars 8,O08,Law,Above 60,Male,5.02
+Spark Scholars 8,O08,Community,18-25,Female,3682.21
+Spark Scholars 8,O08,Community,18-25,Male,0
+Spark Scholars 8,O08,Community,26-45,Female,2716.8
+Spark Scholars 8,O08,Community,26-45,Male,208.38
+Spark Scholars 8,O08,Community,46-60,Female,1422.4
+Spark Scholars 8,O08,Community,46-60,Male,655.4
+Spark Scholars 8,O08,Community,Above 60,Female,876.25
+Spark Scholars 8,O08,Community,Above 60,Male,1561.56
+Kind Action 9,O09,Environment,18-25,Female,42.76
+Kind Action 9,O09,Environment,18-25,Male,88.51
+Kind Action 9,O09,Environment,26-45,Female,108.34
+Kind Action 9,O09,Environment,26-45,Male,237.47
+Kind Action 9,O09,Environment,46-60,Female,126.21
+Kind Action 9,O09,Environment,46-60,Male,300.11
+Kind Action 9,O09,Environment,Above 60,Female,161.6
+Kind Action 9,O09,Environment,Above 60,Male,0
+Kind Action 9,O09,Health,18-25,Female,16.22
+Kind Action 9,O09,Health,18-25,Male,31.88
+Kind Action 9,O09,Health,26-45,Female,2.98
+Kind Action 9,O09,Health,26-45,Male,27.64
+Kind Action 9,O09,Health,46-60,Female,55.42
+Kind Action 9,O09,Health,46-60,Male,43.15
+Kind Action 9,O09,Health,Above 60,Female,0
+Kind Action 9,O09,Health,Above 60,Male,230.71
+Kind Action 9,O09,Education,18-25,Female,168.03
+Kind Action 9,O09,Education,18-25,Male,61.79
+Kind Action 9,O09,Education,26-45,Female,0
+Kind Action 9,O09,Education,26-45,Male,89.36
+Kind Action 9,O09,Education,46-60,Female,383.88
+Kind Action 9,O09,Education,46-60,Male,9.79
+Kind Action 9,O09,Education,Above 60,Female,47.03
+Kind Action 9,O09,Education,Above 60,Male,301.12
+Kind Action 9,O09,Law,18-25,Female,0
+Kind Action 9,O09,Law,18-25,Male,1.06
+Kind Action 9,O09,Law,26-45,Female,2.7
+Kind Action 9,O09,Law,26-45,Male,7.27
+Kind Action 9,O09,Law,46-60,Female,1.64
+Kind Action 9,O09,Law,46-60,Male,1.92
+Kind Action 9,O09,Law,Above 60,Female,1.36
+Kind Action 9,O09,Law,Above 60,Male,0.05
+Kind Action 9,O09,Community,18-25,Female,0
+Kind Action 9,O09,Community,18-25,Male,191.54
+Kind Action 9,O09,Community,26-45,Female,1542.51
+Kind Action 9,O09,Community,26-45,Male,100.29
+Kind Action 9,O09,Community,46-60,Female,2315.82
+Kind Action 9,O09,Community,46-60,Male,3605.39
+Kind Action 9,O09,Community,Above 60,Female,3179.58
+Kind Action 9,O09,Community,Above 60,Male,53.87
+Echo Minds 10,O10,Environment,18-25,Female,156.34
+Echo Minds 10,O10,Environment,18-25,Male,371.38
+Echo Minds 10,O10,Environment,26-45,Female,20.08
+Echo Minds 10,O10,Environment,26-45,Male,1801.48
+Echo Minds 10,O10,Environment,46-60,Female,1683.68
+Echo Minds 10,O10,Environment,46-60,Male,1594.82
+Echo Minds 10,O10,Environment,Above 60,Female,233.22
+Echo Minds 10,O10,Environment,Above 60,Male,0
+Echo Minds 10,O10,Health,18-25,Female,0
+Echo Minds 10,O10,Health,18-25,Male,573.98
+Echo Minds 10,O10,Health,26-45,Female,12.1
+Echo Minds 10,O10,Health,26-45,Male,918.17
+Echo Minds 10,O10,Health,46-60,Female,832.7
+Echo Minds 10,O10,Health,46-60,Male,1203.89
+Echo Minds 10,O10,Health,Above 60,Female,555.73
+Echo Minds 10,O10,Health,Above 60,Male,281.43
+Echo Minds 10,O10,Education,18-25,Female,0
+Echo Minds 10,O10,Education,18-25,Male,1361.83
+Echo Minds 10,O10,Education,26-45,Female,494.39
+Echo Minds 10,O10,Education,26-45,Male,2829.52
+Echo Minds 10,O10,Education,46-60,Female,291.37
+Echo Minds 10,O10,Education,46-60,Male,344.34
+Echo Minds 10,O10,Education,Above 60,Female,545.67
+Echo Minds 10,O10,Education,Above 60,Male,356.88
+Echo Minds 10,O10,Law,18-25,Female,113.31
+Echo Minds 10,O10,Law,18-25,Male,340.46
+Echo Minds 10,O10,Law,26-45,Female,313.47
+Echo Minds 10,O10,Law,26-45,Male,254.49
+Echo Minds 10,O10,Law,46-60,Female,187.07
+Echo Minds 10,O10,Law,46-60,Male,0
+Echo Minds 10,O10,Law,Above 60,Female,79.7
+Echo Minds 10,O10,Law,Above 60,Male,254.5
+Echo Minds 10,O10,Community,18-25,Female,0
+Echo Minds 10,O10,Community,18-25,Male,86.92
+Echo Minds 10,O10,Community,26-45,Female,147.17
+Echo Minds 10,O10,Community,26-45,Male,305.35
+Echo Minds 10,O10,Community,46-60,Female,185.84
+Echo Minds 10,O10,Community,46-60,Male,409.78
+Echo Minds 10,O10,Community,Above 60,Female,79.83
+Echo Minds 10,O10,Community,Above 60,Male,942.11
+Prime Aid 11,O11,Environment,18-25,Female,0
+Prime Aid 11,O11,Environment,18-25,Male,134.89
+Prime Aid 11,O11,Environment,26-45,Female,139.62
+Prime Aid 11,O11,Environment,26-45,Male,349.54
+Prime Aid 11,O11,Environment,46-60,Female,25.38
+Prime Aid 11,O11,Environment,46-60,Male,334.95
+Prime Aid 11,O11,Environment,Above 60,Female,152.05
+Prime Aid 11,O11,Environment,Above 60,Male,747.57
+Prime Aid 11,O11,Health,18-25,Female,853.49
+Prime Aid 11,O11,Health,18-25,Male,0
+Prime Aid 11,O11,Health,26-45,Female,122.87
+Prime Aid 11,O11,Health,26-45,Male,227.8
+Prime Aid 11,O11,Health,46-60,Female,203.23
+Prime Aid 11,O11,Health,46-60,Male,536.31
+Prime Aid 11,O11,Health,Above 60,Female,33.74
+Prime Aid 11,O11,Health,Above 60,Male,61.56
+Prime Aid 11,O11,Education,18-25,Female,2439.64
+Prime Aid 11,O11,Education,18-25,Male,2.32
+Prime Aid 11,O11,Education,26-45,Female,398.61
+Prime Aid 11,O11,Education,26-45,Male,835.62
+Prime Aid 11,O11,Education,46-60,Female,0
+Prime Aid 11,O11,Education,46-60,Male,935.12
+Prime Aid 11,O11,Education,Above 60,Female,1074.52
+Prime Aid 11,O11,Education,Above 60,Male,637.17
+Prime Aid 11,O11,Law,18-25,Female,1165.51
+Prime Aid 11,O11,Law,18-25,Male,3543.08
+Prime Aid 11,O11,Law,26-45,Female,0
+Prime Aid 11,O11,Law,26-45,Male,673.95
+Prime Aid 11,O11,Law,46-60,Female,1126.4
+Prime Aid 11,O11,Law,46-60,Male,76.05
+Prime Aid 11,O11,Law,Above 60,Female,147.99
+Prime Aid 11,O11,Law,Above 60,Male,241.02
+Prime Aid 11,O11,Community,18-25,Female,66.49
+Prime Aid 11,O11,Community,18-25,Male,205.9
+Prime Aid 11,O11,Community,26-45,Female,4752.5
+Prime Aid 11,O11,Community,26-45,Male,9.32
+Prime Aid 11,O11,Community,46-60,Female,1814.9
+Prime Aid 11,O11,Community,46-60,Male,2395.52
+Prime Aid 11,O11,Community,Above 60,Female,698.37
+Prime Aid 11,O11,Community,Above 60,Male,0
+South Action 12,O12,Environment,18-25,Female,0
+South Action 12,O12,Environment,18-25,Male,220.52
+South Action 12,O12,Environment,26-45,Female,201.44
+South Action 12,O12,Environment,26-45,Male,340.27
+South Action 12,O12,Environment,46-60,Female,230.41
+South Action 12,O12,Environment,46-60,Male,675.45
+South Action 12,O12,Environment,Above 60,Female,835.62
+South Action 12,O12,Environment,Above 60,Male,168.29
+South Action 12,O12,Health,18-25,Female,190.74
+South Action 12,O12,Health,18-25,Male,91.18
+South Action 12,O12,Health,26-45,Female,0
+South Action 12,O12,Health,26-45,Male,20.82
+South Action 12,O12,Health,46-60,Female,196.23
+South Action 12,O12,Health,46-60,Male,31.77
+South Action 12,O12,Health,Above 60,Female,236.7
+South Action 12,O12,Health,Above 60,Male,3.56
+South Action 12,O12,Education,18-25,Female,68.69
+South Action 12,O12,Education,18-25,Male,415.99
+South Action 12,O12,Education,26-45,Female,154.89
+South Action 12,O12,Education,26-45,Male,126.58
+South Action 12,O12,Education,46-60,Female,556.72
+South Action 12,O12,Education,46-60,Male,973.74
+South Action 12,O12,Education,Above 60,Female,0
+South Action 12,O12,Education,Above 60,Male,62.39
+South Action 12,O12,Law,18-25,Female,52.56
+South Action 12,O12,Law,18-25,Male,1827.66
+South Action 12,O12,Law,26-45,Female,64.39
+South Action 12,O12,Law,26-45,Male,159.81
+South Action 12,O12,Law,46-60,Female,0
+South Action 12,O12,Law,46-60,Male,918.98
+South Action 12,O12,Law,Above 60,Female,1028.53
+South Action 12,O12,Law,Above 60,Male,2805.07
+South Action 12,O12,Community,18-25,Female,0
+South Action 12,O12,Community,18-25,Male,447.42
+South Action 12,O12,Community,26-45,Female,1441.05
+South Action 12,O12,Community,26-45,Male,784.92
+South Action 12,O12,Community,46-60,Female,88.11
+South Action 12,O12,Community,46-60,Male,683.41
+South Action 12,O12,Community,Above 60,Female,821.84
+South Action 12,O12,Community,Above 60,Male,458.25
+East Roots 13,O13,Environment,18-25,Female,798.39
+East Roots 13,O13,Environment,18-25,Male,661.05
+East Roots 13,O13,Environment,26-45,Female,293.71
+East Roots 13,O13,Environment,26-45,Male,0
+East Roots 13,O13,Environment,46-60,Female,30.8
+East Roots 13,O13,Environment,46-60,Male,480.84
+East Roots 13,O13,Environment,Above 60,Female,934.49
+East Roots 13,O13,Environment,Above 60,Male,1394.72
+East Roots 13,O13,Health,18-25,Female,18.67
+East Roots 13,O13,Health,18-25,Male,68.98
+East Roots 13,O13,Health,26-45,Female,34.85
+East Roots 13,O13,Health,26-45,Male,5.65
+East Roots 13,O13,Health,46-60,Female,198.75
+East Roots 13,O13,Health,46-60,Male,38.32
+East Roots 13,O13,Health,Above 60,Female,193.78
+East Roots 13,O13,Health,Above 60,Male,0
+East Roots 13,O13,Education,18-25,Female,0
+East Roots 13,O13,Education,18-25,Male,1080.98
+East Roots 13,O13,Education,26-45,Female,390.34
+East Roots 13,O13,Education,26-45,Male,1091.62
+East Roots 13,O13,Education,46-60,Female,4029.17
+East Roots 13,O13,Education,46-60,Male,263.86
+East Roots 13,O13,Education,Above 60,Female,511.18
+East Roots 13,O13,Education,Above 60,Male,514.85
+East Roots 13,O13,Law,18-25,Female,1783.38
+East Roots 13,O13,Law,18-25,Male,347.33
+East Roots 13,O13,Law,26-45,Female,0
+East Roots 13,O13,Law,26-45,Male,32.85
+East Roots 13,O13,Law,46-60,Female,5014.02
+East Roots 13,O13,Law,46-60,Male,2478.11
+East Roots 13,O13,Law,Above 60,Female,9264.48
+East Roots 13,O13,Law,Above 60,Male,1618.83
+East Roots 13,O13,Community,18-25,Female,319.3
+East Roots 13,O13,Community,18-25,Male,0
+East Roots 13,O13,Community,26-45,Female,550.06
+East Roots 13,O13,Community,26-45,Male,182.98
+East Roots 13,O13,Community,46-60,Female,688.01
+East Roots 13,O13,Community,46-60,Male,1921.82
+East Roots 13,O13,Community,Above 60,Female,152.31
+East Roots 13,O13,Community,Above 60,Male,96.52
+Bridge Earth 14,O14,Environment,18-25,Female,2237.77
+Bridge Earth 14,O14,Environment,18-25,Male,0
+Bridge Earth 14,O14,Environment,26-45,Female,665.22
+Bridge Earth 14,O14,Environment,26-45,Male,985.88
+Bridge Earth 14,O14,Environment,46-60,Female,3493.45
+Bridge Earth 14,O14,Environment,46-60,Male,1360.73
+Bridge Earth 14,O14,Environment,Above 60,Female,7222.55
+Bridge Earth 14,O14,Environment,Above 60,Male,1944.4
+Bridge Earth 14,O14,Health,18-25,Female,358.68
+Bridge Earth 14,O14,Health,18-25,Male,171.86
+Bridge Earth 14,O14,Health,26-45,Female,923.24
+Bridge Earth 14,O14,Health,26-45,Male,101.02
+Bridge Earth 14,O14,Health,46-60,Female,0
+Bridge Earth 14,O14,Health,46-60,Male,382.06
+Bridge Earth 14,O14,Health,Above 60,Female,2325.19
+Bridge Earth 14,O14,Health,Above 60,Male,885.95
+Bridge Earth 14,O14,Education,18-25,Female,0
+Bridge Earth 14,O14,Education,18-25,Male,813.76
+Bridge Earth 14,O14,Education,26-45,Female,1040.53
+Bridge Earth 14,O14,Education,26-45,Male,2297.37
+Bridge Earth 14,O14,Education,46-60,Female,2869.92
+Bridge Earth 14,O14,Education,46-60,Male,274.11
+Bridge Earth 14,O14,Education,Above 60,Female,369.05
+Bridge Earth 14,O14,Education,Above 60,Male,1810.26
+Bridge Earth 14,O14,Law,18-25,Female,185.35
+Bridge Earth 14,O14,Law,18-25,Male,233.55
+Bridge Earth 14,O14,Law,26-45,Female,174.8
+Bridge Earth 14,O14,Law,26-45,Male,0
+Bridge Earth 14,O14,Law,46-60,Female,325.04
+Bridge Earth 14,O14,Law,46-60,Male,1394.01
+Bridge Earth 14,O14,Law,Above 60,Female,336.28
+Bridge Earth 14,O14,Law,Above 60,Male,44.97
+Bridge Earth 14,O14,Community,18-25,Female,3.65
+Bridge Earth 14,O14,Community,18-25,Male,23.96
+Bridge Earth 14,O14,Community,26-45,Female,8.69
+Bridge Earth 14,O14,Community,26-45,Male,7.05
+Bridge Earth 14,O14,Community,46-60,Female,0
+Bridge Earth 14,O14,Community,46-60,Male,0.88
+Bridge Earth 14,O14,Community,Above 60,Female,1.13
+Bridge Earth 14,O14,Community,Above 60,Male,3.64
+Bridge Access 15,O15,Environment,18-25,Female,235.56
+Bridge Access 15,O15,Environment,18-25,Male,2032.56
+Bridge Access 15,O15,Environment,26-45,Female,248.24
+Bridge Access 15,O15,Environment,26-45,Male,2.71
+Bridge Access 15,O15,Environment,46-60,Female,0
+Bridge Access 15,O15,Environment,46-60,Male,62.41
+Bridge Access 15,O15,Environment,Above 60,Female,22.45
+Bridge Access 15,O15,Environment,Above 60,Male,102.07
+Bridge Access 15,O15,Health,18-25,Female,932.37
+Bridge Access 15,O15,Health,18-25,Male,2470.53
+Bridge Access 15,O15,Health,26-45,Female,3289.03
+Bridge Access 15,O15,Health,26-45,Male,85.78
+Bridge Access 15,O15,Health,46-60,Female,313.8
+Bridge Access 15,O15,Health,46-60,Male,779.16
+Bridge Access 15,O15,Health,Above 60,Female,0
+Bridge Access 15,O15,Health,Above 60,Male,321.33
+Bridge Access 15,O15,Education,18-25,Female,0
+Bridge Access 15,O15,Education,18-25,Male,483.2
+Bridge Access 15,O15,Education,26-45,Female,868.45
+Bridge Access 15,O15,Education,26-45,Male,542.23
+Bridge Access 15,O15,Education,46-60,Female,302.91
+Bridge Access 15,O15,Education,46-60,Male,506.61
+Bridge Access 15,O15,Education,Above 60,Female,563.53
+Bridge Access 15,O15,Education,Above 60,Male,54.07
+Bridge Access 15,O15,Law,18-25,Female,91.53
+Bridge Access 15,O15,Law,18-25,Male,459.29
+Bridge Access 15,O15,Law,26-45,Female,358.05
+Bridge Access 15,O15,Law,26-45,Male,847.18
+Bridge Access 15,O15,Law,46-60,Female,785.33
+Bridge Access 15,O15,Law,46-60,Male,25.26
+Bridge Access 15,O15,Law,Above 60,Female,0
+Bridge Access 15,O15,Law,Above 60,Male,188.36
+Bridge Access 15,O15,Community,18-25,Female,123.43
+Bridge Access 15,O15,Community,18-25,Male,282
+Bridge Access 15,O15,Community,26-45,Female,0
+Bridge Access 15,O15,Community,26-45,Male,269.74
+Bridge Access 15,O15,Community,46-60,Female,786.51
+Bridge Access 15,O15,Community,46-60,Male,481.91
+Bridge Access 15,O15,Community,Above 60,Female,310.47
+Bridge Access 15,O15,Community,Above 60,Male,911.94
+Green Partners 16,O16,Environment,18-25,Female,579.95
+Green Partners 16,O16,Environment,18-25,Male,590.95
+Green Partners 16,O16,Environment,26-45,Female,0
+Green Partners 16,O16,Environment,26-45,Male,233.88
+Green Partners 16,O16,Environment,46-60,Female,282.83
+Green Partners 16,O16,Environment,46-60,Male,706.66
+Green Partners 16,O16,Environment,Above 60,Female,989.57
+Green Partners 16,O16,Environment,Above 60,Male,262.16
+Green Partners 16,O16,Health,18-25,Female,0
+Green Partners 16,O16,Health,18-25,Male,1055.66
+Green Partners 16,O16,Health,26-45,Female,168.29
+Green Partners 16,O16,Health,26-45,Male,447.55
+Green Partners 16,O16,Health,46-60,Female,483.64
+Green Partners 16,O16,Health,46-60,Male,169.93
+Green Partners 16,O16,Health,Above 60,Female,383.34
+Green Partners 16,O16,Health,Above 60,Male,581.59
+Green Partners 16,O16,Education,18-25,Female,0
+Green Partners 16,O16,Education,18-25,Male,9.01
+Green Partners 16,O16,Education,26-45,Female,270.16
+Green Partners 16,O16,Education,26-45,Male,909.65
+Green Partners 16,O16,Education,46-60,Female,461.15
+Green Partners 16,O16,Education,46-60,Male,277.8
+Green Partners 16,O16,Education,Above 60,Female,1256.44
+Green Partners 16,O16,Education,Above 60,Male,499.79
+Green Partners 16,O16,Law,18-25,Female,275.84
+Green Partners 16,O16,Law,18-25,Male,1418.36
+Green Partners 16,O16,Law,26-45,Female,3422.95
+Green Partners 16,O16,Law,26-45,Male,1596.77
+Green Partners 16,O16,Law,46-60,Female,0
+Green Partners 16,O16,Law,46-60,Male,7291.25
+Green Partners 16,O16,Law,Above 60,Female,1871.2
+Green Partners 16,O16,Law,Above 60,Male,1725.63
+Green Partners 16,O16,Community,18-25,Female,20.13
+Green Partners 16,O16,Community,18-25,Male,0
+Green Partners 16,O16,Community,26-45,Female,272.97
+Green Partners 16,O16,Community,26-45,Male,553.35
+Green Partners 16,O16,Community,46-60,Female,166.7
+Green Partners 16,O16,Community,46-60,Male,802.7
+Green Partners 16,O16,Community,Above 60,Female,371.94
+Green Partners 16,O16,Community,Above 60,Male,392.21
+North Trust 17,O17,Environment,18-25,Female,150.69
+North Trust 17,O17,Environment,18-25,Male,289.76
+North Trust 17,O17,Environment,26-45,Female,187.94
+North Trust 17,O17,Environment,26-45,Male,2.03
+North Trust 17,O17,Environment,46-60,Female,46.95
+North Trust 17,O17,Environment,46-60,Male,0
+North Trust 17,O17,Environment,Above 60,Female,130.77
+North Trust 17,O17,Environment,Above 60,Male,397.86
+North Trust 17,O17,Health,18-25,Female,61.54
+North Trust 17,O17,Health,18-25,Male,311.13
+North Trust 17,O17,Health,26-45,Female,39.24
+North Trust 17,O17,Health,26-45,Male,165.58
+North Trust 17,O17,Health,46-60,Female,0
+North Trust 17,O17,Health,46-60,Male,23.19
+North Trust 17,O17,Health,Above 60,Female,60.27
+North Trust 17,O17,Health,Above 60,Male,315.05
+North Trust 17,O17,Education,18-25,Female,130.39
+North Trust 17,O17,Education,18-25,Male,20.98
+North Trust 17,O17,Education,26-45,Female,83.76
+North Trust 17,O17,Education,26-45,Male,26.13
+North Trust 17,O17,Education,46-60,Female,47.49
+North Trust 17,O17,Education,46-60,Male,0
+North Trust 17,O17,Education,Above 60,Female,11.61
+North Trust 17,O17,Education,Above 60,Male,92.64
+North Trust 17,O17,Law,18-25,Female,1246.3
+North Trust 17,O17,Law,18-25,Male,3483.69
+North Trust 17,O17,Law,26-45,Female,1159.93
+North Trust 17,O17,Law,26-45,Male,656.58
+North Trust 17,O17,Law,46-60,Female,0
+North Trust 17,O17,Law,46-60,Male,1439.16
+North Trust 17,O17,Law,Above 60,Female,1123.97
+North Trust 17,O17,Law,Above 60,Male,743.37
+North Trust 17,O17,Community,18-25,Female,130.29
+North Trust 17,O17,Community,18-25,Male,1075.77
+North Trust 17,O17,Community,26-45,Female,28.25
+North Trust 17,O17,Community,26-45,Male,370.5
+North Trust 17,O17,Community,46-60,Female,0
+North Trust 17,O17,Community,46-60,Male,63.5
+North Trust 17,O17,Community,Above 60,Female,66.82
+North Trust 17,O17,Community,Above 60,Male,9.87
+Echo Network 18,O18,Environment,18-25,Female,535.06
+Echo Network 18,O18,Environment,18-25,Male,1034.78
+Echo Network 18,O18,Environment,26-45,Female,321.57
+Echo Network 18,O18,Environment,26-45,Male,1.32
+Echo Network 18,O18,Environment,46-60,Female,0
+Echo Network 18,O18,Environment,46-60,Male,87.41
+Echo Network 18,O18,Environment,Above 60,Female,160.95
+Echo Network 18,O18,Environment,Above 60,Male,20.91
+Echo Network 18,O18,Health,18-25,Female,0
+Echo Network 18,O18,Health,18-25,Male,40.22
+Echo Network 18,O18,Health,26-45,Female,70.33
+Echo Network 18,O18,Health,26-45,Male,163.05
+Echo Network 18,O18,Health,46-60,Female,29.2
+Echo Network 18,O18,Health,46-60,Male,11.34
+Echo Network 18,O18,Health,Above 60,Female,6.29
+Echo Network 18,O18,Health,Above 60,Male,21.57
+Echo Network 18,O18,Education,18-25,Female,291.04
+Echo Network 18,O18,Education,18-25,Male,114.2
+Echo Network 18,O18,Education,26-45,Female,9.92
+Echo Network 18,O18,Education,26-45,Male,94.85
+Echo Network 18,O18,Education,46-60,Female,884.45
+Echo Network 18,O18,Education,46-60,Male,57.39
+Echo Network 18,O18,Education,Above 60,Female,0
+Echo Network 18,O18,Education,Above 60,Male,130.15
+Echo Network 18,O18,Law,18-25,Female,1529.29
+Echo Network 18,O18,Law,18-25,Male,1851.47
+Echo Network 18,O18,Law,26-45,Female,0
+Echo Network 18,O18,Law,26-45,Male,884.62
+Echo Network 18,O18,Law,46-60,Female,1476.58
+Echo Network 18,O18,Law,46-60,Male,753.54
+Echo Network 18,O18,Law,Above 60,Female,1226.71
+Echo Network 18,O18,Law,Above 60,Male,836.79
+Echo Network 18,O18,Community,18-25,Female,93.29
+Echo Network 18,O18,Community,18-25,Male,417.04
+Echo Network 18,O18,Community,26-45,Female,0
+Echo Network 18,O18,Community,26-45,Male,41.48
+Echo Network 18,O18,Community,46-60,Female,432.95
+Echo Network 18,O18,Community,46-60,Male,63.65
+Echo Network 18,O18,Community,Above 60,Female,177.31
+Echo Network 18,O18,Community,Above 60,Male,108.28
+Kind Roots 19,O19,Environment,18-25,Female,0
+Kind Roots 19,O19,Environment,18-25,Male,154.66
+Kind Roots 19,O19,Environment,26-45,Female,725.52
+Kind Roots 19,O19,Environment,26-45,Male,1333.31
+Kind Roots 19,O19,Environment,46-60,Female,535.49
+Kind Roots 19,O19,Environment,46-60,Male,660.07
+Kind Roots 19,O19,Environment,Above 60,Female,374.5
+Kind Roots 19,O19,Environment,Above 60,Male,979.45
+Kind Roots 19,O19,Health,18-25,Female,364.75
+Kind Roots 19,O19,Health,18-25,Male,458.47
+Kind Roots 19,O19,Health,26-45,Female,275.07
+Kind Roots 19,O19,Health,26-45,Male,130.65
+Kind Roots 19,O19,Health,46-60,Female,21.27
+Kind Roots 19,O19,Health,46-60,Male,0
+Kind Roots 19,O19,Health,Above 60,Female,375.87
+Kind Roots 19,O19,Health,Above 60,Male,85.92
+Kind Roots 19,O19,Education,18-25,Female,496.69
+Kind Roots 19,O19,Education,18-25,Male,11.68
+Kind Roots 19,O19,Education,26-45,Female,722.78
+Kind Roots 19,O19,Education,26-45,Male,0
+Kind Roots 19,O19,Education,46-60,Female,432.04
+Kind Roots 19,O19,Education,46-60,Male,128.22
+Kind Roots 19,O19,Education,Above 60,Female,138.57
+Kind Roots 19,O19,Education,Above 60,Male,432.02
+Kind Roots 19,O19,Law,18-25,Female,414.52
+Kind Roots 19,O19,Law,18-25,Male,0
+Kind Roots 19,O19,Law,26-45,Female,177.98
+Kind Roots 19,O19,Law,26-45,Male,74.28
+Kind Roots 19,O19,Law,46-60,Female,54.98
+Kind Roots 19,O19,Law,46-60,Male,81.84
+Kind Roots 19,O19,Law,Above 60,Female,563.69
+Kind Roots 19,O19,Law,Above 60,Male,55.71
+Kind Roots 19,O19,Community,18-25,Female,1.43
+Kind Roots 19,O19,Community,18-25,Male,2.45
+Kind Roots 19,O19,Community,26-45,Female,1.37
+Kind Roots 19,O19,Community,26-45,Male,4.61
+Kind Roots 19,O19,Community,46-60,Female,6.45
+Kind Roots 19,O19,Community,46-60,Male,3.01
+Kind Roots 19,O19,Community,Above 60,Female,0.68
+Kind Roots 19,O19,Community,Above 60,Male,0
+Unity Action 20,O20,Environment,18-25,Female,224.16
+Unity Action 20,O20,Environment,18-25,Male,273.56
+Unity Action 20,O20,Environment,26-45,Female,579.45
+Unity Action 20,O20,Environment,26-45,Male,40.23
+Unity Action 20,O20,Environment,46-60,Female,959.14
+Unity Action 20,O20,Environment,46-60,Male,0
+Unity Action 20,O20,Environment,Above 60,Female,162.5
+Unity Action 20,O20,Environment,Above 60,Male,1027.96
+Unity Action 20,O20,Health,18-25,Female,177.1
+Unity Action 20,O20,Health,18-25,Male,52.52
+Unity Action 20,O20,Health,26-45,Female,0
+Unity Action 20,O20,Health,26-45,Male,69.53
+Unity Action 20,O20,Health,46-60,Female,14.44
+Unity Action 20,O20,Health,46-60,Male,209.36
+Unity Action 20,O20,Health,Above 60,Female,84.73
+Unity Action 20,O20,Health,Above 60,Male,88.32
+Unity Action 20,O20,Education,18-25,Female,16.66
+Unity Action 20,O20,Education,18-25,Male,37.11
+Unity Action 20,O20,Education,26-45,Female,11.17
+Unity Action 20,O20,Education,26-45,Male,31.61
+Unity Action 20,O20,Education,46-60,Female,329.62
+Unity Action 20,O20,Education,46-60,Male,413.74
+Unity Action 20,O20,Education,Above 60,Female,271.09
+Unity Action 20,O20,Education,Above 60,Male,0
+Unity Action 20,O20,Law,18-25,Female,71.29
+Unity Action 20,O20,Law,18-25,Male,0
+Unity Action 20,O20,Law,26-45,Female,80.38
+Unity Action 20,O20,Law,26-45,Male,178.22
+Unity Action 20,O20,Law,46-60,Female,1461.47
+Unity Action 20,O20,Law,46-60,Male,69.7
+Unity Action 20,O20,Law,Above 60,Female,437.44
+Unity Action 20,O20,Law,Above 60,Male,106.5
+Unity Action 20,O20,Community,18-25,Female,304.08
+Unity Action 20,O20,Community,18-25,Male,1308.82
+Unity Action 20,O20,Community,26-45,Female,977.01
+Unity Action 20,O20,Community,26-45,Male,193.05
+Unity Action 20,O20,Community,46-60,Female,0
+Unity Action 20,O20,Community,46-60,Male,671.27
+Unity Action 20,O20,Community,Above 60,Female,969.66
+Unity Action 20,O20,Community,Above 60,Male,2165.11
+Blue Trust 21,O21,Environment,18-25,Female,32.47
+Blue Trust 21,O21,Environment,18-25,Male,696.67
+Blue Trust 21,O21,Environment,26-45,Female,31.16
+Blue Trust 21,O21,Environment,26-45,Male,567.16
+Blue Trust 21,O21,Environment,46-60,Female,345.62
+Blue Trust 21,O21,Environment,46-60,Male,118.88
+Blue Trust 21,O21,Environment,Above 60,Female,0
+Blue Trust 21,O21,Environment,Above 60,Male,5.04
+Blue Trust 21,O21,Health,18-25,Female,236.43
+Blue Trust 21,O21,Health,18-25,Male,731.26
+Blue Trust 21,O21,Health,26-45,Female,226.07
+Blue Trust 21,O21,Health,26-45,Male,763.78
+Blue Trust 21,O21,Health,46-60,Female,0
+Blue Trust 21,O21,Health,46-60,Male,206.85
+Blue Trust 21,O21,Health,Above 60,Female,511.8
+Blue Trust 21,O21,Health,Above 60,Male,472.81
+Blue Trust 21,O21,Education,18-25,Female,0
+Blue Trust 21,O21,Education,18-25,Male,274.94
+Blue Trust 21,O21,Education,26-45,Female,627.12
+Blue Trust 21,O21,Education,26-45,Male,219.96
+Blue Trust 21,O21,Education,46-60,Female,209.91
+Blue Trust 21,O21,Education,46-60,Male,468.95
+Blue Trust 21,O21,Education,Above 60,Female,1728.85
+Blue Trust 21,O21,Education,Above 60,Male,600.27
+Blue Trust 21,O21,Law,18-25,Female,285.15
+Blue Trust 21,O21,Law,18-25,Male,327.4
+Blue Trust 21,O21,Law,26-45,Female,0
+Blue Trust 21,O21,Law,26-45,Male,19.28
+Blue Trust 21,O21,Law,46-60,Female,89
+Blue Trust 21,O21,Law,46-60,Male,72.2
+Blue Trust 21,O21,Law,Above 60,Female,71.17
+Blue Trust 21,O21,Law,Above 60,Male,8.8
+Blue Trust 21,O21,Community,18-25,Female,47.74
+Blue Trust 21,O21,Community,18-25,Male,754.26
+Blue Trust 21,O21,Community,26-45,Female,50.14
+Blue Trust 21,O21,Community,26-45,Male,655.83
+Blue Trust 21,O21,Community,46-60,Female,207.27
+Blue Trust 21,O21,Community,46-60,Male,145.33
+Blue Trust 21,O21,Community,Above 60,Female,0
+Blue Trust 21,O21,Community,Above 60,Male,1600.43
+West Aid 22,O22,Environment,18-25,Female,0
+West Aid 22,O22,Environment,18-25,Male,542.92
+West Aid 22,O22,Environment,26-45,Female,309.97
+West Aid 22,O22,Environment,26-45,Male,348.91
+West Aid 22,O22,Environment,46-60,Female,399.83
+West Aid 22,O22,Environment,46-60,Male,206.53
+West Aid 22,O22,Environment,Above 60,Female,709.36
+West Aid 22,O22,Environment,Above 60,Male,204.48
+West Aid 22,O22,Health,18-25,Female,82.57
+West Aid 22,O22,Health,18-25,Male,1332.82
+West Aid 22,O22,Health,26-45,Female,219.83
+West Aid 22,O22,Health,26-45,Male,910.68
+West Aid 22,O22,Health,46-60,Female,51.68
+West Aid 22,O22,Health,46-60,Male,3191.04
+West Aid 22,O22,Health,Above 60,Female,0
+West Aid 22,O22,Health,Above 60,Male,202.38
+West Aid 22,O22,Education,18-25,Female,2003.04
+West Aid 22,O22,Education,18-25,Male,675.87
+West Aid 22,O22,Education,26-45,Female,0
+West Aid 22,O22,Education,26-45,Male,79.57
+West Aid 22,O22,Education,46-60,Female,443.08
+West Aid 22,O22,Education,46-60,Male,395.42
+West Aid 22,O22,Education,Above 60,Female,1620.77
+West Aid 22,O22,Education,Above 60,Male,440.25
+West Aid 22,O22,Law,18-25,Female,383.07
+West Aid 22,O22,Law,18-25,Male,2756.93
+West Aid 22,O22,Law,26-45,Female,0
+West Aid 22,O22,Law,26-45,Male,1366.81
+West Aid 22,O22,Law,46-60,Female,2434.96
+West Aid 22,O22,Law,46-60,Male,615.58
+West Aid 22,O22,Law,Above 60,Female,1866.76
+West Aid 22,O22,Law,Above 60,Male,505.89
+West Aid 22,O22,Community,18-25,Female,5.15
+West Aid 22,O22,Community,18-25,Male,10.16
+West Aid 22,O22,Community,26-45,Female,20.17
+West Aid 22,O22,Community,26-45,Male,30.34
+West Aid 22,O22,Community,46-60,Female,12.33
+West Aid 22,O22,Community,46-60,Male,8.22
+West Aid 22,O22,Community,Above 60,Female,0
+West Aid 22,O22,Community,Above 60,Male,6.63
+True Minds 23,O23,Environment,18-25,Female,2639.53
+True Minds 23,O23,Environment,18-25,Male,616.17
+True Minds 23,O23,Environment,26-45,Female,0
+True Minds 23,O23,Environment,26-45,Male,3157.81
+True Minds 23,O23,Environment,46-60,Female,965
+True Minds 23,O23,Environment,46-60,Male,1283.07
+True Minds 23,O23,Environment,Above 60,Female,1081.12
+True Minds 23,O23,Environment,Above 60,Male,150.3
+True Minds 23,O23,Health,18-25,Female,271.21
+True Minds 23,O23,Health,18-25,Male,446.31
+True Minds 23,O23,Health,26-45,Female,210.8
+True Minds 23,O23,Health,26-45,Male,1200.68
+True Minds 23,O23,Health,46-60,Female,781.93
+True Minds 23,O23,Health,46-60,Male,1774.98
+True Minds 23,O23,Health,Above 60,Female,9055.09
+True Minds 23,O23,Health,Above 60,Male,0
+True Minds 23,O23,Education,18-25,Female,114.3
+True Minds 23,O23,Education,18-25,Male,33.32
+True Minds 23,O23,Education,26-45,Female,97.4
+True Minds 23,O23,Education,26-45,Male,35.47
+True Minds 23,O23,Education,46-60,Female,17.59
+True Minds 23,O23,Education,46-60,Male,48.92
+True Minds 23,O23,Education,Above 60,Female,0
+True Minds 23,O23,Education,Above 60,Male,33
+True Minds 23,O23,Law,18-25,Female,0
+True Minds 23,O23,Law,18-25,Male,6.01
+True Minds 23,O23,Law,26-45,Female,573.14
+True Minds 23,O23,Law,26-45,Male,74.74
+True Minds 23,O23,Law,46-60,Female,166.53
+True Minds 23,O23,Law,46-60,Male,895.97
+True Minds 23,O23,Law,Above 60,Female,98.35
+True Minds 23,O23,Law,Above 60,Male,722.26
+True Minds 23,O23,Community,18-25,Female,184.83
+True Minds 23,O23,Community,18-25,Male,414.69
+True Minds 23,O23,Community,26-45,Female,398.65
+True Minds 23,O23,Community,26-45,Male,657.27
+True Minds 23,O23,Community,46-60,Female,509.64
+True Minds 23,O23,Community,46-60,Male,362
+True Minds 23,O23,Community,Above 60,Female,0
+True Minds 23,O23,Community,Above 60,Male,296.92
+Open Access 24,O24,Environment,18-25,Female,1249.92
+Open Access 24,O24,Environment,18-25,Male,388.4
+Open Access 24,O24,Environment,26-45,Female,31.62
+Open Access 24,O24,Environment,26-45,Male,2375.15
+Open Access 24,O24,Environment,46-60,Female,3380.1
+Open Access 24,O24,Environment,46-60,Male,2172.3
+Open Access 24,O24,Environment,Above 60,Female,991.51
+Open Access 24,O24,Environment,Above 60,Male,0
+Open Access 24,O24,Health,18-25,Female,135.55
+Open Access 24,O24,Health,18-25,Male,833.06
+Open Access 24,O24,Health,26-45,Female,35.81
+Open Access 24,O24,Health,26-45,Male,149.59
+Open Access 24,O24,Health,46-60,Female,47.34
+Open Access 24,O24,Health,46-60,Male,266.51
+Open Access 24,O24,Health,Above 60,Female,0
+Open Access 24,O24,Health,Above 60,Male,357.14
+Open Access 24,O24,Education,18-25,Female,2142.79
+Open Access 24,O24,Education,18-25,Male,1691.42
+Open Access 24,O24,Education,26-45,Female,0
+Open Access 24,O24,Education,26-45,Male,859.12
+Open Access 24,O24,Education,46-60,Female,337.54
+Open Access 24,O24,Education,46-60,Male,2097.98
+Open Access 24,O24,Education,Above 60,Female,2740.93
+Open Access 24,O24,Education,Above 60,Male,4863.22
+Open Access 24,O24,Law,18-25,Female,1167.45
+Open Access 24,O24,Law,18-25,Male,694.21
+Open Access 24,O24,Law,26-45,Female,1055.96
+Open Access 24,O24,Law,26-45,Male,321.66
+Open Access 24,O24,Law,46-60,Female,0
+Open Access 24,O24,Law,46-60,Male,64.7
+Open Access 24,O24,Law,Above 60,Female,1265.17
+Open Access 24,O24,Law,Above 60,Male,150.85
+Open Access 24,O24,Community,18-25,Female,519.67
+Open Access 24,O24,Community,18-25,Male,158.85
+Open Access 24,O24,Community,26-45,Female,88.6
+Open Access 24,O24,Community,26-45,Male,821.42
+Open Access 24,O24,Community,46-60,Female,10.04
+Open Access 24,O24,Community,46-60,Male,1349.81
+Open Access 24,O24,Community,Above 60,Female,63.61
+Open Access 24,O24,Community,Above 60,Male,0
+Hope Path 25,O25,Environment,18-25,Female,0
+Hope Path 25,O25,Environment,18-25,Male,3564.32
+Hope Path 25,O25,Environment,26-45,Female,1131.41
+Hope Path 25,O25,Environment,26-45,Male,2457.69
+Hope Path 25,O25,Environment,46-60,Female,76.03
+Hope Path 25,O25,Environment,46-60,Male,2439.6
+Hope Path 25,O25,Environment,Above 60,Female,276.42
+Hope Path 25,O25,Environment,Above 60,Male,815.53
+Hope Path 25,O25,Health,18-25,Female,300.74
+Hope Path 25,O25,Health,18-25,Male,44.8
+Hope Path 25,O25,Health,26-45,Female,0
+Hope Path 25,O25,Health,26-45,Male,765.11
+Hope Path 25,O25,Health,46-60,Female,202.68
+Hope Path 25,O25,Health,46-60,Male,99.45
+Hope Path 25,O25,Health,Above 60,Female,125.83
+Hope Path 25,O25,Health,Above 60,Male,40.39
+Hope Path 25,O25,Education,18-25,Female,411.24
+Hope Path 25,O25,Education,18-25,Male,314.85
+Hope Path 25,O25,Education,26-45,Female,144.68
+Hope Path 25,O25,Education,26-45,Male,169.06
+Hope Path 25,O25,Education,46-60,Female,20.51
+Hope Path 25,O25,Education,46-60,Male,0
+Hope Path 25,O25,Education,Above 60,Female,130.66
+Hope Path 25,O25,Education,Above 60,Male,801
+Hope Path 25,O25,Law,18-25,Female,910.42
+Hope Path 25,O25,Law,18-25,Male,5525.37
+Hope Path 25,O25,Law,26-45,Female,467.11
+Hope Path 25,O25,Law,26-45,Male,787.81
+Hope Path 25,O25,Law,46-60,Female,0
+Hope Path 25,O25,Law,46-60,Male,139.72
+Hope Path 25,O25,Law,Above 60,Female,1475.5
+Hope Path 25,O25,Law,Above 60,Male,246.07
+Hope Path 25,O25,Community,18-25,Female,316.73
+Hope Path 25,O25,Community,18-25,Male,0
+Hope Path 25,O25,Community,26-45,Female,517.05
+Hope Path 25,O25,Community,26-45,Male,2414.97
+Hope Path 25,O25,Community,46-60,Female,1026.08
+Hope Path 25,O25,Community,46-60,Male,1050.02
+Hope Path 25,O25,Community,Above 60,Female,1816.19
+Hope Path 25,O25,Community,Above 60,Male,5418.96
+Nova Earth 26,O26,Environment,18-25,Female,1340.07
+Nova Earth 26,O26,Environment,18-25,Male,131.33
+Nova Earth 26,O26,Environment,26-45,Female,0
+Nova Earth 26,O26,Environment,26-45,Male,532.97
+Nova Earth 26,O26,Environment,46-60,Female,101.08
+Nova Earth 26,O26,Environment,46-60,Male,641.3
+Nova Earth 26,O26,Environment,Above 60,Female,643.38
+Nova Earth 26,O26,Environment,Above 60,Male,188.87
+Nova Earth 26,O26,Health,18-25,Female,185.34
+Nova Earth 26,O26,Health,18-25,Male,267.15
+Nova Earth 26,O26,Health,26-45,Female,2141.17
+Nova Earth 26,O26,Health,26-45,Male,2609.15
+Nova Earth 26,O26,Health,46-60,Female,822.96
+Nova Earth 26,O26,Health,46-60,Male,306.42
+Nova Earth 26,O26,Health,Above 60,Female,0
+Nova Earth 26,O26,Health,Above 60,Male,452.81
+Nova Earth 26,O26,Education,18-25,Female,40.59
+Nova Earth 26,O26,Education,18-25,Male,44.83
+Nova Earth 26,O26,Education,26-45,Female,83.89
+Nova Earth 26,O26,Education,26-45,Male,53.29
+Nova Earth 26,O26,Education,46-60,Female,33.43
+Nova Earth 26,O26,Education,46-60,Male,42.84
+Nova Earth 26,O26,Education,Above 60,Female,42.13
+Nova Earth 26,O26,Education,Above 60,Male,0
+Nova Earth 26,O26,Law,18-25,Female,390.66
+Nova Earth 26,O26,Law,18-25,Male,359.63
+Nova Earth 26,O26,Law,26-45,Female,214.7
+Nova Earth 26,O26,Law,26-45,Male,58.01
+Nova Earth 26,O26,Law,46-60,Female,240.04
+Nova Earth 26,O26,Law,46-60,Male,27.5
+Nova Earth 26,O26,Law,Above 60,Female,0
+Nova Earth 26,O26,Law,Above 60,Male,0.46
+Nova Earth 26,O26,Community,18-25,Female,685.09
+Nova Earth 26,O26,Community,18-25,Male,323.54
+Nova Earth 26,O26,Community,26-45,Female,172.27
+Nova Earth 26,O26,Community,26-45,Male,321.4
+Nova Earth 26,O26,Community,46-60,Female,132.66
+Nova Earth 26,O26,Community,46-60,Male,298.35
+Nova Earth 26,O26,Community,Above 60,Female,114.69
+Nova Earth 26,O26,Community,Above 60,Male,0
+East Community 27,O27,Environment,18-25,Female,425.35
+East Community 27,O27,Environment,18-25,Male,459.33
+East Community 27,O27,Environment,26-45,Female,358.93
+East Community 27,O27,Environment,26-45,Male,553.64
+East Community 27,O27,Environment,46-60,Female,0
+East Community 27,O27,Environment,46-60,Male,274.52
+East Community 27,O27,Environment,Above 60,Female,77.35
+East Community 27,O27,Environment,Above 60,Male,170.88
+East Community 27,O27,Health,18-25,Female,3220.43
+East Community 27,O27,Health,18-25,Male,749.64
+East Community 27,O27,Health,26-45,Female,620.24
+East Community 27,O27,Health,26-45,Male,0
+East Community 27,O27,Health,46-60,Female,978.59
+East Community 27,O27,Health,46-60,Male,726.87
+East Community 27,O27,Health,Above 60,Female,1947.2
+East Community 27,O27,Health,Above 60,Male,557.03
+East Community 27,O27,Education,18-25,Female,51.2
+East Community 27,O27,Education,18-25,Male,853.63
+East Community 27,O27,Education,26-45,Female,396.88
+East Community 27,O27,Education,26-45,Male,536.99
+East Community 27,O27,Education,46-60,Female,6231.36
+East Community 27,O27,Education,46-60,Male,0
+East Community 27,O27,Education,Above 60,Female,348.48
+East Community 27,O27,Education,Above 60,Male,377.46
+East Community 27,O27,Law,18-25,Female,1265.06
+East Community 27,O27,Law,18-25,Male,208.19
+East Community 27,O27,Law,26-45,Female,0
+East Community 27,O27,Law,26-45,Male,46.47
+East Community 27,O27,Law,46-60,Female,1313.55
+East Community 27,O27,Law,46-60,Male,1718.99
+East Community 27,O27,Law,Above 60,Female,519.57
+East Community 27,O27,Law,Above 60,Male,1524.17
+East Community 27,O27,Community,18-25,Female,74.9
+East Community 27,O27,Community,18-25,Male,0
+East Community 27,O27,Community,26-45,Female,59.19
+East Community 27,O27,Community,26-45,Male,58.92
+East Community 27,O27,Community,46-60,Female,52.47
+East Community 27,O27,Community,46-60,Male,124.35
+East Community 27,O27,Community,Above 60,Female,185.81
+East Community 27,O27,Community,Above 60,Male,158.36
+Nova Alliance 28,O28,Environment,18-25,Female,1135.23
+Nova Alliance 28,O28,Environment,18-25,Male,173.83
+Nova Alliance 28,O28,Environment,26-45,Female,1065.33
+Nova Alliance 28,O28,Environment,26-45,Male,247.17
+Nova Alliance 28,O28,Environment,46-60,Female,3612.17
+Nova Alliance 28,O28,Environment,46-60,Male,1490.85
+Nova Alliance 28,O28,Environment,Above 60,Female,85.42
+Nova Alliance 28,O28,Environment,Above 60,Male,0
+Nova Alliance 28,O28,Health,18-25,Female,336.18
+Nova Alliance 28,O28,Health,18-25,Male,757.57
+Nova Alliance 28,O28,Health,26-45,Female,0
+Nova Alliance 28,O28,Health,26-45,Male,273.76
+Nova Alliance 28,O28,Health,46-60,Female,3.17
+Nova Alliance 28,O28,Health,46-60,Male,13.62
+Nova Alliance 28,O28,Health,Above 60,Female,1.83
+Nova Alliance 28,O28,Health,Above 60,Male,49.87
+Nova Alliance 28,O28,Education,18-25,Female,0
+Nova Alliance 28,O28,Education,18-25,Male,683.15
+Nova Alliance 28,O28,Education,26-45,Female,3595.09
+Nova Alliance 28,O28,Education,26-45,Male,380.35
+Nova Alliance 28,O28,Education,46-60,Female,270.19
+Nova Alliance 28,O28,Education,46-60,Male,5043.01
+Nova Alliance 28,O28,Education,Above 60,Female,201.39
+Nova Alliance 28,O28,Education,Above 60,Male,122.82
+Nova Alliance 28,O28,Law,18-25,Female,403.07
+Nova Alliance 28,O28,Law,18-25,Male,706.32
+Nova Alliance 28,O28,Law,26-45,Female,2908.93
+Nova Alliance 28,O28,Law,26-45,Male,145.28
+Nova Alliance 28,O28,Law,46-60,Female,685.35
+Nova Alliance 28,O28,Law,46-60,Male,565.6
+Nova Alliance 28,O28,Law,Above 60,Female,1256.45
+Nova Alliance 28,O28,Law,Above 60,Male,0
+Nova Alliance 28,O28,Community,18-25,Female,0
+Nova Alliance 28,O28,Community,18-25,Male,1417.92
+Nova Alliance 28,O28,Community,26-45,Female,496.9
+Nova Alliance 28,O28,Community,26-45,Male,1177.56
+Nova Alliance 28,O28,Community,46-60,Female,1231.44
+Nova Alliance 28,O28,Community,46-60,Male,1751.27
+Nova Alliance 28,O28,Community,Above 60,Female,1652.45
+Nova Alliance 28,O28,Community,Above 60,Male,128.46
+Unity Hands 29,O29,Environment,18-25,Female,191.14
+Unity Hands 29,O29,Environment,18-25,Male,1752.88
+Unity Hands 29,O29,Environment,26-45,Female,0
+Unity Hands 29,O29,Environment,26-45,Male,77.25
+Unity Hands 29,O29,Environment,46-60,Female,113.05
+Unity Hands 29,O29,Environment,46-60,Male,1113.08
+Unity Hands 29,O29,Environment,Above 60,Female,931.2
+Unity Hands 29,O29,Environment,Above 60,Male,96.4
+Unity Hands 29,O29,Health,18-25,Female,28.02
+Unity Hands 29,O29,Health,18-25,Male,0
+Unity Hands 29,O29,Health,26-45,Female,14.6
+Unity Hands 29,O29,Health,26-45,Male,14.48
+Unity Hands 29,O29,Health,46-60,Female,20.04
+Unity Hands 29,O29,Health,46-60,Male,62.75
+Unity Hands 29,O29,Health,Above 60,Female,10.57
+Unity Hands 29,O29,Health,Above 60,Male,71.54
+Unity Hands 29,O29,Education,18-25,Female,83.22
+Unity Hands 29,O29,Education,18-25,Male,31.82
+Unity Hands 29,O29,Education,26-45,Female,106.67
+Unity Hands 29,O29,Education,26-45,Male,117.26
+Unity Hands 29,O29,Education,46-60,Female,89.18
+Unity Hands 29,O29,Education,46-60,Male,8.76
+Unity Hands 29,O29,Education,Above 60,Female,0
+Unity Hands 29,O29,Education,Above 60,Male,11.09
+Unity Hands 29,O29,Law,18-25,Female,198.68
+Unity Hands 29,O29,Law,18-25,Male,229.26
+Unity Hands 29,O29,Law,26-45,Female,154.08
+Unity Hands 29,O29,Law,26-45,Male,108.05
+Unity Hands 29,O29,Law,46-60,Female,616.91
+Unity Hands 29,O29,Law,46-60,Male,190.45
+Unity Hands 29,O29,Law,Above 60,Female,0
+Unity Hands 29,O29,Law,Above 60,Male,183.57
+Unity Hands 29,O29,Community,18-25,Female,806.96
+Unity Hands 29,O29,Community,18-25,Male,0
+Unity Hands 29,O29,Community,26-45,Female,643.01
+Unity Hands 29,O29,Community,26-45,Male,3005.98
+Unity Hands 29,O29,Community,46-60,Female,254.02
+Unity Hands 29,O29,Community,46-60,Male,1256.06
+Unity Hands 29,O29,Community,Above 60,Female,179.6
+Unity Hands 29,O29,Community,Above 60,Male,4430.37
+Green Circle 30,O30,Environment,18-25,Female,909.08
+Green Circle 30,O30,Environment,18-25,Male,0
+Green Circle 30,O30,Environment,26-45,Female,600.13
+Green Circle 30,O30,Environment,26-45,Male,1185.18
+Green Circle 30,O30,Environment,46-60,Female,288.26
+Green Circle 30,O30,Environment,46-60,Male,1719.39
+Green Circle 30,O30,Environment,Above 60,Female,463
+Green Circle 30,O30,Environment,Above 60,Male,97.96
+Green Circle 30,O30,Health,18-25,Female,160.02
+Green Circle 30,O30,Health,18-25,Male,1104.23
+Green Circle 30,O30,Health,26-45,Female,51.35
+Green Circle 30,O30,Health,26-45,Male,935.92
+Green Circle 30,O30,Health,46-60,Female,228.38
+Green Circle 30,O30,Health,46-60,Male,342.14
+Green Circle 30,O30,Health,Above 60,Female,590.96
+Green Circle 30,O30,Health,Above 60,Male,0
+Green Circle 30,O30,Education,18-25,Female,1366.03
+Green Circle 30,O30,Education,18-25,Male,0
+Green Circle 30,O30,Education,26-45,Female,110.19
+Green Circle 30,O30,Education,26-45,Male,2678.93
+Green Circle 30,O30,Education,46-60,Female,367.52
+Green Circle 30,O30,Education,46-60,Male,502.11
+Green Circle 30,O30,Education,Above 60,Female,1618.33
+Green Circle 30,O30,Education,Above 60,Male,693.89
+Green Circle 30,O30,Law,18-25,Female,209.78
+Green Circle 30,O30,Law,18-25,Male,504.35
+Green Circle 30,O30,Law,26-45,Female,121.59
+Green Circle 30,O30,Law,26-45,Male,618.31
+Green Circle 30,O30,Law,46-60,Female,935.04
+Green Circle 30,O30,Law,46-60,Male,907.97
+Green Circle 30,O30,Law,Above 60,Female,642.96
+Green Circle 30,O30,Law,Above 60,Male,0
+Green Circle 30,O30,Community,18-25,Female,2272.54
+Green Circle 30,O30,Community,18-25,Male,7.7
+Green Circle 30,O30,Community,26-45,Female,0
+Green Circle 30,O30,Community,26-45,Male,287.62
+Green Circle 30,O30,Community,46-60,Female,1030.04
+Green Circle 30,O30,Community,46-60,Male,323.89
+Green Circle 30,O30,Community,Above 60,Female,55.97
+Green Circle 30,O30,Community,Above 60,Male,852.24
+Open Action 31,O31,Environment,18-25,Female,55.87
+Open Action 31,O31,Environment,18-25,Male,0
+Open Action 31,O31,Environment,26-45,Female,44.94
+Open Action 31,O31,Environment,26-45,Male,226.92
+Open Action 31,O31,Environment,46-60,Female,370.37
+Open Action 31,O31,Environment,46-60,Male,91.53
+Open Action 31,O31,Environment,Above 60,Female,854.05
+Open Action 31,O31,Environment,Above 60,Male,232.32
+Open Action 31,O31,Health,18-25,Female,0
+Open Action 31,O31,Health,18-25,Male,201.8
+Open Action 31,O31,Health,26-45,Female,1779.45
+Open Action 31,O31,Health,26-45,Male,67.42
+Open Action 31,O31,Health,46-60,Female,354.92
+Open Action 31,O31,Health,46-60,Male,17.96
+Open Action 31,O31,Health,Above 60,Female,521.66
+Open Action 31,O31,Health,Above 60,Male,109.79
+Open Action 31,O31,Education,18-25,Female,20.45
+Open Action 31,O31,Education,18-25,Male,45.13
+Open Action 31,O31,Education,26-45,Female,4.24
+Open Action 31,O31,Education,26-45,Male,40.59
+Open Action 31,O31,Education,46-60,Female,27.48
+Open Action 31,O31,Education,46-60,Male,13.2
+Open Action 31,O31,Education,Above 60,Female,44.91
+Open Action 31,O31,Education,Above 60,Male,0
+Open Action 31,O31,Law,18-25,Female,1812.02
+Open Action 31,O31,Law,18-25,Male,0
+Open Action 31,O31,Law,26-45,Female,656.56
+Open Action 31,O31,Law,26-45,Male,756.21
+Open Action 31,O31,Law,46-60,Female,2508.02
+Open Action 31,O31,Law,46-60,Male,1029.66
+Open Action 31,O31,Law,Above 60,Female,1090.18
+Open Action 31,O31,Law,Above 60,Male,474.35
+Open Action 31,O31,Community,18-25,Female,6355.4
+Open Action 31,O31,Community,18-25,Male,0
+Open Action 31,O31,Community,26-45,Female,826.7
+Open Action 31,O31,Community,26-45,Male,181.79
+Open Action 31,O31,Community,46-60,Female,458.93
+Open Action 31,O31,Community,46-60,Male,5535.87
+Open Action 31,O31,Community,Above 60,Female,2948.22
+Open Action 31,O31,Community,Above 60,Male,4460.09
+Prime Access 32,O32,Environment,18-25,Female,971.43
+Prime Access 32,O32,Environment,18-25,Male,108.38
+Prime Access 32,O32,Environment,26-45,Female,355.34
+Prime Access 32,O32,Environment,26-45,Male,546.09
+Prime Access 32,O32,Environment,46-60,Female,574.82
+Prime Access 32,O32,Environment,46-60,Male,310.09
+Prime Access 32,O32,Environment,Above 60,Female,0
+Prime Access 32,O32,Environment,Above 60,Male,721.85
+Prime Access 32,O32,Health,18-25,Female,1489.58
+Prime Access 32,O32,Health,18-25,Male,923.37
+Prime Access 32,O32,Health,26-45,Female,353.83
+Prime Access 32,O32,Health,26-45,Male,1861.85
+Prime Access 32,O32,Health,46-60,Female,2252.79
+Prime Access 32,O32,Health,46-60,Male,81.28
+Prime Access 32,O32,Health,Above 60,Female,0
+Prime Access 32,O32,Health,Above 60,Male,69.3
+Prime Access 32,O32,Education,18-25,Female,67.03
+Prime Access 32,O32,Education,18-25,Male,220.15
+Prime Access 32,O32,Education,26-45,Female,0
+Prime Access 32,O32,Education,26-45,Male,294.77
+Prime Access 32,O32,Education,46-60,Female,43.2
+Prime Access 32,O32,Education,46-60,Male,81.34
+Prime Access 32,O32,Education,Above 60,Female,81.8
+Prime Access 32,O32,Education,Above 60,Male,19.71
+Prime Access 32,O32,Law,18-25,Female,237.72
+Prime Access 32,O32,Law,18-25,Male,1928.99
+Prime Access 32,O32,Law,26-45,Female,209.9
+Prime Access 32,O32,Law,26-45,Male,0
+Prime Access 32,O32,Law,46-60,Female,117.35
+Prime Access 32,O32,Law,46-60,Male,830.35
+Prime Access 32,O32,Law,Above 60,Female,1044.23
+Prime Access 32,O32,Law,Above 60,Male,937.46
+Prime Access 32,O32,Community,18-25,Female,21.55
+Prime Access 32,O32,Community,18-25,Male,0
+Prime Access 32,O32,Community,26-45,Female,187.04
+Prime Access 32,O32,Community,26-45,Male,0.27
+Prime Access 32,O32,Community,46-60,Female,100.05
+Prime Access 32,O32,Community,46-60,Male,258.45
+Prime Access 32,O32,Community,Above 60,Female,94.29
+Prime Access 32,O32,Community,Above 60,Male,11.35
+Bright Alliance 33,O33,Environment,18-25,Female,1956.79
+Bright Alliance 33,O33,Environment,18-25,Male,572.97
+Bright Alliance 33,O33,Environment,26-45,Female,778.5
+Bright Alliance 33,O33,Environment,26-45,Male,576.9
+Bright Alliance 33,O33,Environment,46-60,Female,1325.04
+Bright Alliance 33,O33,Environment,46-60,Male,0
+Bright Alliance 33,O33,Environment,Above 60,Female,2005.71
+Bright Alliance 33,O33,Environment,Above 60,Male,3896.09
+Bright Alliance 33,O33,Health,18-25,Female,231.17
+Bright Alliance 33,O33,Health,18-25,Male,120.5
+Bright Alliance 33,O33,Health,26-45,Female,259.33
+Bright Alliance 33,O33,Health,26-45,Male,1003.21
+Bright Alliance 33,O33,Health,46-60,Female,353.04
+Bright Alliance 33,O33,Health,46-60,Male,0
+Bright Alliance 33,O33,Health,Above 60,Female,106.71
+Bright Alliance 33,O33,Health,Above 60,Male,194.04
+Bright Alliance 33,O33,Education,18-25,Female,0
+Bright Alliance 33,O33,Education,18-25,Male,241.15
+Bright Alliance 33,O33,Education,26-45,Female,754.59
+Bright Alliance 33,O33,Education,26-45,Male,66.09
+Bright Alliance 33,O33,Education,46-60,Female,13.19
+Bright Alliance 33,O33,Education,46-60,Male,411.22
+Bright Alliance 33,O33,Education,Above 60,Female,196.2
+Bright Alliance 33,O33,Education,Above 60,Male,2.56
+Bright Alliance 33,O33,Law,18-25,Female,1027.46
+Bright Alliance 33,O33,Law,18-25,Male,229.9
+Bright Alliance 33,O33,Law,26-45,Female,315.91
+Bright Alliance 33,O33,Law,26-45,Male,147.36
+Bright Alliance 33,O33,Law,46-60,Female,810.79
+Bright Alliance 33,O33,Law,46-60,Male,0
+Bright Alliance 33,O33,Law,Above 60,Female,1051.19
+Bright Alliance 33,O33,Law,Above 60,Male,318.39
+Bright Alliance 33,O33,Community,18-25,Female,6188.63
+Bright Alliance 33,O33,Community,18-25,Male,0
+Bright Alliance 33,O33,Community,26-45,Female,259.26
+Bright Alliance 33,O33,Community,26-45,Male,2740.32
+Bright Alliance 33,O33,Community,46-60,Female,238.17
+Bright Alliance 33,O33,Community,46-60,Male,4447.85
+Bright Alliance 33,O33,Community,Above 60,Female,1360.38
+Bright Alliance 33,O33,Community,Above 60,Male,1168.39
+Green Roots 34,O34,Environment,18-25,Female,1676.29
+Green Roots 34,O34,Environment,18-25,Male,0
+Green Roots 34,O34,Environment,26-45,Female,190.25
+Green Roots 34,O34,Environment,26-45,Male,5.2
+Green Roots 34,O34,Environment,46-60,Female,44.3
+Green Roots 34,O34,Environment,46-60,Male,940.55
+Green Roots 34,O34,Environment,Above 60,Female,1443.01
+Green Roots 34,O34,Environment,Above 60,Male,1032.4
+Green Roots 34,O34,Health,18-25,Female,201.42
+Green Roots 34,O34,Health,18-25,Male,0
+Green Roots 34,O34,Health,26-45,Female,3440.08
+Green Roots 34,O34,Health,26-45,Male,667.23
+Green Roots 34,O34,Health,46-60,Female,274.82
+Green Roots 34,O34,Health,46-60,Male,364.58
+Green Roots 34,O34,Health,Above 60,Female,309.1
+Green Roots 34,O34,Health,Above 60,Male,742.77
+Green Roots 34,O34,Education,18-25,Female,52.72
+Green Roots 34,O34,Education,18-25,Male,42.43
+Green Roots 34,O34,Education,26-45,Female,26.24
+Green Roots 34,O34,Education,26-45,Male,0
+Green Roots 34,O34,Education,46-60,Female,513.6
+Green Roots 34,O34,Education,46-60,Male,37.24
+Green Roots 34,O34,Education,Above 60,Female,472.11
+Green Roots 34,O34,Education,Above 60,Male,854.66
+Green Roots 34,O34,Law,18-25,Female,621.1
+Green Roots 34,O34,Law,18-25,Male,219.02
+Green Roots 34,O34,Law,26-45,Female,993.16
+Green Roots 34,O34,Law,26-45,Male,640.82
+Green Roots 34,O34,Law,46-60,Female,0
+Green Roots 34,O34,Law,46-60,Male,796.24
+Green Roots 34,O34,Law,Above 60,Female,27.87
+Green Roots 34,O34,Law,Above 60,Male,1074.79
+Green Roots 34,O34,Community,18-25,Female,895.32
+Green Roots 34,O34,Community,18-25,Male,0
+Green Roots 34,O34,Community,26-45,Female,1612.9
+Green Roots 34,O34,Community,26-45,Male,51.3
+Green Roots 34,O34,Community,46-60,Female,770.99
+Green Roots 34,O34,Community,46-60,Male,241.66
+Green Roots 34,O34,Community,Above 60,Female,599.28
+Green Roots 34,O34,Community,Above 60,Male,119.55
+South Hands 35,O35,Environment,18-25,Female,17.72
+South Hands 35,O35,Environment,18-25,Male,769.18
+South Hands 35,O35,Environment,26-45,Female,252.76
+South Hands 35,O35,Environment,26-45,Male,277.7
+South Hands 35,O35,Environment,46-60,Female,0
+South Hands 35,O35,Environment,46-60,Male,283.43
+South Hands 35,O35,Environment,Above 60,Female,854.88
+South Hands 35,O35,Environment,Above 60,Male,325.33
+South Hands 35,O35,Health,18-25,Female,602.93
+South Hands 35,O35,Health,18-25,Male,591.49
+South Hands 35,O35,Health,26-45,Female,117.23
+South Hands 35,O35,Health,26-45,Male,433.23
+South Hands 35,O35,Health,46-60,Female,89.69
+South Hands 35,O35,Health,46-60,Male,0
+South Hands 35,O35,Health,Above 60,Female,227.1
+South Hands 35,O35,Health,Above 60,Male,868.33
+South Hands 35,O35,Education,18-25,Female,0
+South Hands 35,O35,Education,18-25,Male,793.42
+South Hands 35,O35,Education,26-45,Female,521.45
+South Hands 35,O35,Education,26-45,Male,182.02
+South Hands 35,O35,Education,46-60,Female,768.47
+South Hands 35,O35,Education,46-60,Male,21.71
+South Hands 35,O35,Education,Above 60,Female,103.48
+South Hands 35,O35,Education,Above 60,Male,140.45
+South Hands 35,O35,Law,18-25,Female,334.25
+South Hands 35,O35,Law,18-25,Male,787.95
+South Hands 35,O35,Law,26-45,Female,0
+South Hands 35,O35,Law,26-45,Male,47.21
+South Hands 35,O35,Law,46-60,Female,179.8
+South Hands 35,O35,Law,46-60,Male,535.51
+South Hands 35,O35,Law,Above 60,Female,102.19
+South Hands 35,O35,Law,Above 60,Male,482.09
+South Hands 35,O35,Community,18-25,Female,6657.46
+South Hands 35,O35,Community,18-25,Male,4361.88
+South Hands 35,O35,Community,26-45,Female,1114.84
+South Hands 35,O35,Community,26-45,Male,2588.33
+South Hands 35,O35,Community,46-60,Female,0
+South Hands 35,O35,Community,46-60,Male,4139.11
+South Hands 35,O35,Community,Above 60,Female,5674.91
+South Hands 35,O35,Community,Above 60,Male,4281.47
+Unity Aid 36,O36,Environment,18-25,Female,2382.32
+Unity Aid 36,O36,Environment,18-25,Male,76.7
+Unity Aid 36,O36,Environment,26-45,Female,0
+Unity Aid 36,O36,Environment,26-45,Male,4394.15
+Unity Aid 36,O36,Environment,46-60,Female,400.57
+Unity Aid 36,O36,Environment,46-60,Male,2733.16
+Unity Aid 36,O36,Environment,Above 60,Female,4152.01
+Unity Aid 36,O36,Environment,Above 60,Male,705.09
+Unity Aid 36,O36,Health,18-25,Female,0.72
+Unity Aid 36,O36,Health,18-25,Male,1.21
+Unity Aid 36,O36,Health,26-45,Female,2.42
+Unity Aid 36,O36,Health,26-45,Male,1.34
+Unity Aid 36,O36,Health,46-60,Female,1.83
+Unity Aid 36,O36,Health,46-60,Male,0
+Unity Aid 36,O36,Health,Above 60,Female,17.21
+Unity Aid 36,O36,Health,Above 60,Male,2.27
+Unity Aid 36,O36,Education,18-25,Female,844.48
+Unity Aid 36,O36,Education,18-25,Male,892.54
+Unity Aid 36,O36,Education,26-45,Female,518.58
+Unity Aid 36,O36,Education,26-45,Male,22.44
+Unity Aid 36,O36,Education,46-60,Female,309.48
+Unity Aid 36,O36,Education,46-60,Male,0
+Unity Aid 36,O36,Education,Above 60,Female,53.04
+Unity Aid 36,O36,Education,Above 60,Male,428.44
+Unity Aid 36,O36,Law,18-25,Female,114.66
+Unity Aid 36,O36,Law,18-25,Male,507.82
+Unity Aid 36,O36,Law,26-45,Female,104.14
+Unity Aid 36,O36,Law,26-45,Male,50.01
+Unity Aid 36,O36,Law,46-60,Female,248.25
+Unity Aid 36,O36,Law,46-60,Male,168.15
+Unity Aid 36,O36,Law,Above 60,Female,0
+Unity Aid 36,O36,Law,Above 60,Male,634.97
+Unity Aid 36,O36,Community,18-25,Female,0.12
+Unity Aid 36,O36,Community,18-25,Male,4.43
+Unity Aid 36,O36,Community,26-45,Female,0.05
+Unity Aid 36,O36,Community,26-45,Male,5.79
+Unity Aid 36,O36,Community,46-60,Female,1.7
+Unity Aid 36,O36,Community,46-60,Male,2.67
+Unity Aid 36,O36,Community,Above 60,Female,0
+Unity Aid 36,O36,Community,Above 60,Male,7.24
+North Support 37,O37,Environment,18-25,Female,293.87
+North Support 37,O37,Environment,18-25,Male,333.89
+North Support 37,O37,Environment,26-45,Female,8.99
+North Support 37,O37,Environment,26-45,Male,726.51
+North Support 37,O37,Environment,46-60,Female,0
+North Support 37,O37,Environment,46-60,Male,307.64
+North Support 37,O37,Environment,Above 60,Female,257.68
+North Support 37,O37,Environment,Above 60,Male,546.42
+North Support 37,O37,Health,18-25,Female,72.98
+North Support 37,O37,Health,18-25,Male,112.8
+North Support 37,O37,Health,26-45,Female,38.51
+North Support 37,O37,Health,26-45,Male,1.69
+North Support 37,O37,Health,46-60,Female,0
+North Support 37,O37,Health,46-60,Male,40.92
+North Support 37,O37,Health,Above 60,Female,10.15
+North Support 37,O37,Health,Above 60,Male,28.95
+North Support 37,O37,Education,18-25,Female,314.63
+North Support 37,O37,Education,18-25,Male,354.13
+North Support 37,O37,Education,26-45,Female,2279.81
+North Support 37,O37,Education,26-45,Male,198.52
+North Support 37,O37,Education,46-60,Female,4254.41
+North Support 37,O37,Education,46-60,Male,4594.6
+North Support 37,O37,Education,Above 60,Female,4104.9
+North Support 37,O37,Education,Above 60,Male,0
+North Support 37,O37,Law,18-25,Female,160.21
+North Support 37,O37,Law,18-25,Male,25.93
+North Support 37,O37,Law,26-45,Female,35.78
+North Support 37,O37,Law,26-45,Male,155.21
+North Support 37,O37,Law,46-60,Female,101.88
+North Support 37,O37,Law,46-60,Male,0
+North Support 37,O37,Law,Above 60,Female,75.72
+North Support 37,O37,Law,Above 60,Male,47.27
+North Support 37,O37,Community,18-25,Female,0
+North Support 37,O37,Community,18-25,Male,1215.08
+North Support 37,O37,Community,26-45,Female,2339.02
+North Support 37,O37,Community,26-45,Male,1322.69
+North Support 37,O37,Community,46-60,Female,750.64
+North Support 37,O37,Community,46-60,Male,23.87
+North Support 37,O37,Community,Above 60,Female,179.65
+North Support 37,O37,Community,Above 60,Male,733.05
+Nova Partners 38,O38,Environment,18-25,Female,0
+Nova Partners 38,O38,Environment,18-25,Male,681.82
+Nova Partners 38,O38,Environment,26-45,Female,940.8
+Nova Partners 38,O38,Environment,26-45,Male,153.81
+Nova Partners 38,O38,Environment,46-60,Female,132.18
+Nova Partners 38,O38,Environment,46-60,Male,876.07
+Nova Partners 38,O38,Environment,Above 60,Female,429.61
+Nova Partners 38,O38,Environment,Above 60,Male,322.71
+Nova Partners 38,O38,Health,18-25,Female,117.65
+Nova Partners 38,O38,Health,18-25,Male,71.26
+Nova Partners 38,O38,Health,26-45,Female,75.36
+Nova Partners 38,O38,Health,26-45,Male,572.23
+Nova Partners 38,O38,Health,46-60,Female,156.32
+Nova Partners 38,O38,Health,46-60,Male,0
+Nova Partners 38,O38,Health,Above 60,Female,284.47
+Nova Partners 38,O38,Health,Above 60,Male,370.71
+Nova Partners 38,O38,Education,18-25,Female,1220.14
+Nova Partners 38,O38,Education,18-25,Male,766.76
+Nova Partners 38,O38,Education,26-45,Female,2136.45
+Nova Partners 38,O38,Education,26-45,Male,2393.26
+Nova Partners 38,O38,Education,46-60,Female,0
+Nova Partners 38,O38,Education,46-60,Male,1196.41
+Nova Partners 38,O38,Education,Above 60,Female,227.18
+Nova Partners 38,O38,Education,Above 60,Male,2661.8
+Nova Partners 38,O38,Law,18-25,Female,800.85
+Nova Partners 38,O38,Law,18-25,Male,1694.71
+Nova Partners 38,O38,Law,26-45,Female,1358.53
+Nova Partners 38,O38,Law,26-45,Male,1875.17
+Nova Partners 38,O38,Law,46-60,Female,248.36
+Nova Partners 38,O38,Law,46-60,Male,395.78
+Nova Partners 38,O38,Law,Above 60,Female,5228.6
+Nova Partners 38,O38,Law,Above 60,Male,0
+Nova Partners 38,O38,Community,18-25,Female,13.04
+Nova Partners 38,O38,Community,18-25,Male,35.82
+Nova Partners 38,O38,Community,26-45,Female,0
+Nova Partners 38,O38,Community,26-45,Male,143.27
+Nova Partners 38,O38,Community,46-60,Female,14.55
+Nova Partners 38,O38,Community,46-60,Male,89.22
+Nova Partners 38,O38,Community,Above 60,Female,124.53
+Nova Partners 38,O38,Community,Above 60,Male,53.57
+East Partners 39,O39,Environment,18-25,Female,193
+East Partners 39,O39,Environment,18-25,Male,1120.11
+East Partners 39,O39,Environment,26-45,Female,389.69
+East Partners 39,O39,Environment,26-45,Male,0
+East Partners 39,O39,Environment,46-60,Female,4647.11
+East Partners 39,O39,Environment,46-60,Male,191.37
+East Partners 39,O39,Environment,Above 60,Female,849.63
+East Partners 39,O39,Environment,Above 60,Male,491.09
+East Partners 39,O39,Health,18-25,Female,0
+East Partners 39,O39,Health,18-25,Male,1493.13
+East Partners 39,O39,Health,26-45,Female,5.89
+East Partners 39,O39,Health,26-45,Male,566.57
+East Partners 39,O39,Health,46-60,Female,9095.06
+East Partners 39,O39,Health,46-60,Male,824.78
+East Partners 39,O39,Health,Above 60,Female,7394.92
+East Partners 39,O39,Health,Above 60,Male,714.65
+East Partners 39,O39,Education,18-25,Female,90.25
+East Partners 39,O39,Education,18-25,Male,175.25
+East Partners 39,O39,Education,26-45,Female,17.28
+East Partners 39,O39,Education,26-45,Male,0
+East Partners 39,O39,Education,46-60,Female,52.78
+East Partners 39,O39,Education,46-60,Male,240.55
+East Partners 39,O39,Education,Above 60,Female,319.5
+East Partners 39,O39,Education,Above 60,Male,216.39
+East Partners 39,O39,Law,18-25,Female,282.63
+East Partners 39,O39,Law,18-25,Male,732.19
+East Partners 39,O39,Law,26-45,Female,977.98
+East Partners 39,O39,Law,26-45,Male,1134.57
+East Partners 39,O39,Law,46-60,Female,0
+East Partners 39,O39,Law,46-60,Male,533.6
+East Partners 39,O39,Law,Above 60,Female,310.04
+East Partners 39,O39,Law,Above 60,Male,293.99
+East Partners 39,O39,Community,18-25,Female,476.36
+East Partners 39,O39,Community,18-25,Male,676.54
+East Partners 39,O39,Community,26-45,Female,1492.34
+East Partners 39,O39,Community,26-45,Male,0
+East Partners 39,O39,Community,46-60,Female,409.39
+East Partners 39,O39,Community,46-60,Male,94.67
+East Partners 39,O39,Community,Above 60,Female,1889.47
+East Partners 39,O39,Community,Above 60,Male,494.23
+Care Community 40,O40,Environment,18-25,Female,56.59
+Care Community 40,O40,Environment,18-25,Male,0
+Care Community 40,O40,Environment,26-45,Female,103.44
+Care Community 40,O40,Environment,26-45,Male,158.75
+Care Community 40,O40,Environment,46-60,Female,45.75
+Care Community 40,O40,Environment,46-60,Male,380.06
+Care Community 40,O40,Environment,Above 60,Female,108.21
+Care Community 40,O40,Environment,Above 60,Male,64.2
+Care Community 40,O40,Health,18-25,Female,22.66
+Care Community 40,O40,Health,18-25,Male,0
+Care Community 40,O40,Health,26-45,Female,39.95
+Care Community 40,O40,Health,26-45,Male,5.8
+Care Community 40,O40,Health,46-60,Female,5.14
+Care Community 40,O40,Health,46-60,Male,30.71
+Care Community 40,O40,Health,Above 60,Female,23.53
+Care Community 40,O40,Health,Above 60,Male,6.21
+Care Community 40,O40,Education,18-25,Female,7.75
+Care Community 40,O40,Education,18-25,Male,190.08
+Care Community 40,O40,Education,26-45,Female,0
+Care Community 40,O40,Education,26-45,Male,50.15
+Care Community 40,O40,Education,46-60,Female,307.61
+Care Community 40,O40,Education,46-60,Male,158.38
+Care Community 40,O40,Education,Above 60,Female,283.78
+Care Community 40,O40,Education,Above 60,Male,83.25
+Care Community 40,O40,Law,18-25,Female,33.68
+Care Community 40,O40,Law,18-25,Male,357.64
+Care Community 40,O40,Law,26-45,Female,0
+Care Community 40,O40,Law,26-45,Male,92.89
+Care Community 40,O40,Law,46-60,Female,239.47
+Care Community 40,O40,Law,46-60,Male,540.61
+Care Community 40,O40,Law,Above 60,Female,149.4
+Care Community 40,O40,Law,Above 60,Male,139.31
+Care Community 40,O40,Community,18-25,Female,0
+Care Community 40,O40,Community,18-25,Male,1127.27
+Care Community 40,O40,Community,26-45,Female,6259.17
+Care Community 40,O40,Community,26-45,Male,415.81
+Care Community 40,O40,Community,46-60,Female,26.31
+Care Community 40,O40,Community,46-60,Male,183.92
+Care Community 40,O40,Community,Above 60,Female,733.42
+Care Community 40,O40,Community,Above 60,Male,283.1

@@ -1,0 +1,3217 @@
+﻿name,org_id,year,age_group,gender,volunteers
+Blue Path 1,O01,2018,18-25,Female,39
+Blue Path 1,O01,2018,18-25,Male,0
+Blue Path 1,O01,2018,26-45,Female,62
+Blue Path 1,O01,2018,26-45,Male,3
+Blue Path 1,O01,2018,46-60,Female,37
+Blue Path 1,O01,2018,46-60,Male,14
+Blue Path 1,O01,2018,Above 60,Female,3
+Blue Path 1,O01,2018,Above 60,Male,112
+Blue Path 1,O01,2019,18-25,Female,22
+Blue Path 1,O01,2019,18-25,Male,4
+Blue Path 1,O01,2019,26-45,Female,35
+Blue Path 1,O01,2019,26-45,Male,12
+Blue Path 1,O01,2019,46-60,Female,66
+Blue Path 1,O01,2019,46-60,Male,0
+Blue Path 1,O01,2019,Above 60,Female,24
+Blue Path 1,O01,2019,Above 60,Male,99
+Blue Path 1,O01,2020,18-25,Female,14
+Blue Path 1,O01,2020,18-25,Male,17
+Blue Path 1,O01,2020,26-45,Female,64
+Blue Path 1,O01,2020,26-45,Male,42
+Blue Path 1,O01,2020,46-60,Female,0
+Blue Path 1,O01,2020,46-60,Male,16
+Blue Path 1,O01,2020,Above 60,Female,31
+Blue Path 1,O01,2020,Above 60,Male,67
+Blue Path 1,O01,2021,18-25,Female,12
+Blue Path 1,O01,2021,18-25,Male,1
+Blue Path 1,O01,2021,26-45,Female,43
+Blue Path 1,O01,2021,26-45,Male,132
+Blue Path 1,O01,2021,46-60,Female,6
+Blue Path 1,O01,2021,46-60,Male,5
+Blue Path 1,O01,2021,Above 60,Female,19
+Blue Path 1,O01,2021,Above 60,Male,0
+Blue Path 1,O01,2022,18-25,Female,57
+Blue Path 1,O01,2022,18-25,Male,26
+Blue Path 1,O01,2022,26-45,Female,44
+Blue Path 1,O01,2022,26-45,Male,1
+Blue Path 1,O01,2022,46-60,Female,16
+Blue Path 1,O01,2022,46-60,Male,0
+Blue Path 1,O01,2022,Above 60,Female,28
+Blue Path 1,O01,2022,Above 60,Male,143
+Blue Path 1,O01,2023,18-25,Female,9
+Blue Path 1,O01,2023,18-25,Male,18
+Blue Path 1,O01,2023,26-45,Female,83
+Blue Path 1,O01,2023,26-45,Male,52
+Blue Path 1,O01,2023,46-60,Female,0
+Blue Path 1,O01,2023,46-60,Male,8
+Blue Path 1,O01,2023,Above 60,Female,48
+Blue Path 1,O01,2023,Above 60,Male,135
+Blue Path 1,O01,2024,18-25,Female,49
+Blue Path 1,O01,2024,18-25,Male,0
+Blue Path 1,O01,2024,26-45,Female,30
+Blue Path 1,O01,2024,26-45,Male,119
+Blue Path 1,O01,2024,46-60,Female,7
+Blue Path 1,O01,2024,46-60,Male,28
+Blue Path 1,O01,2024,Above 60,Female,177
+Blue Path 1,O01,2024,Above 60,Male,19
+Green Hearts 2,O02,2012,18-25,Female,59
+Green Hearts 2,O02,2012,18-25,Male,8
+Green Hearts 2,O02,2012,26-45,Female,119
+Green Hearts 2,O02,2012,26-45,Male,40
+Green Hearts 2,O02,2012,46-60,Female,12
+Green Hearts 2,O02,2012,46-60,Male,10
+Green Hearts 2,O02,2012,Above 60,Female,21
+Green Hearts 2,O02,2012,Above 60,Male,0
+Green Hearts 2,O02,2013,18-25,Female,10
+Green Hearts 2,O02,2013,18-25,Male,6
+Green Hearts 2,O02,2013,26-45,Female,31
+Green Hearts 2,O02,2013,26-45,Male,36
+Green Hearts 2,O02,2013,46-60,Female,0
+Green Hearts 2,O02,2013,46-60,Male,94
+Green Hearts 2,O02,2013,Above 60,Female,72
+Green Hearts 2,O02,2013,Above 60,Male,13
+Green Hearts 2,O02,2014,18-25,Female,17
+Green Hearts 2,O02,2014,18-25,Male,35
+Green Hearts 2,O02,2014,26-45,Female,136
+Green Hearts 2,O02,2014,26-45,Male,2
+Green Hearts 2,O02,2014,46-60,Female,41
+Green Hearts 2,O02,2014,46-60,Male,6
+Green Hearts 2,O02,2014,Above 60,Female,42
+Green Hearts 2,O02,2014,Above 60,Male,0
+Green Hearts 2,O02,2015,18-25,Female,1
+Green Hearts 2,O02,2015,18-25,Male,17
+Green Hearts 2,O02,2015,26-45,Female,68
+Green Hearts 2,O02,2015,26-45,Male,0
+Green Hearts 2,O02,2015,46-60,Female,16
+Green Hearts 2,O02,2015,46-60,Male,93
+Green Hearts 2,O02,2015,Above 60,Female,43
+Green Hearts 2,O02,2015,Above 60,Male,13
+Green Hearts 2,O02,2016,18-25,Female,43
+Green Hearts 2,O02,2016,18-25,Male,19
+Green Hearts 2,O02,2016,26-45,Female,58
+Green Hearts 2,O02,2016,26-45,Male,13
+Green Hearts 2,O02,2016,46-60,Female,33
+Green Hearts 2,O02,2016,46-60,Male,16
+Green Hearts 2,O02,2016,Above 60,Female,0
+Green Hearts 2,O02,2016,Above 60,Male,83
+Green Hearts 2,O02,2017,18-25,Female,48
+Green Hearts 2,O02,2017,18-25,Male,46
+Green Hearts 2,O02,2017,26-45,Female,41
+Green Hearts 2,O02,2017,26-45,Male,58
+Green Hearts 2,O02,2017,46-60,Female,44
+Green Hearts 2,O02,2017,46-60,Male,8
+Green Hearts 2,O02,2017,Above 60,Female,0
+Green Hearts 2,O02,2017,Above 60,Male,39
+Green Hearts 2,O02,2018,18-25,Female,129
+Green Hearts 2,O02,2018,18-25,Male,5
+Green Hearts 2,O02,2018,26-45,Female,21
+Green Hearts 2,O02,2018,26-45,Male,4
+Green Hearts 2,O02,2018,46-60,Female,0
+Green Hearts 2,O02,2018,46-60,Male,10
+Green Hearts 2,O02,2018,Above 60,Female,39
+Green Hearts 2,O02,2018,Above 60,Male,39
+Green Hearts 2,O02,2019,18-25,Female,72
+Green Hearts 2,O02,2019,18-25,Male,36
+Green Hearts 2,O02,2019,26-45,Female,4
+Green Hearts 2,O02,2019,26-45,Male,0
+Green Hearts 2,O02,2019,46-60,Female,5
+Green Hearts 2,O02,2019,46-60,Male,15
+Green Hearts 2,O02,2019,Above 60,Female,24
+Green Hearts 2,O02,2019,Above 60,Male,100
+Green Hearts 2,O02,2020,18-25,Female,32
+Green Hearts 2,O02,2020,18-25,Male,0
+Green Hearts 2,O02,2020,26-45,Female,35
+Green Hearts 2,O02,2020,26-45,Male,29
+Green Hearts 2,O02,2020,46-60,Female,18
+Green Hearts 2,O02,2020,46-60,Male,29
+Green Hearts 2,O02,2020,Above 60,Female,39
+Green Hearts 2,O02,2020,Above 60,Male,24
+Green Hearts 2,O02,2021,18-25,Female,1
+Green Hearts 2,O02,2021,18-25,Male,0
+Green Hearts 2,O02,2021,26-45,Female,81
+Green Hearts 2,O02,2021,26-45,Male,11
+Green Hearts 2,O02,2021,46-60,Female,9
+Green Hearts 2,O02,2021,46-60,Male,2
+Green Hearts 2,O02,2021,Above 60,Female,39
+Green Hearts 2,O02,2021,Above 60,Male,117
+Green Hearts 2,O02,2022,18-25,Female,32
+Green Hearts 2,O02,2022,18-25,Male,8
+Green Hearts 2,O02,2022,26-45,Female,16
+Green Hearts 2,O02,2022,26-45,Male,10
+Green Hearts 2,O02,2022,46-60,Female,0
+Green Hearts 2,O02,2022,46-60,Male,85
+Green Hearts 2,O02,2022,Above 60,Female,44
+Green Hearts 2,O02,2022,Above 60,Male,69
+Green Hearts 2,O02,2023,18-25,Female,15
+Green Hearts 2,O02,2023,18-25,Male,0
+Green Hearts 2,O02,2023,26-45,Female,229
+Green Hearts 2,O02,2023,26-45,Male,35
+Green Hearts 2,O02,2023,46-60,Female,8
+Green Hearts 2,O02,2023,46-60,Male,36
+Green Hearts 2,O02,2023,Above 60,Female,89
+Green Hearts 2,O02,2023,Above 60,Male,22
+Green Hearts 2,O02,2024,18-25,Female,39
+Green Hearts 2,O02,2024,18-25,Male,207
+Green Hearts 2,O02,2024,26-45,Female,8
+Green Hearts 2,O02,2024,26-45,Male,61
+Green Hearts 2,O02,2024,46-60,Female,13
+Green Hearts 2,O02,2024,46-60,Male,5
+Green Hearts 2,O02,2024,Above 60,Female,49
+Green Hearts 2,O02,2024,Above 60,Male,0
+Spark Support 3,O03,2019,18-25,Female,26
+Spark Support 3,O03,2019,18-25,Male,27
+Spark Support 3,O03,2019,26-45,Female,0
+Spark Support 3,O03,2019,26-45,Male,116
+Spark Support 3,O03,2019,46-60,Female,8
+Spark Support 3,O03,2019,46-60,Male,284
+Spark Support 3,O03,2019,Above 60,Female,5
+Spark Support 3,O03,2019,Above 60,Male,103
+Spark Support 3,O03,2020,18-25,Female,94
+Spark Support 3,O03,2020,18-25,Male,44
+Spark Support 3,O03,2020,26-45,Female,122
+Spark Support 3,O03,2020,26-45,Male,28
+Spark Support 3,O03,2020,46-60,Female,111
+Spark Support 3,O03,2020,46-60,Male,87
+Spark Support 3,O03,2020,Above 60,Female,0
+Spark Support 3,O03,2020,Above 60,Male,21
+Spark Support 3,O03,2021,18-25,Female,153
+Spark Support 3,O03,2021,18-25,Male,126
+Spark Support 3,O03,2021,26-45,Female,84
+Spark Support 3,O03,2021,26-45,Male,79
+Spark Support 3,O03,2021,46-60,Female,0
+Spark Support 3,O03,2021,46-60,Male,79
+Spark Support 3,O03,2021,Above 60,Female,52
+Spark Support 3,O03,2021,Above 60,Male,53
+Spark Support 3,O03,2022,18-25,Female,0
+Spark Support 3,O03,2022,18-25,Male,3
+Spark Support 3,O03,2022,26-45,Female,72
+Spark Support 3,O03,2022,26-45,Male,17
+Spark Support 3,O03,2022,46-60,Female,174
+Spark Support 3,O03,2022,46-60,Male,7
+Spark Support 3,O03,2022,Above 60,Female,219
+Spark Support 3,O03,2022,Above 60,Male,79
+Spark Support 3,O03,2023,18-25,Female,296
+Spark Support 3,O03,2023,18-25,Male,80
+Spark Support 3,O03,2023,26-45,Female,37
+Spark Support 3,O03,2023,26-45,Male,0
+Spark Support 3,O03,2023,46-60,Female,41
+Spark Support 3,O03,2023,46-60,Male,3
+Spark Support 3,O03,2023,Above 60,Female,152
+Spark Support 3,O03,2023,Above 60,Male,46
+Spark Support 3,O03,2024,18-25,Female,188
+Spark Support 3,O03,2024,18-25,Male,80
+Spark Support 3,O03,2024,26-45,Female,27
+Spark Support 3,O03,2024,26-45,Male,14
+Spark Support 3,O03,2024,46-60,Female,0
+Spark Support 3,O03,2024,46-60,Male,236
+Spark Support 3,O03,2024,Above 60,Female,65
+Spark Support 3,O03,2024,Above 60,Male,35
+Open Path 4,O04,2017,18-25,Female,137
+Open Path 4,O04,2017,18-25,Male,8
+Open Path 4,O04,2017,26-45,Female,9
+Open Path 4,O04,2017,26-45,Male,106
+Open Path 4,O04,2017,46-60,Female,26
+Open Path 4,O04,2017,46-60,Male,14
+Open Path 4,O04,2017,Above 60,Female,29
+Open Path 4,O04,2017,Above 60,Male,0
+Open Path 4,O04,2018,18-25,Female,43
+Open Path 4,O04,2018,18-25,Male,7
+Open Path 4,O04,2018,26-45,Female,12
+Open Path 4,O04,2018,26-45,Male,125
+Open Path 4,O04,2018,46-60,Female,94
+Open Path 4,O04,2018,46-60,Male,12
+Open Path 4,O04,2018,Above 60,Female,0
+Open Path 4,O04,2018,Above 60,Male,39
+Open Path 4,O04,2019,18-25,Female,28
+Open Path 4,O04,2019,18-25,Male,52
+Open Path 4,O04,2019,26-45,Female,17
+Open Path 4,O04,2019,26-45,Male,115
+Open Path 4,O04,2019,46-60,Female,22
+Open Path 4,O04,2019,46-60,Male,1
+Open Path 4,O04,2019,Above 60,Female,0
+Open Path 4,O04,2019,Above 60,Male,92
+Open Path 4,O04,2020,18-25,Female,182
+Open Path 4,O04,2020,18-25,Male,5
+Open Path 4,O04,2020,26-45,Female,29
+Open Path 4,O04,2020,26-45,Male,0
+Open Path 4,O04,2020,46-60,Female,0
+Open Path 4,O04,2020,46-60,Male,115
+Open Path 4,O04,2020,Above 60,Female,2
+Open Path 4,O04,2020,Above 60,Male,64
+Open Path 4,O04,2021,18-25,Female,6
+Open Path 4,O04,2021,18-25,Male,29
+Open Path 4,O04,2021,26-45,Female,0
+Open Path 4,O04,2021,26-45,Male,54
+Open Path 4,O04,2021,46-60,Female,109
+Open Path 4,O04,2021,46-60,Male,31
+Open Path 4,O04,2021,Above 60,Female,143
+Open Path 4,O04,2021,Above 60,Male,148
+Open Path 4,O04,2022,18-25,Female,46
+Open Path 4,O04,2022,18-25,Male,97
+Open Path 4,O04,2022,26-45,Female,25
+Open Path 4,O04,2022,26-45,Male,0
+Open Path 4,O04,2022,46-60,Female,33
+Open Path 4,O04,2022,46-60,Male,7
+Open Path 4,O04,2022,Above 60,Female,9
+Open Path 4,O04,2022,Above 60,Male,300
+Open Path 4,O04,2023,18-25,Female,10
+Open Path 4,O04,2023,18-25,Male,0
+Open Path 4,O04,2023,26-45,Female,198
+Open Path 4,O04,2023,26-45,Male,189
+Open Path 4,O04,2023,46-60,Female,67
+Open Path 4,O04,2023,46-60,Male,24
+Open Path 4,O04,2023,Above 60,Female,18
+Open Path 4,O04,2023,Above 60,Male,31
+Open Path 4,O04,2024,18-25,Female,97
+Open Path 4,O04,2024,18-25,Male,34
+Open Path 4,O04,2024,26-45,Female,33
+Open Path 4,O04,2024,26-45,Male,0
+Open Path 4,O04,2024,46-60,Female,49
+Open Path 4,O04,2024,46-60,Male,91
+Open Path 4,O04,2024,Above 60,Female,105
+Open Path 4,O04,2024,Above 60,Male,204
+Clear Roots 5,O05,2015,18-25,Female,8
+Clear Roots 5,O05,2015,18-25,Male,11
+Clear Roots 5,O05,2015,26-45,Female,6
+Clear Roots 5,O05,2015,26-45,Male,31
+Clear Roots 5,O05,2015,46-60,Female,152
+Clear Roots 5,O05,2015,46-60,Male,148
+Clear Roots 5,O05,2015,Above 60,Female,0
+Clear Roots 5,O05,2015,Above 60,Male,309
+Clear Roots 5,O05,2016,18-25,Female,54
+Clear Roots 5,O05,2016,18-25,Male,32
+Clear Roots 5,O05,2016,26-45,Female,41
+Clear Roots 5,O05,2016,26-45,Male,15
+Clear Roots 5,O05,2016,46-60,Female,0
+Clear Roots 5,O05,2016,46-60,Male,48
+Clear Roots 5,O05,2016,Above 60,Female,313
+Clear Roots 5,O05,2016,Above 60,Male,89
+Clear Roots 5,O05,2017,18-25,Female,140
+Clear Roots 5,O05,2017,18-25,Male,0
+Clear Roots 5,O05,2017,26-45,Female,144
+Clear Roots 5,O05,2017,26-45,Male,40
+Clear Roots 5,O05,2017,46-60,Female,26
+Clear Roots 5,O05,2017,46-60,Male,256
+Clear Roots 5,O05,2017,Above 60,Female,2
+Clear Roots 5,O05,2017,Above 60,Male,43
+Clear Roots 5,O05,2018,18-25,Female,2
+Clear Roots 5,O05,2018,18-25,Male,216
+Clear Roots 5,O05,2018,26-45,Female,28
+Clear Roots 5,O05,2018,26-45,Male,126
+Clear Roots 5,O05,2018,46-60,Female,46
+Clear Roots 5,O05,2018,46-60,Male,0
+Clear Roots 5,O05,2018,Above 60,Female,140
+Clear Roots 5,O05,2018,Above 60,Male,40
+Clear Roots 5,O05,2019,18-25,Female,172
+Clear Roots 5,O05,2019,18-25,Male,62
+Clear Roots 5,O05,2019,26-45,Female,0
+Clear Roots 5,O05,2019,26-45,Male,30
+Clear Roots 5,O05,2019,46-60,Female,25
+Clear Roots 5,O05,2019,46-60,Male,130
+Clear Roots 5,O05,2019,Above 60,Female,72
+Clear Roots 5,O05,2019,Above 60,Male,107
+Clear Roots 5,O05,2020,18-25,Female,192
+Clear Roots 5,O05,2020,18-25,Male,0
+Clear Roots 5,O05,2020,26-45,Female,142
+Clear Roots 5,O05,2020,26-45,Male,11
+Clear Roots 5,O05,2020,46-60,Female,74
+Clear Roots 5,O05,2020,46-60,Male,34
+Clear Roots 5,O05,2020,Above 60,Female,46
+Clear Roots 5,O05,2020,Above 60,Male,81
+Clear Roots 5,O05,2021,18-25,Female,22
+Clear Roots 5,O05,2021,18-25,Male,45
+Clear Roots 5,O05,2021,26-45,Female,55
+Clear Roots 5,O05,2021,26-45,Male,121
+Clear Roots 5,O05,2021,46-60,Female,64
+Clear Roots 5,O05,2021,46-60,Male,153
+Clear Roots 5,O05,2021,Above 60,Female,83
+Clear Roots 5,O05,2021,Above 60,Male,0
+Clear Roots 5,O05,2022,18-25,Female,25
+Clear Roots 5,O05,2022,18-25,Male,50
+Clear Roots 5,O05,2022,26-45,Female,5
+Clear Roots 5,O05,2022,26-45,Male,43
+Clear Roots 5,O05,2022,46-60,Female,86
+Clear Roots 5,O05,2022,46-60,Male,67
+Clear Roots 5,O05,2022,Above 60,Female,0
+Clear Roots 5,O05,2022,Above 60,Male,359
+Clear Roots 5,O05,2023,18-25,Female,96
+Clear Roots 5,O05,2023,18-25,Male,35
+Clear Roots 5,O05,2023,26-45,Female,0
+Clear Roots 5,O05,2023,26-45,Male,51
+Clear Roots 5,O05,2023,46-60,Female,219
+Clear Roots 5,O05,2023,46-60,Male,6
+Clear Roots 5,O05,2023,Above 60,Female,27
+Clear Roots 5,O05,2023,Above 60,Male,172
+Clear Roots 5,O05,2024,18-25,Female,0
+Clear Roots 5,O05,2024,18-25,Male,55
+Clear Roots 5,O05,2024,26-45,Female,140
+Clear Roots 5,O05,2024,26-45,Male,375
+Clear Roots 5,O05,2024,46-60,Female,85
+Clear Roots 5,O05,2024,46-60,Male,100
+Clear Roots 5,O05,2024,Above 60,Female,70
+Clear Roots 5,O05,2024,Above 60,Male,2
+Care Minds 6,O06,2013,18-25,Female,0
+Care Minds 6,O06,2013,18-25,Male,4
+Care Minds 6,O06,2013,26-45,Female,34
+Care Minds 6,O06,2013,26-45,Male,2
+Care Minds 6,O06,2013,46-60,Female,51
+Care Minds 6,O06,2013,46-60,Male,79
+Care Minds 6,O06,2013,Above 60,Female,70
+Care Minds 6,O06,2013,Above 60,Male,1
+Care Minds 6,O06,2014,18-25,Female,6
+Care Minds 6,O06,2014,18-25,Male,14
+Care Minds 6,O06,2014,26-45,Female,1
+Care Minds 6,O06,2014,26-45,Male,70
+Care Minds 6,O06,2014,46-60,Female,66
+Care Minds 6,O06,2014,46-60,Male,62
+Care Minds 6,O06,2014,Above 60,Female,9
+Care Minds 6,O06,2014,Above 60,Male,0
+Care Minds 6,O06,2015,18-25,Female,0
+Care Minds 6,O06,2015,18-25,Male,33
+Care Minds 6,O06,2015,26-45,Female,1
+Care Minds 6,O06,2015,26-45,Male,53
+Care Minds 6,O06,2015,46-60,Female,48
+Care Minds 6,O06,2015,46-60,Male,69
+Care Minds 6,O06,2015,Above 60,Female,32
+Care Minds 6,O06,2015,Above 60,Male,16
+Care Minds 6,O06,2016,18-25,Female,0
+Care Minds 6,O06,2016,18-25,Male,51
+Care Minds 6,O06,2016,26-45,Female,18
+Care Minds 6,O06,2016,26-45,Male,105
+Care Minds 6,O06,2016,46-60,Female,11
+Care Minds 6,O06,2016,46-60,Male,13
+Care Minds 6,O06,2016,Above 60,Female,20
+Care Minds 6,O06,2016,Above 60,Male,13
+Care Minds 6,O06,2017,18-25,Female,17
+Care Minds 6,O06,2017,18-25,Male,50
+Care Minds 6,O06,2017,26-45,Female,46
+Care Minds 6,O06,2017,26-45,Male,38
+Care Minds 6,O06,2017,46-60,Female,28
+Care Minds 6,O06,2017,46-60,Male,0
+Care Minds 6,O06,2017,Above 60,Female,12
+Care Minds 6,O06,2017,Above 60,Male,38
+Care Minds 6,O06,2018,18-25,Female,0
+Care Minds 6,O06,2018,18-25,Male,9
+Care Minds 6,O06,2018,26-45,Female,15
+Care Minds 6,O06,2018,26-45,Male,32
+Care Minds 6,O06,2018,46-60,Female,20
+Care Minds 6,O06,2018,46-60,Male,43
+Care Minds 6,O06,2018,Above 60,Female,8
+Care Minds 6,O06,2018,Above 60,Male,99
+Care Minds 6,O06,2019,18-25,Female,0
+Care Minds 6,O06,2019,18-25,Male,16
+Care Minds 6,O06,2019,26-45,Female,17
+Care Minds 6,O06,2019,26-45,Male,42
+Care Minds 6,O06,2019,46-60,Female,3
+Care Minds 6,O06,2019,46-60,Male,40
+Care Minds 6,O06,2019,Above 60,Female,18
+Care Minds 6,O06,2019,Above 60,Male,89
+Care Minds 6,O06,2020,18-25,Female,133
+Care Minds 6,O06,2020,18-25,Male,0
+Care Minds 6,O06,2020,26-45,Female,19
+Care Minds 6,O06,2020,26-45,Male,36
+Care Minds 6,O06,2020,46-60,Female,32
+Care Minds 6,O06,2020,46-60,Male,84
+Care Minds 6,O06,2020,Above 60,Female,5
+Care Minds 6,O06,2020,Above 60,Male,10
+Care Minds 6,O06,2021,18-25,Female,155
+Care Minds 6,O06,2021,18-25,Male,0
+Care Minds 6,O06,2021,26-45,Female,25
+Care Minds 6,O06,2021,26-45,Male,53
+Care Minds 6,O06,2021,46-60,Female,0
+Care Minds 6,O06,2021,46-60,Male,59
+Care Minds 6,O06,2021,Above 60,Female,68
+Care Minds 6,O06,2021,Above 60,Male,40
+Care Minds 6,O06,2022,18-25,Female,82
+Care Minds 6,O06,2022,18-25,Male,248
+Care Minds 6,O06,2022,26-45,Female,0
+Care Minds 6,O06,2022,26-45,Male,47
+Care Minds 6,O06,2022,46-60,Female,79
+Care Minds 6,O06,2022,46-60,Male,5
+Care Minds 6,O06,2022,Above 60,Female,10
+Care Minds 6,O06,2022,Above 60,Male,17
+Care Minds 6,O06,2023,18-25,Female,3
+Care Minds 6,O06,2023,18-25,Male,10
+Care Minds 6,O06,2023,26-45,Female,225
+Care Minds 6,O06,2023,26-45,Male,0
+Care Minds 6,O06,2023,46-60,Female,86
+Care Minds 6,O06,2023,46-60,Male,113
+Care Minds 6,O06,2023,Above 60,Female,33
+Care Minds 6,O06,2023,Above 60,Male,0
+Care Minds 6,O06,2024,18-25,Female,0
+Care Minds 6,O06,2024,18-25,Male,26
+Care Minds 6,O06,2024,26-45,Female,23
+Care Minds 6,O06,2024,26-45,Male,40
+Care Minds 6,O06,2024,46-60,Female,27
+Care Minds 6,O06,2024,46-60,Male,79
+Care Minds 6,O06,2024,Above 60,Female,97
+Care Minds 6,O06,2024,Above 60,Male,20
+East Path 7,O07,2013,18-25,Female,109
+East Path 7,O07,2013,18-25,Male,52
+East Path 7,O07,2013,26-45,Female,0
+East Path 7,O07,2013,26-45,Male,12
+East Path 7,O07,2013,46-60,Female,112
+East Path 7,O07,2013,46-60,Male,18
+East Path 7,O07,2013,Above 60,Female,136
+East Path 7,O07,2013,Above 60,Male,2
+East Path 7,O07,2014,18-25,Female,12
+East Path 7,O07,2014,18-25,Male,75
+East Path 7,O07,2014,26-45,Female,28
+East Path 7,O07,2014,26-45,Male,23
+East Path 7,O07,2014,46-60,Female,100
+East Path 7,O07,2014,46-60,Male,175
+East Path 7,O07,2014,Above 60,Female,0
+East Path 7,O07,2014,Above 60,Male,11
+East Path 7,O07,2015,18-25,Female,3
+East Path 7,O07,2015,18-25,Male,112
+East Path 7,O07,2015,26-45,Female,4
+East Path 7,O07,2015,26-45,Male,10
+East Path 7,O07,2015,46-60,Female,0
+East Path 7,O07,2015,46-60,Male,57
+East Path 7,O07,2015,Above 60,Female,63
+East Path 7,O07,2015,Above 60,Male,173
+East Path 7,O07,2016,18-25,Female,0
+East Path 7,O07,2016,18-25,Male,39
+East Path 7,O07,2016,26-45,Female,126
+East Path 7,O07,2016,26-45,Male,69
+East Path 7,O07,2016,46-60,Female,8
+East Path 7,O07,2016,46-60,Male,60
+East Path 7,O07,2016,Above 60,Female,72
+East Path 7,O07,2016,Above 60,Male,40
+East Path 7,O07,2017,18-25,Female,72
+East Path 7,O07,2017,18-25,Male,60
+East Path 7,O07,2017,26-45,Female,27
+East Path 7,O07,2017,26-45,Male,0
+East Path 7,O07,2017,46-60,Female,3
+East Path 7,O07,2017,46-60,Male,44
+East Path 7,O07,2017,Above 60,Female,85
+East Path 7,O07,2017,Above 60,Male,127
+East Path 7,O07,2018,18-25,Female,13
+East Path 7,O07,2018,18-25,Male,48
+East Path 7,O07,2018,26-45,Female,24
+East Path 7,O07,2018,26-45,Male,4
+East Path 7,O07,2018,46-60,Female,139
+East Path 7,O07,2018,46-60,Male,27
+East Path 7,O07,2018,Above 60,Female,136
+East Path 7,O07,2018,Above 60,Male,0
+East Path 7,O07,2019,18-25,Female,0
+East Path 7,O07,2019,18-25,Male,53
+East Path 7,O07,2019,26-45,Female,19
+East Path 7,O07,2019,26-45,Male,54
+East Path 7,O07,2019,46-60,Female,199
+East Path 7,O07,2019,46-60,Male,13
+East Path 7,O07,2019,Above 60,Female,25
+East Path 7,O07,2019,Above 60,Male,25
+East Path 7,O07,2020,18-25,Female,41
+East Path 7,O07,2020,18-25,Male,8
+East Path 7,O07,2020,26-45,Female,0
+East Path 7,O07,2020,26-45,Male,1
+East Path 7,O07,2020,46-60,Female,115
+East Path 7,O07,2020,46-60,Male,57
+East Path 7,O07,2020,Above 60,Female,212
+East Path 7,O07,2020,Above 60,Male,37
+East Path 7,O07,2021,18-25,Female,31
+East Path 7,O07,2021,18-25,Male,0
+East Path 7,O07,2021,26-45,Female,53
+East Path 7,O07,2021,26-45,Male,18
+East Path 7,O07,2021,46-60,Female,66
+East Path 7,O07,2021,46-60,Male,185
+East Path 7,O07,2021,Above 60,Female,15
+East Path 7,O07,2021,Above 60,Male,9
+East Path 7,O07,2022,18-25,Female,49
+East Path 7,O07,2022,18-25,Male,0
+East Path 7,O07,2022,26-45,Female,14
+East Path 7,O07,2022,26-45,Male,21
+East Path 7,O07,2022,46-60,Female,76
+East Path 7,O07,2022,46-60,Male,30
+East Path 7,O07,2022,Above 60,Female,157
+East Path 7,O07,2022,Above 60,Male,42
+East Path 7,O07,2023,18-25,Female,28
+East Path 7,O07,2023,18-25,Male,13
+East Path 7,O07,2023,26-45,Female,72
+East Path 7,O07,2023,26-45,Male,8
+East Path 7,O07,2023,46-60,Female,0
+East Path 7,O07,2023,46-60,Male,30
+East Path 7,O07,2023,Above 60,Female,182
+East Path 7,O07,2023,Above 60,Male,69
+East Path 7,O07,2024,18-25,Female,0
+East Path 7,O07,2024,18-25,Male,45
+East Path 7,O07,2024,26-45,Female,58
+East Path 7,O07,2024,26-45,Male,128
+East Path 7,O07,2024,46-60,Female,160
+East Path 7,O07,2024,46-60,Male,15
+East Path 7,O07,2024,Above 60,Female,21
+East Path 7,O07,2024,Above 60,Male,101
+Spark Scholars 8,O08,2010,18-25,Female,19
+Spark Scholars 8,O08,2010,18-25,Male,23
+Spark Scholars 8,O08,2010,26-45,Female,18
+Spark Scholars 8,O08,2010,26-45,Male,0
+Spark Scholars 8,O08,2010,46-60,Female,33
+Spark Scholars 8,O08,2010,46-60,Male,140
+Spark Scholars 8,O08,2010,Above 60,Female,34
+Spark Scholars 8,O08,2010,Above 60,Male,5
+Spark Scholars 8,O08,2011,18-25,Female,22
+Spark Scholars 8,O08,2011,18-25,Male,142
+Spark Scholars 8,O08,2011,26-45,Female,51
+Spark Scholars 8,O08,2011,26-45,Male,42
+Spark Scholars 8,O08,2011,46-60,Female,0
+Spark Scholars 8,O08,2011,46-60,Male,5
+Spark Scholars 8,O08,2011,Above 60,Female,7
+Spark Scholars 8,O08,2011,Above 60,Male,22
+Spark Scholars 8,O08,2012,18-25,Female,26
+Spark Scholars 8,O08,2012,18-25,Male,225
+Spark Scholars 8,O08,2012,26-45,Female,27
+Spark Scholars 8,O08,2012,26-45,Male,0
+Spark Scholars 8,O08,2012,46-60,Female,0
+Spark Scholars 8,O08,2012,46-60,Male,7
+Spark Scholars 8,O08,2012,Above 60,Female,2
+Spark Scholars 8,O08,2012,Above 60,Male,11
+Spark Scholars 8,O08,2013,18-25,Female,34
+Spark Scholars 8,O08,2013,18-25,Male,89
+Spark Scholars 8,O08,2013,26-45,Female,119
+Spark Scholars 8,O08,2013,26-45,Male,3
+Spark Scholars 8,O08,2013,46-60,Female,11
+Spark Scholars 8,O08,2013,46-60,Male,28
+Spark Scholars 8,O08,2013,Above 60,Female,0
+Spark Scholars 8,O08,2013,Above 60,Male,12
+Spark Scholars 8,O08,2014,18-25,Female,0
+Spark Scholars 8,O08,2014,18-25,Male,41
+Spark Scholars 8,O08,2014,26-45,Female,75
+Spark Scholars 8,O08,2014,26-45,Male,47
+Spark Scholars 8,O08,2014,46-60,Female,26
+Spark Scholars 8,O08,2014,46-60,Male,43
+Spark Scholars 8,O08,2014,Above 60,Female,48
+Spark Scholars 8,O08,2014,Above 60,Male,5
+Spark Scholars 8,O08,2015,18-25,Female,10
+Spark Scholars 8,O08,2015,18-25,Male,50
+Spark Scholars 8,O08,2015,26-45,Female,39
+Spark Scholars 8,O08,2015,26-45,Male,93
+Spark Scholars 8,O08,2015,46-60,Female,86
+Spark Scholars 8,O08,2015,46-60,Male,3
+Spark Scholars 8,O08,2015,Above 60,Female,0
+Spark Scholars 8,O08,2015,Above 60,Male,21
+Spark Scholars 8,O08,2016,18-25,Female,11
+Spark Scholars 8,O08,2016,18-25,Male,24
+Spark Scholars 8,O08,2016,26-45,Female,0
+Spark Scholars 8,O08,2016,26-45,Male,23
+Spark Scholars 8,O08,2016,46-60,Female,68
+Spark Scholars 8,O08,2016,46-60,Male,41
+Spark Scholars 8,O08,2016,Above 60,Female,27
+Spark Scholars 8,O08,2016,Above 60,Male,78
+Spark Scholars 8,O08,2017,18-25,Female,45
+Spark Scholars 8,O08,2017,18-25,Male,45
+Spark Scholars 8,O08,2017,26-45,Female,0
+Spark Scholars 8,O08,2017,26-45,Male,18
+Spark Scholars 8,O08,2017,46-60,Female,22
+Spark Scholars 8,O08,2017,46-60,Male,54
+Spark Scholars 8,O08,2017,Above 60,Female,76
+Spark Scholars 8,O08,2017,Above 60,Male,20
+Spark Scholars 8,O08,2018,18-25,Female,0
+Spark Scholars 8,O08,2018,18-25,Male,87
+Spark Scholars 8,O08,2018,26-45,Female,14
+Spark Scholars 8,O08,2018,26-45,Male,37
+Spark Scholars 8,O08,2018,46-60,Female,40
+Spark Scholars 8,O08,2018,46-60,Male,14
+Spark Scholars 8,O08,2018,Above 60,Female,32
+Spark Scholars 8,O08,2018,Above 60,Male,48
+Spark Scholars 8,O08,2019,18-25,Female,0
+Spark Scholars 8,O08,2019,18-25,Male,1
+Spark Scholars 8,O08,2019,26-45,Female,20
+Spark Scholars 8,O08,2019,26-45,Male,68
+Spark Scholars 8,O08,2019,46-60,Female,35
+Spark Scholars 8,O08,2019,46-60,Male,21
+Spark Scholars 8,O08,2019,Above 60,Female,94
+Spark Scholars 8,O08,2019,Above 60,Male,37
+Spark Scholars 8,O08,2020,18-25,Female,5
+Spark Scholars 8,O08,2020,18-25,Male,28
+Spark Scholars 8,O08,2020,26-45,Female,66
+Spark Scholars 8,O08,2020,26-45,Male,31
+Spark Scholars 8,O08,2020,46-60,Female,0
+Spark Scholars 8,O08,2020,46-60,Male,142
+Spark Scholars 8,O08,2020,Above 60,Female,36
+Spark Scholars 8,O08,2020,Above 60,Male,34
+Spark Scholars 8,O08,2021,18-25,Female,2
+Spark Scholars 8,O08,2021,18-25,Male,0
+Spark Scholars 8,O08,2021,26-45,Female,28
+Spark Scholars 8,O08,2021,26-45,Male,56
+Spark Scholars 8,O08,2021,46-60,Female,17
+Spark Scholars 8,O08,2021,46-60,Male,82
+Spark Scholars 8,O08,2021,Above 60,Female,38
+Spark Scholars 8,O08,2021,Above 60,Male,40
+Spark Scholars 8,O08,2022,18-25,Female,48
+Spark Scholars 8,O08,2022,18-25,Male,92
+Spark Scholars 8,O08,2022,26-45,Female,60
+Spark Scholars 8,O08,2022,26-45,Male,1
+Spark Scholars 8,O08,2022,46-60,Female,15
+Spark Scholars 8,O08,2022,46-60,Male,0
+Spark Scholars 8,O08,2022,Above 60,Female,42
+Spark Scholars 8,O08,2022,Above 60,Male,126
+Spark Scholars 8,O08,2023,18-25,Female,23
+Spark Scholars 8,O08,2023,18-25,Male,119
+Spark Scholars 8,O08,2023,26-45,Female,15
+Spark Scholars 8,O08,2023,26-45,Male,63
+Spark Scholars 8,O08,2023,46-60,Female,0
+Spark Scholars 8,O08,2023,46-60,Male,9
+Spark Scholars 8,O08,2023,Above 60,Female,23
+Spark Scholars 8,O08,2023,Above 60,Male,120
+Spark Scholars 8,O08,2024,18-25,Female,113
+Spark Scholars 8,O08,2024,18-25,Male,18
+Spark Scholars 8,O08,2024,26-45,Female,73
+Spark Scholars 8,O08,2024,26-45,Male,23
+Spark Scholars 8,O08,2024,46-60,Female,41
+Spark Scholars 8,O08,2024,46-60,Male,0
+Spark Scholars 8,O08,2024,Above 60,Female,10
+Spark Scholars 8,O08,2024,Above 60,Male,80
+Kind Action 9,O09,2013,18-25,Female,27
+Kind Action 9,O09,2013,18-25,Male,76
+Kind Action 9,O09,2013,26-45,Female,25
+Kind Action 9,O09,2013,26-45,Male,14
+Kind Action 9,O09,2013,46-60,Female,0
+Kind Action 9,O09,2013,46-60,Male,32
+Kind Action 9,O09,2013,Above 60,Female,25
+Kind Action 9,O09,2013,Above 60,Male,16
+Kind Action 9,O09,2014,18-25,Female,16
+Kind Action 9,O09,2014,18-25,Male,133
+Kind Action 9,O09,2014,26-45,Female,4
+Kind Action 9,O09,2014,26-45,Male,46
+Kind Action 9,O09,2014,46-60,Female,0
+Kind Action 9,O09,2014,46-60,Male,8
+Kind Action 9,O09,2014,Above 60,Female,8
+Kind Action 9,O09,2014,Above 60,Male,1
+Kind Action 9,O09,2015,18-25,Female,54
+Kind Action 9,O09,2015,18-25,Male,104
+Kind Action 9,O09,2015,26-45,Female,32
+Kind Action 9,O09,2015,26-45,Male,0
+Kind Action 9,O09,2015,46-60,Female,0
+Kind Action 9,O09,2015,46-60,Male,9
+Kind Action 9,O09,2015,Above 60,Female,16
+Kind Action 9,O09,2015,Above 60,Male,2
+Kind Action 9,O09,2016,18-25,Female,0
+Kind Action 9,O09,2016,18-25,Male,23
+Kind Action 9,O09,2016,26-45,Female,41
+Kind Action 9,O09,2016,26-45,Male,95
+Kind Action 9,O09,2016,46-60,Female,17
+Kind Action 9,O09,2016,46-60,Male,7
+Kind Action 9,O09,2016,Above 60,Female,4
+Kind Action 9,O09,2016,Above 60,Male,13
+Kind Action 9,O09,2017,18-25,Female,37
+Kind Action 9,O09,2017,18-25,Male,15
+Kind Action 9,O09,2017,26-45,Female,1
+Kind Action 9,O09,2017,26-45,Male,12
+Kind Action 9,O09,2017,46-60,Female,113
+Kind Action 9,O09,2017,46-60,Male,7
+Kind Action 9,O09,2017,Above 60,Female,0
+Kind Action 9,O09,2017,Above 60,Male,17
+Kind Action 9,O09,2018,18-25,Female,37
+Kind Action 9,O09,2018,18-25,Male,45
+Kind Action 9,O09,2018,26-45,Female,0
+Kind Action 9,O09,2018,26-45,Male,21
+Kind Action 9,O09,2018,46-60,Female,36
+Kind Action 9,O09,2018,46-60,Male,18
+Kind Action 9,O09,2018,Above 60,Female,30
+Kind Action 9,O09,2018,Above 60,Male,20
+Kind Action 9,O09,2019,18-25,Female,14
+Kind Action 9,O09,2019,18-25,Male,63
+Kind Action 9,O09,2019,26-45,Female,0
+Kind Action 9,O09,2019,26-45,Male,6
+Kind Action 9,O09,2019,46-60,Female,66
+Kind Action 9,O09,2019,46-60,Male,10
+Kind Action 9,O09,2019,Above 60,Female,27
+Kind Action 9,O09,2019,Above 60,Male,16
+Kind Action 9,O09,2020,18-25,Female,0
+Kind Action 9,O09,2020,18-25,Male,4
+Kind Action 9,O09,2020,26-45,Female,20
+Kind Action 9,O09,2020,26-45,Male,36
+Kind Action 9,O09,2020,46-60,Female,14
+Kind Action 9,O09,2020,46-60,Male,18
+Kind Action 9,O09,2020,Above 60,Female,10
+Kind Action 9,O09,2020,Above 60,Male,27
+Kind Action 9,O09,2021,18-25,Female,50
+Kind Action 9,O09,2021,18-25,Male,63
+Kind Action 9,O09,2021,26-45,Female,38
+Kind Action 9,O09,2021,26-45,Male,18
+Kind Action 9,O09,2021,46-60,Female,3
+Kind Action 9,O09,2021,46-60,Male,0
+Kind Action 9,O09,2021,Above 60,Female,52
+Kind Action 9,O09,2021,Above 60,Male,12
+Kind Action 9,O09,2022,18-25,Female,33
+Kind Action 9,O09,2022,18-25,Male,1
+Kind Action 9,O09,2022,26-45,Female,48
+Kind Action 9,O09,2022,26-45,Male,0
+Kind Action 9,O09,2022,46-60,Female,29
+Kind Action 9,O09,2022,46-60,Male,8
+Kind Action 9,O09,2022,Above 60,Female,9
+Kind Action 9,O09,2022,Above 60,Male,29
+Kind Action 9,O09,2023,18-25,Female,92
+Kind Action 9,O09,2023,18-25,Male,0
+Kind Action 9,O09,2023,26-45,Female,40
+Kind Action 9,O09,2023,26-45,Male,16
+Kind Action 9,O09,2023,46-60,Female,12
+Kind Action 9,O09,2023,46-60,Male,18
+Kind Action 9,O09,2023,Above 60,Female,125
+Kind Action 9,O09,2023,Above 60,Male,12
+Kind Action 9,O09,2024,18-25,Female,15
+Kind Action 9,O09,2024,18-25,Male,26
+Kind Action 9,O09,2024,26-45,Female,15
+Kind Action 9,O09,2024,26-45,Male,50
+Kind Action 9,O09,2024,46-60,Female,70
+Kind Action 9,O09,2024,46-60,Male,33
+Kind Action 9,O09,2024,Above 60,Female,7
+Kind Action 9,O09,2024,Above 60,Male,0
+Echo Minds 10,O10,2015,18-25,Female,35
+Echo Minds 10,O10,2015,18-25,Male,43
+Echo Minds 10,O10,2015,26-45,Female,91
+Echo Minds 10,O10,2015,26-45,Male,6
+Echo Minds 10,O10,2015,46-60,Female,150
+Echo Minds 10,O10,2015,46-60,Male,0
+Echo Minds 10,O10,2015,Above 60,Female,25
+Echo Minds 10,O10,2015,Above 60,Male,161
+Echo Minds 10,O10,2016,18-25,Female,119
+Echo Minds 10,O10,2016,18-25,Male,35
+Echo Minds 10,O10,2016,26-45,Female,0
+Echo Minds 10,O10,2016,26-45,Male,47
+Echo Minds 10,O10,2016,46-60,Female,10
+Echo Minds 10,O10,2016,46-60,Male,141
+Echo Minds 10,O10,2016,Above 60,Female,57
+Echo Minds 10,O10,2016,Above 60,Male,59
+Echo Minds 10,O10,2017,18-25,Female,6
+Echo Minds 10,O10,2017,18-25,Male,14
+Echo Minds 10,O10,2017,26-45,Female,4
+Echo Minds 10,O10,2017,26-45,Male,12
+Echo Minds 10,O10,2017,46-60,Female,128
+Echo Minds 10,O10,2017,46-60,Male,161
+Echo Minds 10,O10,2017,Above 60,Female,105
+Echo Minds 10,O10,2017,Above 60,Male,0
+Echo Minds 10,O10,2018,18-25,Female,14
+Echo Minds 10,O10,2018,18-25,Male,0
+Echo Minds 10,O10,2018,26-45,Female,16
+Echo Minds 10,O10,2018,26-45,Male,35
+Echo Minds 10,O10,2018,46-60,Female,290
+Echo Minds 10,O10,2018,46-60,Male,14
+Echo Minds 10,O10,2018,Above 60,Female,87
+Echo Minds 10,O10,2018,Above 60,Male,21
+Echo Minds 10,O10,2019,18-25,Female,21
+Echo Minds 10,O10,2019,18-25,Male,89
+Echo Minds 10,O10,2019,26-45,Female,66
+Echo Minds 10,O10,2019,26-45,Male,13
+Echo Minds 10,O10,2019,46-60,Female,0
+Echo Minds 10,O10,2019,46-60,Male,46
+Echo Minds 10,O10,2019,Above 60,Female,66
+Echo Minds 10,O10,2019,Above 60,Male,147
+Echo Minds 10,O10,2020,18-25,Female,8
+Echo Minds 10,O10,2020,18-25,Male,161
+Echo Minds 10,O10,2020,26-45,Female,7
+Echo Minds 10,O10,2020,26-45,Male,131
+Echo Minds 10,O10,2020,46-60,Female,80
+Echo Minds 10,O10,2020,46-60,Male,27
+Echo Minds 10,O10,2020,Above 60,Female,0
+Echo Minds 10,O10,2020,Above 60,Male,1
+Echo Minds 10,O10,2021,18-25,Female,39
+Echo Minds 10,O10,2021,18-25,Male,121
+Echo Minds 10,O10,2021,26-45,Female,38
+Echo Minds 10,O10,2021,26-45,Male,127
+Echo Minds 10,O10,2021,46-60,Female,0
+Echo Minds 10,O10,2021,46-60,Male,34
+Echo Minds 10,O10,2021,Above 60,Female,85
+Echo Minds 10,O10,2021,Above 60,Male,79
+Echo Minds 10,O10,2022,18-25,Female,0
+Echo Minds 10,O10,2022,18-25,Male,32
+Echo Minds 10,O10,2022,26-45,Female,74
+Echo Minds 10,O10,2022,26-45,Male,26
+Echo Minds 10,O10,2022,46-60,Female,25
+Echo Minds 10,O10,2022,46-60,Male,55
+Echo Minds 10,O10,2022,Above 60,Female,203
+Echo Minds 10,O10,2022,Above 60,Male,70
+Echo Minds 10,O10,2023,18-25,Female,199
+Echo Minds 10,O10,2023,18-25,Male,228
+Echo Minds 10,O10,2023,26-45,Female,0
+Echo Minds 10,O10,2023,26-45,Male,13
+Echo Minds 10,O10,2023,46-60,Female,62
+Echo Minds 10,O10,2023,46-60,Male,50
+Echo Minds 10,O10,2023,Above 60,Female,50
+Echo Minds 10,O10,2023,Above 60,Male,6
+Echo Minds 10,O10,2024,18-25,Female,7
+Echo Minds 10,O10,2024,18-25,Male,104
+Echo Minds 10,O10,2024,26-45,Female,7
+Echo Minds 10,O10,2024,26-45,Male,90
+Echo Minds 10,O10,2024,46-60,Female,29
+Echo Minds 10,O10,2024,46-60,Male,20
+Echo Minds 10,O10,2024,Above 60,Female,0
+Echo Minds 10,O10,2024,Above 60,Male,221
+Prime Aid 11,O11,2015,18-25,Female,0
+Prime Aid 11,O11,2015,18-25,Male,61
+Prime Aid 11,O11,2015,26-45,Female,35
+Prime Aid 11,O11,2015,26-45,Male,39
+Prime Aid 11,O11,2015,46-60,Female,45
+Prime Aid 11,O11,2015,46-60,Male,23
+Prime Aid 11,O11,2015,Above 60,Female,79
+Prime Aid 11,O11,2015,Above 60,Male,23
+Prime Aid 11,O11,2016,18-25,Female,4
+Prime Aid 11,O11,2016,18-25,Male,63
+Prime Aid 11,O11,2016,26-45,Female,10
+Prime Aid 11,O11,2016,26-45,Male,43
+Prime Aid 11,O11,2016,46-60,Female,2
+Prime Aid 11,O11,2016,46-60,Male,151
+Prime Aid 11,O11,2016,Above 60,Female,0
+Prime Aid 11,O11,2016,Above 60,Male,10
+Prime Aid 11,O11,2017,18-25,Female,91
+Prime Aid 11,O11,2017,18-25,Male,31
+Prime Aid 11,O11,2017,26-45,Female,0
+Prime Aid 11,O11,2017,26-45,Male,4
+Prime Aid 11,O11,2017,46-60,Female,20
+Prime Aid 11,O11,2017,46-60,Male,18
+Prime Aid 11,O11,2017,Above 60,Female,74
+Prime Aid 11,O11,2017,Above 60,Male,20
+Prime Aid 11,O11,2018,18-25,Female,11
+Prime Aid 11,O11,2018,18-25,Male,80
+Prime Aid 11,O11,2018,26-45,Female,0
+Prime Aid 11,O11,2018,26-45,Male,40
+Prime Aid 11,O11,2018,46-60,Female,70
+Prime Aid 11,O11,2018,46-60,Male,18
+Prime Aid 11,O11,2018,Above 60,Female,54
+Prime Aid 11,O11,2018,Above 60,Male,15
+Prime Aid 11,O11,2019,18-25,Female,15
+Prime Aid 11,O11,2019,18-25,Male,30
+Prime Aid 11,O11,2019,26-45,Female,59
+Prime Aid 11,O11,2019,26-45,Male,89
+Prime Aid 11,O11,2019,46-60,Female,36
+Prime Aid 11,O11,2019,46-60,Male,24
+Prime Aid 11,O11,2019,Above 60,Female,0
+Prime Aid 11,O11,2019,Above 60,Male,20
+Prime Aid 11,O11,2020,18-25,Female,61
+Prime Aid 11,O11,2020,18-25,Male,14
+Prime Aid 11,O11,2020,26-45,Female,0
+Prime Aid 11,O11,2020,26-45,Male,73
+Prime Aid 11,O11,2020,46-60,Female,22
+Prime Aid 11,O11,2020,46-60,Male,30
+Prime Aid 11,O11,2020,Above 60,Female,25
+Prime Aid 11,O11,2020,Above 60,Male,3
+Prime Aid 11,O11,2021,18-25,Female,5
+Prime Aid 11,O11,2021,18-25,Male,9
+Prime Aid 11,O11,2021,26-45,Female,4
+Prime Aid 11,O11,2021,26-45,Male,24
+Prime Aid 11,O11,2021,46-60,Female,15
+Prime Aid 11,O11,2021,46-60,Male,35
+Prime Aid 11,O11,2021,Above 60,Female,179
+Prime Aid 11,O11,2021,Above 60,Male,0
+Prime Aid 11,O11,2022,18-25,Female,105
+Prime Aid 11,O11,2022,18-25,Male,31
+Prime Aid 11,O11,2022,26-45,Female,90
+Prime Aid 11,O11,2022,26-45,Male,33
+Prime Aid 11,O11,2022,46-60,Female,16
+Prime Aid 11,O11,2022,46-60,Male,45
+Prime Aid 11,O11,2022,Above 60,Female,0
+Prime Aid 11,O11,2022,Above 60,Male,30
+Prime Aid 11,O11,2023,18-25,Female,0
+Prime Aid 11,O11,2023,18-25,Male,1
+Prime Aid 11,O11,2023,26-45,Female,66
+Prime Aid 11,O11,2023,26-45,Male,9
+Prime Aid 11,O11,2023,46-60,Female,19
+Prime Aid 11,O11,2023,46-60,Male,103
+Prime Aid 11,O11,2023,Above 60,Female,11
+Prime Aid 11,O11,2023,Above 60,Male,83
+Prime Aid 11,O11,2024,18-25,Female,19
+Prime Aid 11,O11,2024,18-25,Male,44
+Prime Aid 11,O11,2024,26-45,Female,42
+Prime Aid 11,O11,2024,26-45,Male,69
+Prime Aid 11,O11,2024,46-60,Female,54
+Prime Aid 11,O11,2024,46-60,Male,38
+Prime Aid 11,O11,2024,Above 60,Female,0
+Prime Aid 11,O11,2024,Above 60,Male,31
+South Action 12,O12,2019,18-25,Female,28
+South Action 12,O12,2019,18-25,Male,9
+South Action 12,O12,2019,26-45,Female,1
+South Action 12,O12,2019,26-45,Male,54
+South Action 12,O12,2019,46-60,Female,77
+South Action 12,O12,2019,46-60,Male,49
+South Action 12,O12,2019,Above 60,Female,22
+South Action 12,O12,2019,Above 60,Male,0
+South Action 12,O12,2020,18-25,Female,17
+South Action 12,O12,2020,18-25,Male,106
+South Action 12,O12,2020,26-45,Female,5
+South Action 12,O12,2020,26-45,Male,19
+South Action 12,O12,2020,46-60,Female,6
+South Action 12,O12,2020,46-60,Male,34
+South Action 12,O12,2020,Above 60,Female,0
+South Action 12,O12,2020,Above 60,Male,46
+South Action 12,O12,2021,18-25,Female,50
+South Action 12,O12,2021,18-25,Male,39
+South Action 12,O12,2021,26-45,Female,0
+South Action 12,O12,2021,26-45,Male,20
+South Action 12,O12,2021,46-60,Female,8
+South Action 12,O12,2021,46-60,Male,49
+South Action 12,O12,2021,Above 60,Female,64
+South Action 12,O12,2021,Above 60,Male,113
+South Action 12,O12,2022,18-25,Female,86
+South Action 12,O12,2022,18-25,Male,51
+South Action 12,O12,2022,26-45,Female,78
+South Action 12,O12,2022,26-45,Male,24
+South Action 12,O12,2022,46-60,Female,0
+South Action 12,O12,2022,46-60,Male,5
+South Action 12,O12,2022,Above 60,Female,94
+South Action 12,O12,2022,Above 60,Male,11
+South Action 12,O12,2023,18-25,Female,70
+South Action 12,O12,2023,18-25,Male,21
+South Action 12,O12,2023,26-45,Female,12
+South Action 12,O12,2023,26-45,Male,110
+South Action 12,O12,2023,46-60,Female,1
+South Action 12,O12,2023,46-60,Male,181
+South Action 12,O12,2023,Above 60,Female,9
+South Action 12,O12,2023,Above 60,Male,0
+South Action 12,O12,2024,18-25,Female,0
+South Action 12,O12,2024,18-25,Male,122
+South Action 12,O12,2024,26-45,Female,39
+South Action 12,O12,2024,26-45,Male,84
+South Action 12,O12,2024,46-60,Female,3
+South Action 12,O12,2024,46-60,Male,83
+South Action 12,O12,2024,Above 60,Female,9
+South Action 12,O12,2024,Above 60,Male,28
+East Roots 13,O13,2012,18-25,Female,52
+East Roots 13,O13,2012,18-25,Male,8
+East Roots 13,O13,2012,26-45,Female,0
+East Roots 13,O13,2012,26-45,Male,132
+East Roots 13,O13,2012,46-60,Female,35
+East Roots 13,O13,2012,46-60,Male,17
+East Roots 13,O13,2012,Above 60,Female,22
+East Roots 13,O13,2012,Above 60,Male,7
+East Roots 13,O13,2013,18-25,Female,59
+East Roots 13,O13,2013,18-25,Male,46
+East Roots 13,O13,2013,26-45,Female,21
+East Roots 13,O13,2013,26-45,Male,24
+East Roots 13,O13,2013,46-60,Female,3
+East Roots 13,O13,2013,46-60,Male,0
+East Roots 13,O13,2013,Above 60,Female,19
+East Roots 13,O13,2013,Above 60,Male,116
+East Roots 13,O13,2014,18-25,Female,26
+East Roots 13,O13,2014,18-25,Male,157
+East Roots 13,O13,2014,26-45,Female,13
+East Roots 13,O13,2014,26-45,Male,22
+East Roots 13,O13,2014,46-60,Female,0
+East Roots 13,O13,2014,46-60,Male,4
+East Roots 13,O13,2014,Above 60,Female,42
+East Roots 13,O13,2014,Above 60,Male,7
+East Roots 13,O13,2015,18-25,Female,7
+East Roots 13,O13,2015,18-25,Male,0
+East Roots 13,O13,2015,26-45,Female,11
+East Roots 13,O13,2015,26-45,Male,52
+East Roots 13,O13,2015,46-60,Female,22
+East Roots 13,O13,2015,46-60,Male,22
+East Roots 13,O13,2015,Above 60,Female,39
+East Roots 13,O13,2015,Above 60,Male,116
+East Roots 13,O13,2016,18-25,Female,104
+East Roots 13,O13,2016,18-25,Male,10
+East Roots 13,O13,2016,26-45,Female,0
+East Roots 13,O13,2016,26-45,Male,42
+East Roots 13,O13,2016,46-60,Female,8
+East Roots 13,O13,2016,46-60,Male,50
+East Roots 13,O13,2016,Above 60,Female,50
+East Roots 13,O13,2016,Above 60,Male,15
+East Roots 13,O13,2017,18-25,Female,7
+East Roots 13,O13,2017,18-25,Male,11
+East Roots 13,O13,2017,26-45,Female,86
+East Roots 13,O13,2017,26-45,Male,104
+East Roots 13,O13,2017,46-60,Female,33
+East Roots 13,O13,2017,46-60,Male,12
+East Roots 13,O13,2017,Above 60,Female,0
+East Roots 13,O13,2017,Above 60,Male,18
+East Roots 13,O13,2018,18-25,Female,35
+East Roots 13,O13,2018,18-25,Male,38
+East Roots 13,O13,2018,26-45,Female,72
+East Roots 13,O13,2018,26-45,Male,46
+East Roots 13,O13,2018,46-60,Female,29
+East Roots 13,O13,2018,46-60,Male,37
+East Roots 13,O13,2018,Above 60,Female,36
+East Roots 13,O13,2018,Above 60,Male,0
+East Roots 13,O13,2019,18-25,Female,80
+East Roots 13,O13,2019,18-25,Male,74
+East Roots 13,O13,2019,26-45,Female,44
+East Roots 13,O13,2019,26-45,Male,12
+East Roots 13,O13,2019,46-60,Female,49
+East Roots 13,O13,2019,46-60,Male,6
+East Roots 13,O13,2019,Above 60,Female,0
+East Roots 13,O13,2019,Above 60,Male,0
+East Roots 13,O13,2020,18-25,Female,107
+East Roots 13,O13,2020,18-25,Male,51
+East Roots 13,O13,2020,26-45,Female,27
+East Roots 13,O13,2020,26-45,Male,50
+East Roots 13,O13,2020,46-60,Female,21
+East Roots 13,O13,2020,46-60,Male,47
+East Roots 13,O13,2020,Above 60,Female,18
+East Roots 13,O13,2020,Above 60,Male,0
+East Roots 13,O13,2021,18-25,Female,63
+East Roots 13,O13,2021,18-25,Male,68
+East Roots 13,O13,2021,26-45,Female,53
+East Roots 13,O13,2021,26-45,Male,81
+East Roots 13,O13,2021,46-60,Female,0
+East Roots 13,O13,2021,46-60,Male,40
+East Roots 13,O13,2021,Above 60,Female,11
+East Roots 13,O13,2021,Above 60,Male,25
+East Roots 13,O13,2022,18-25,Female,127
+East Roots 13,O13,2022,18-25,Male,30
+East Roots 13,O13,2022,26-45,Female,24
+East Roots 13,O13,2022,26-45,Male,0
+East Roots 13,O13,2022,46-60,Female,39
+East Roots 13,O13,2022,46-60,Male,29
+East Roots 13,O13,2022,Above 60,Female,77
+East Roots 13,O13,2022,Above 60,Male,22
+East Roots 13,O13,2023,18-25,Female,3
+East Roots 13,O13,2023,18-25,Male,45
+East Roots 13,O13,2023,26-45,Female,21
+East Roots 13,O13,2023,26-45,Male,29
+East Roots 13,O13,2023,46-60,Female,332
+East Roots 13,O13,2023,46-60,Male,0
+East Roots 13,O13,2023,Above 60,Female,19
+East Roots 13,O13,2023,Above 60,Male,20
+East Roots 13,O13,2024,18-25,Female,90
+East Roots 13,O13,2024,18-25,Male,15
+East Roots 13,O13,2024,26-45,Female,0
+East Roots 13,O13,2024,26-45,Male,3
+East Roots 13,O13,2024,46-60,Female,94
+East Roots 13,O13,2024,46-60,Male,122
+East Roots 13,O13,2024,Above 60,Female,37
+East Roots 13,O13,2024,Above 60,Male,109
+Bridge Earth 14,O14,2014,18-25,Female,46
+Bridge Earth 14,O14,2014,18-25,Male,0
+Bridge Earth 14,O14,2014,26-45,Female,36
+Bridge Earth 14,O14,2014,26-45,Male,36
+Bridge Earth 14,O14,2014,46-60,Female,32
+Bridge Earth 14,O14,2014,46-60,Male,76
+Bridge Earth 14,O14,2014,Above 60,Female,114
+Bridge Earth 14,O14,2014,Above 60,Male,97
+Bridge Earth 14,O14,2015,18-25,Female,65
+Bridge Earth 14,O14,2015,18-25,Male,10
+Bridge Earth 14,O14,2015,26-45,Female,61
+Bridge Earth 14,O14,2015,26-45,Male,14
+Bridge Earth 14,O14,2015,46-60,Female,207
+Bridge Earth 14,O14,2015,46-60,Male,85
+Bridge Earth 14,O14,2015,Above 60,Female,5
+Bridge Earth 14,O14,2015,Above 60,Male,0
+Bridge Earth 14,O14,2016,18-25,Female,98
+Bridge Earth 14,O14,2016,18-25,Male,222
+Bridge Earth 14,O14,2016,26-45,Female,0
+Bridge Earth 14,O14,2016,26-45,Male,80
+Bridge Earth 14,O14,2016,46-60,Female,1
+Bridge Earth 14,O14,2016,46-60,Male,4
+Bridge Earth 14,O14,2016,Above 60,Female,1
+Bridge Earth 14,O14,2016,Above 60,Male,15
+Bridge Earth 14,O14,2017,18-25,Female,0
+Bridge Earth 14,O14,2017,18-25,Male,28
+Bridge Earth 14,O14,2017,26-45,Female,147
+Bridge Earth 14,O14,2017,26-45,Male,16
+Bridge Earth 14,O14,2017,46-60,Female,11
+Bridge Earth 14,O14,2017,46-60,Male,206
+Bridge Earth 14,O14,2017,Above 60,Female,8
+Bridge Earth 14,O14,2017,Above 60,Male,5
+Bridge Earth 14,O14,2018,18-25,Female,25
+Bridge Earth 14,O14,2018,18-25,Male,43
+Bridge Earth 14,O14,2018,26-45,Female,178
+Bridge Earth 14,O14,2018,26-45,Male,9
+Bridge Earth 14,O14,2018,46-60,Female,42
+Bridge Earth 14,O14,2018,46-60,Male,35
+Bridge Earth 14,O14,2018,Above 60,Female,77
+Bridge Earth 14,O14,2018,Above 60,Male,0
+Bridge Earth 14,O14,2019,18-25,Female,0
+Bridge Earth 14,O14,2019,18-25,Male,73
+Bridge Earth 14,O14,2019,26-45,Female,26
+Bridge Earth 14,O14,2019,26-45,Male,61
+Bridge Earth 14,O14,2019,46-60,Female,64
+Bridge Earth 14,O14,2019,46-60,Male,91
+Bridge Earth 14,O14,2019,Above 60,Female,85
+Bridge Earth 14,O14,2019,Above 60,Male,7
+Bridge Earth 14,O14,2020,18-25,Female,19
+Bridge Earth 14,O14,2020,18-25,Male,174
+Bridge Earth 14,O14,2020,26-45,Female,0
+Bridge Earth 14,O14,2020,26-45,Male,8
+Bridge Earth 14,O14,2020,46-60,Female,11
+Bridge Earth 14,O14,2020,46-60,Male,111
+Bridge Earth 14,O14,2020,Above 60,Female,93
+Bridge Earth 14,O14,2020,Above 60,Male,10
+Bridge Earth 14,O14,2021,18-25,Female,77
+Bridge Earth 14,O14,2021,18-25,Male,0
+Bridge Earth 14,O14,2021,26-45,Female,40
+Bridge Earth 14,O14,2021,26-45,Male,40
+Bridge Earth 14,O14,2021,46-60,Female,55
+Bridge Earth 14,O14,2021,46-60,Male,172
+Bridge Earth 14,O14,2021,Above 60,Female,29
+Bridge Earth 14,O14,2021,Above 60,Male,196
+Bridge Earth 14,O14,2022,18-25,Female,114
+Bridge Earth 14,O14,2022,18-25,Male,44
+Bridge Earth 14,O14,2022,26-45,Female,147
+Bridge Earth 14,O14,2022,26-45,Male,161
+Bridge Earth 14,O14,2022,46-60,Female,123
+Bridge Earth 14,O14,2022,46-60,Male,12
+Bridge Earth 14,O14,2022,Above 60,Female,0
+Bridge Earth 14,O14,2022,Above 60,Male,15
+Bridge Earth 14,O14,2023,18-25,Female,68
+Bridge Earth 14,O14,2023,18-25,Male,78
+Bridge Earth 14,O14,2023,26-45,Female,53
+Bridge Earth 14,O14,2023,26-45,Male,37
+Bridge Earth 14,O14,2023,46-60,Female,211
+Bridge Earth 14,O14,2023,46-60,Male,65
+Bridge Earth 14,O14,2023,Above 60,Female,0
+Bridge Earth 14,O14,2023,Above 60,Male,63
+Bridge Earth 14,O14,2024,18-25,Female,43
+Bridge Earth 14,O14,2024,18-25,Male,0
+Bridge Earth 14,O14,2024,26-45,Female,34
+Bridge Earth 14,O14,2024,26-45,Male,160
+Bridge Earth 14,O14,2024,46-60,Female,14
+Bridge Earth 14,O14,2024,46-60,Male,67
+Bridge Earth 14,O14,2024,Above 60,Female,10
+Bridge Earth 14,O14,2024,Above 60,Male,236
+Bridge Access 15,O15,2018,18-25,Female,63
+Bridge Access 15,O15,2018,18-25,Male,0
+Bridge Access 15,O15,2018,26-45,Female,42
+Bridge Access 15,O15,2018,26-45,Male,83
+Bridge Access 15,O15,2018,46-60,Female,20
+Bridge Access 15,O15,2018,46-60,Male,120
+Bridge Access 15,O15,2018,Above 60,Female,32
+Bridge Access 15,O15,2018,Above 60,Male,7
+Bridge Access 15,O15,2019,18-25,Female,17
+Bridge Access 15,O15,2019,18-25,Male,117
+Bridge Access 15,O15,2019,26-45,Female,5
+Bridge Access 15,O15,2019,26-45,Male,99
+Bridge Access 15,O15,2019,46-60,Female,24
+Bridge Access 15,O15,2019,46-60,Male,36
+Bridge Access 15,O15,2019,Above 60,Female,63
+Bridge Access 15,O15,2019,Above 60,Male,0
+Bridge Access 15,O15,2020,18-25,Female,85
+Bridge Access 15,O15,2020,18-25,Male,0
+Bridge Access 15,O15,2020,26-45,Female,7
+Bridge Access 15,O15,2020,26-45,Male,167
+Bridge Access 15,O15,2020,46-60,Female,23
+Bridge Access 15,O15,2020,46-60,Male,31
+Bridge Access 15,O15,2020,Above 60,Female,101
+Bridge Access 15,O15,2020,Above 60,Male,43
+Bridge Access 15,O15,2021,18-25,Female,22
+Bridge Access 15,O15,2021,18-25,Male,53
+Bridge Access 15,O15,2021,26-45,Female,13
+Bridge Access 15,O15,2021,26-45,Male,65
+Bridge Access 15,O15,2021,46-60,Female,98
+Bridge Access 15,O15,2021,46-60,Male,95
+Bridge Access 15,O15,2021,Above 60,Female,68
+Bridge Access 15,O15,2021,Above 60,Male,0
+Bridge Access 15,O15,2022,18-25,Female,202
+Bridge Access 15,O15,2022,18-25,Male,1
+Bridge Access 15,O15,2022,26-45,Female,0
+Bridge Access 15,O15,2022,26-45,Male,26
+Bridge Access 15,O15,2022,46-60,Female,91
+Bridge Access 15,O15,2022,46-60,Male,29
+Bridge Access 15,O15,2022,Above 60,Female,5
+Bridge Access 15,O15,2022,Above 60,Male,76
+Bridge Access 15,O15,2023,18-25,Female,17
+Bridge Access 15,O15,2023,18-25,Male,0
+Bridge Access 15,O15,2023,26-45,Female,14
+Bridge Access 15,O15,2023,26-45,Male,70
+Bridge Access 15,O15,2023,46-60,Female,114
+Bridge Access 15,O15,2023,46-60,Male,28
+Bridge Access 15,O15,2023,Above 60,Female,262
+Bridge Access 15,O15,2023,Above 60,Male,71
+Bridge Access 15,O15,2024,18-25,Female,0
+Bridge Access 15,O15,2024,18-25,Male,40
+Bridge Access 15,O15,2024,26-45,Female,351
+Bridge Access 15,O15,2024,26-45,Male,13
+Bridge Access 15,O15,2024,46-60,Female,70
+Bridge Access 15,O15,2024,46-60,Male,4
+Bridge Access 15,O15,2024,Above 60,Female,103
+Bridge Access 15,O15,2024,Above 60,Male,22
+Green Partners 16,O16,2013,18-25,Female,63
+Green Partners 16,O16,2013,18-25,Male,140
+Green Partners 16,O16,2013,26-45,Female,13
+Green Partners 16,O16,2013,26-45,Male,126
+Green Partners 16,O16,2013,46-60,Female,85
+Green Partners 16,O16,2013,46-60,Male,41
+Green Partners 16,O16,2013,Above 60,Female,139
+Green Partners 16,O16,2013,Above 60,Male,0
+Green Partners 16,O16,2014,18-25,Female,131
+Green Partners 16,O16,2014,18-25,Male,0
+Green Partners 16,O16,2014,26-45,Female,47
+Green Partners 16,O16,2014,26-45,Male,55
+Green Partners 16,O16,2014,46-60,Female,181
+Green Partners 16,O16,2014,46-60,Male,74
+Green Partners 16,O16,2014,Above 60,Female,79
+Green Partners 16,O16,2014,Above 60,Male,34
+Green Partners 16,O16,2015,18-25,Female,174
+Green Partners 16,O16,2015,18-25,Male,0
+Green Partners 16,O16,2015,26-45,Female,23
+Green Partners 16,O16,2015,26-45,Male,5
+Green Partners 16,O16,2015,46-60,Female,13
+Green Partners 16,O16,2015,46-60,Male,152
+Green Partners 16,O16,2015,Above 60,Female,81
+Green Partners 16,O16,2015,Above 60,Male,122
+Green Partners 16,O16,2016,18-25,Female,155
+Green Partners 16,O16,2016,18-25,Male,17
+Green Partners 16,O16,2016,26-45,Female,57
+Green Partners 16,O16,2016,26-45,Male,87
+Green Partners 16,O16,2016,46-60,Female,92
+Green Partners 16,O16,2016,46-60,Male,49
+Green Partners 16,O16,2016,Above 60,Female,0
+Green Partners 16,O16,2016,Above 60,Male,115
+Green Partners 16,O16,2017,18-25,Female,129
+Green Partners 16,O16,2017,18-25,Male,80
+Green Partners 16,O16,2017,26-45,Female,31
+Green Partners 16,O16,2017,26-45,Male,161
+Green Partners 16,O16,2017,46-60,Female,195
+Green Partners 16,O16,2017,46-60,Male,7
+Green Partners 16,O16,2017,Above 60,Female,0
+Green Partners 16,O16,2017,Above 60,Male,6
+Green Partners 16,O16,2018,18-25,Female,49
+Green Partners 16,O16,2018,18-25,Male,161
+Green Partners 16,O16,2018,26-45,Female,0
+Green Partners 16,O16,2018,26-45,Male,216
+Green Partners 16,O16,2018,46-60,Female,32
+Green Partners 16,O16,2018,46-60,Male,59
+Green Partners 16,O16,2018,Above 60,Female,60
+Green Partners 16,O16,2018,Above 60,Male,14
+Green Partners 16,O16,2019,18-25,Female,26
+Green Partners 16,O16,2019,18-25,Male,211
+Green Partners 16,O16,2019,26-45,Female,23
+Green Partners 16,O16,2019,26-45,Male,0
+Green Partners 16,O16,2019,46-60,Female,13
+Green Partners 16,O16,2019,46-60,Male,91
+Green Partners 16,O16,2019,Above 60,Female,114
+Green Partners 16,O16,2019,Above 60,Male,102
+Green Partners 16,O16,2020,18-25,Female,15
+Green Partners 16,O16,2020,18-25,Male,0
+Green Partners 16,O16,2020,26-45,Female,134
+Green Partners 16,O16,2020,26-45,Male,0
+Green Partners 16,O16,2020,46-60,Female,72
+Green Partners 16,O16,2020,46-60,Male,185
+Green Partners 16,O16,2020,Above 60,Female,67
+Green Partners 16,O16,2020,Above 60,Male,8
+Green Partners 16,O16,2021,18-25,Female,109
+Green Partners 16,O16,2021,18-25,Male,32
+Green Partners 16,O16,2021,26-45,Female,43
+Green Partners 16,O16,2021,26-45,Male,32
+Green Partners 16,O16,2021,46-60,Female,74
+Green Partners 16,O16,2021,46-60,Male,0
+Green Partners 16,O16,2021,Above 60,Female,112
+Green Partners 16,O16,2021,Above 60,Male,217
+Green Partners 16,O16,2022,18-25,Female,60
+Green Partners 16,O16,2022,18-25,Male,31
+Green Partners 16,O16,2022,26-45,Female,67
+Green Partners 16,O16,2022,26-45,Male,259
+Green Partners 16,O16,2022,46-60,Female,91
+Green Partners 16,O16,2022,46-60,Male,0
+Green Partners 16,O16,2022,Above 60,Female,28
+Green Partners 16,O16,2022,Above 60,Male,50
+Green Partners 16,O16,2023,18-25,Female,0
+Green Partners 16,O16,2023,18-25,Male,101
+Green Partners 16,O16,2023,26-45,Female,315
+Green Partners 16,O16,2023,26-45,Male,28
+Green Partners 16,O16,2023,46-60,Female,6
+Green Partners 16,O16,2023,46-60,Male,172
+Green Partners 16,O16,2023,Above 60,Female,82
+Green Partners 16,O16,2023,Above 60,Male,1
+Green Partners 16,O16,2024,18-25,Female,147
+Green Partners 16,O16,2024,18-25,Male,33
+Green Partners 16,O16,2024,26-45,Female,45
+Green Partners 16,O16,2024,26-45,Male,21
+Green Partners 16,O16,2024,46-60,Female,116
+Green Partners 16,O16,2024,46-60,Male,0
+Green Partners 16,O16,2024,Above 60,Female,151
+Green Partners 16,O16,2024,Above 60,Male,46
+North Trust 17,O17,2017,18-25,Female,222
+North Trust 17,O17,2017,18-25,Male,0
+North Trust 17,O17,2017,26-45,Female,9
+North Trust 17,O17,2017,26-45,Male,98
+North Trust 17,O17,2017,46-60,Female,9
+North Trust 17,O17,2017,46-60,Male,159
+North Trust 17,O17,2017,Above 60,Female,49
+North Trust 17,O17,2017,Above 60,Male,42
+North Trust 17,O17,2018,18-25,Female,188
+North Trust 17,O17,2018,18-25,Male,0
+North Trust 17,O17,2018,26-45,Female,21
+North Trust 17,O17,2018,26-45,Male,1
+North Trust 17,O17,2018,46-60,Female,5
+North Trust 17,O17,2018,46-60,Male,105
+North Trust 17,O17,2018,Above 60,Female,162
+North Trust 17,O17,2018,Above 60,Male,116
+North Trust 17,O17,2019,18-25,Female,19
+North Trust 17,O17,2019,18-25,Male,0
+North Trust 17,O17,2019,26-45,Female,329
+North Trust 17,O17,2019,26-45,Male,64
+North Trust 17,O17,2019,46-60,Female,26
+North Trust 17,O17,2019,46-60,Male,35
+North Trust 17,O17,2019,Above 60,Female,30
+North Trust 17,O17,2019,Above 60,Male,71
+North Trust 17,O17,2020,18-25,Female,16
+North Trust 17,O17,2020,18-25,Male,13
+North Trust 17,O17,2020,26-45,Female,8
+North Trust 17,O17,2020,26-45,Male,0
+North Trust 17,O17,2020,46-60,Female,157
+North Trust 17,O17,2020,46-60,Male,11
+North Trust 17,O17,2020,Above 60,Female,144
+North Trust 17,O17,2020,Above 60,Male,261
+North Trust 17,O17,2021,18-25,Female,77
+North Trust 17,O17,2021,18-25,Male,27
+North Trust 17,O17,2021,26-45,Female,123
+North Trust 17,O17,2021,26-45,Male,79
+North Trust 17,O17,2021,46-60,Female,0
+North Trust 17,O17,2021,46-60,Male,99
+North Trust 17,O17,2021,Above 60,Female,3
+North Trust 17,O17,2021,Above 60,Male,133
+North Trust 17,O17,2022,18-25,Female,132
+North Trust 17,O17,2022,18-25,Male,0
+North Trust 17,O17,2022,26-45,Female,238
+North Trust 17,O17,2022,26-45,Male,8
+North Trust 17,O17,2022,46-60,Female,114
+North Trust 17,O17,2022,46-60,Male,36
+North Trust 17,O17,2022,Above 60,Female,88
+North Trust 17,O17,2022,Above 60,Male,18
+North Trust 17,O17,2023,18-25,Female,4
+North Trust 17,O17,2023,18-25,Male,175
+North Trust 17,O17,2023,26-45,Female,57
+North Trust 17,O17,2023,26-45,Male,63
+North Trust 17,O17,2023,46-60,Female,0
+North Trust 17,O17,2023,46-60,Male,64
+North Trust 17,O17,2023,Above 60,Female,194
+North Trust 17,O17,2023,Above 60,Male,74
+North Trust 17,O17,2024,18-25,Female,157
+North Trust 17,O17,2024,18-25,Male,154
+North Trust 17,O17,2024,26-45,Female,31
+North Trust 17,O17,2024,26-45,Male,113
+North Trust 17,O17,2024,46-60,Female,23
+North Trust 17,O17,2024,46-60,Male,0
+North Trust 17,O17,2024,Above 60,Female,59
+North Trust 17,O17,2024,Above 60,Male,226
+Echo Network 18,O18,2019,18-25,Female,0
+Echo Network 18,O18,2019,18-25,Male,55
+Echo Network 18,O18,2019,26-45,Female,36
+Echo Network 18,O18,2019,26-45,Male,13
+Echo Network 18,O18,2019,46-60,Female,54
+Echo Network 18,O18,2019,46-60,Male,2
+Echo Network 18,O18,2019,Above 60,Female,7
+Echo Network 18,O18,2019,Above 60,Male,10
+Echo Network 18,O18,2020,18-25,Female,25
+Echo Network 18,O18,2020,18-25,Male,59
+Echo Network 18,O18,2020,26-45,Female,0
+Echo Network 18,O18,2020,26-45,Male,4
+Echo Network 18,O18,2020,46-60,Female,13
+Echo Network 18,O18,2020,46-60,Male,40
+Echo Network 18,O18,2020,Above 60,Female,8
+Echo Network 18,O18,2020,Above 60,Male,36
+Echo Network 18,O18,2021,18-25,Female,56
+Echo Network 18,O18,2021,18-25,Male,37
+Echo Network 18,O18,2021,26-45,Female,9
+Echo Network 18,O18,2021,26-45,Male,22
+Echo Network 18,O18,2021,46-60,Female,0
+Echo Network 18,O18,2021,46-60,Male,35
+Echo Network 18,O18,2021,Above 60,Female,48
+Echo Network 18,O18,2021,Above 60,Male,36
+Echo Network 18,O18,2022,18-25,Female,61
+Echo Network 18,O18,2022,18-25,Male,2
+Echo Network 18,O18,2022,26-45,Female,0
+Echo Network 18,O18,2022,26-45,Male,112
+Echo Network 18,O18,2022,46-60,Female,10
+Echo Network 18,O18,2022,46-60,Male,70
+Echo Network 18,O18,2022,Above 60,Female,106
+Echo Network 18,O18,2022,Above 60,Male,18
+Echo Network 18,O18,2023,18-25,Female,7
+Echo Network 18,O18,2023,18-25,Male,11
+Echo Network 18,O18,2023,26-45,Female,22
+Echo Network 18,O18,2023,26-45,Male,12
+Echo Network 18,O18,2023,46-60,Female,17
+Echo Network 18,O18,2023,46-60,Male,0
+Echo Network 18,O18,2023,Above 60,Female,159
+Echo Network 18,O18,2023,Above 60,Male,21
+Echo Network 18,O18,2024,18-25,Female,93
+Echo Network 18,O18,2024,18-25,Male,98
+Echo Network 18,O18,2024,26-45,Female,57
+Echo Network 18,O18,2024,26-45,Male,2
+Echo Network 18,O18,2024,46-60,Female,34
+Echo Network 18,O18,2024,46-60,Male,0
+Echo Network 18,O18,2024,Above 60,Female,6
+Echo Network 18,O18,2024,Above 60,Male,47
+Kind Roots 19,O19,2018,18-25,Female,27
+Kind Roots 19,O19,2018,18-25,Male,119
+Kind Roots 19,O19,2018,26-45,Female,24
+Kind Roots 19,O19,2018,26-45,Male,12
+Kind Roots 19,O19,2018,46-60,Female,58
+Kind Roots 19,O19,2018,46-60,Male,39
+Kind Roots 19,O19,2018,Above 60,Female,0
+Kind Roots 19,O19,2018,Above 60,Male,149
+Kind Roots 19,O19,2019,18-25,Female,2
+Kind Roots 19,O19,2019,18-25,Male,86
+Kind Roots 19,O19,2019,26-45,Female,1
+Kind Roots 19,O19,2019,26-45,Male,112
+Kind Roots 19,O19,2019,46-60,Female,33
+Kind Roots 19,O19,2019,46-60,Male,52
+Kind Roots 19,O19,2019,Above 60,Female,0
+Kind Roots 19,O19,2019,Above 60,Male,140
+Kind Roots 19,O19,2020,18-25,Female,52
+Kind Roots 19,O19,2020,18-25,Male,59
+Kind Roots 19,O19,2020,26-45,Female,2
+Kind Roots 19,O19,2020,26-45,Male,128
+Kind Roots 19,O19,2020,46-60,Female,0
+Kind Roots 19,O19,2020,46-60,Male,54
+Kind Roots 19,O19,2020,Above 60,Female,45
+Kind Roots 19,O19,2020,Above 60,Male,96
+Kind Roots 19,O19,2021,18-25,Female,133
+Kind Roots 19,O19,2021,18-25,Male,206
+Kind Roots 19,O19,2021,26-45,Female,70
+Kind Roots 19,O19,2021,26-45,Male,3
+Kind Roots 19,O19,2021,46-60,Female,0
+Kind Roots 19,O19,2021,46-60,Male,75
+Kind Roots 19,O19,2021,Above 60,Female,19
+Kind Roots 19,O19,2021,Above 60,Male,53
+Kind Roots 19,O19,2022,18-25,Female,11
+Kind Roots 19,O19,2022,18-25,Male,12
+Kind Roots 19,O19,2022,26-45,Female,80
+Kind Roots 19,O19,2022,26-45,Male,7
+Kind Roots 19,O19,2022,46-60,Female,149
+Kind Roots 19,O19,2022,46-60,Male,161
+Kind Roots 19,O19,2022,Above 60,Female,144
+Kind Roots 19,O19,2022,Above 60,Male,0
+Kind Roots 19,O19,2023,18-25,Female,145
+Kind Roots 19,O19,2023,18-25,Male,24
+Kind Roots 19,O19,2023,26-45,Female,32
+Kind Roots 19,O19,2023,26-45,Male,141
+Kind Roots 19,O19,2023,46-60,Female,92
+Kind Roots 19,O19,2023,46-60,Male,0
+Kind Roots 19,O19,2023,Above 60,Female,69
+Kind Roots 19,O19,2023,Above 60,Male,43
+Kind Roots 19,O19,2024,18-25,Female,0
+Kind Roots 19,O19,2024,18-25,Male,106
+Kind Roots 19,O19,2024,26-45,Female,203
+Kind Roots 19,O19,2024,26-45,Male,115
+Kind Roots 19,O19,2024,46-60,Female,65
+Kind Roots 19,O19,2024,46-60,Male,2
+Kind Roots 19,O19,2024,Above 60,Female,16
+Kind Roots 19,O19,2024,Above 60,Male,64
+Unity Action 20,O20,2013,18-25,Female,0
+Unity Action 20,O20,2013,18-25,Male,53
+Unity Action 20,O20,2013,26-45,Female,73
+Unity Action 20,O20,2013,26-45,Male,12
+Unity Action 20,O20,2013,46-60,Female,10
+Unity Action 20,O20,2013,46-60,Male,68
+Unity Action 20,O20,2013,Above 60,Female,34
+Unity Action 20,O20,2013,Above 60,Male,25
+Unity Action 20,O20,2014,18-25,Female,21
+Unity Action 20,O20,2014,18-25,Male,13
+Unity Action 20,O20,2014,26-45,Female,13
+Unity Action 20,O20,2014,26-45,Male,101
+Unity Action 20,O20,2014,46-60,Female,28
+Unity Action 20,O20,2014,46-60,Male,0
+Unity Action 20,O20,2014,Above 60,Female,50
+Unity Action 20,O20,2014,Above 60,Male,65
+Unity Action 20,O20,2015,18-25,Female,35
+Unity Action 20,O20,2015,18-25,Male,22
+Unity Action 20,O20,2015,26-45,Female,61
+Unity Action 20,O20,2015,26-45,Male,68
+Unity Action 20,O20,2015,46-60,Female,0
+Unity Action 20,O20,2015,46-60,Male,34
+Unity Action 20,O20,2015,Above 60,Female,6
+Unity Action 20,O20,2015,Above 60,Male,76
+Unity Action 20,O20,2016,18-25,Female,18
+Unity Action 20,O20,2016,18-25,Male,38
+Unity Action 20,O20,2016,26-45,Female,30
+Unity Action 20,O20,2016,26-45,Male,42
+Unity Action 20,O20,2016,46-60,Female,6
+Unity Action 20,O20,2016,46-60,Male,9
+Unity Action 20,O20,2016,Above 60,Female,116
+Unity Action 20,O20,2016,Above 60,Male,0
+Unity Action 20,O20,2017,18-25,Female,7
+Unity Action 20,O20,2017,18-25,Male,20
+Unity Action 20,O20,2017,26-45,Female,0
+Unity Action 20,O20,2017,26-45,Male,79
+Unity Action 20,O20,2017,46-60,Female,8
+Unity Action 20,O20,2017,46-60,Male,49
+Unity Action 20,O20,2017,Above 60,Female,69
+Unity Action 20,O20,2017,Above 60,Male,30
+Unity Action 20,O20,2018,18-25,Female,7
+Unity Action 20,O20,2018,18-25,Male,39
+Unity Action 20,O20,2018,26-45,Female,14
+Unity Action 20,O20,2018,26-45,Male,0
+Unity Action 20,O20,2018,46-60,Female,162
+Unity Action 20,O20,2018,46-60,Male,7
+Unity Action 20,O20,2018,Above 60,Female,30
+Unity Action 20,O20,2018,Above 60,Male,17
+Unity Action 20,O20,2019,18-25,Female,0
+Unity Action 20,O20,2019,18-25,Male,20
+Unity Action 20,O20,2019,26-45,Female,0
+Unity Action 20,O20,2019,26-45,Male,8
+Unity Action 20,O20,2019,46-60,Female,121
+Unity Action 20,O20,2019,46-60,Male,11
+Unity Action 20,O20,2019,Above 60,Female,99
+Unity Action 20,O20,2019,Above 60,Male,10
+Unity Action 20,O20,2020,18-25,Female,24
+Unity Action 20,O20,2020,18-25,Male,46
+Unity Action 20,O20,2020,26-45,Female,5
+Unity Action 20,O20,2020,26-45,Male,0
+Unity Action 20,O20,2020,46-60,Female,14
+Unity Action 20,O20,2020,46-60,Male,63
+Unity Action 20,O20,2020,Above 60,Female,84
+Unity Action 20,O20,2020,Above 60,Male,57
+Unity Action 20,O20,2021,18-25,Female,14
+Unity Action 20,O20,2021,18-25,Male,36
+Unity Action 20,O20,2021,26-45,Female,48
+Unity Action 20,O20,2021,26-45,Male,56
+Unity Action 20,O20,2021,46-60,Female,0
+Unity Action 20,O20,2021,46-60,Male,26
+Unity Action 20,O20,2021,Above 60,Female,15
+Unity Action 20,O20,2021,Above 60,Male,14
+Unity Action 20,O20,2022,18-25,Female,27
+Unity Action 20,O20,2022,18-25,Male,38
+Unity Action 20,O20,2022,26-45,Female,83
+Unity Action 20,O20,2022,26-45,Male,0
+Unity Action 20,O20,2022,46-60,Female,23
+Unity Action 20,O20,2022,46-60,Male,5
+Unity Action 20,O20,2022,Above 60,Female,105
+Unity Action 20,O20,2022,Above 60,Male,28
+Unity Action 20,O20,2023,18-25,Female,21
+Unity Action 20,O20,2023,18-25,Male,0
+Unity Action 20,O20,2023,26-45,Female,38
+Unity Action 20,O20,2023,26-45,Male,59
+Unity Action 20,O20,2023,46-60,Female,17
+Unity Action 20,O20,2023,46-60,Male,141
+Unity Action 20,O20,2023,Above 60,Female,40
+Unity Action 20,O20,2023,Above 60,Male,24
+Unity Action 20,O20,2024,18-25,Female,86
+Unity Action 20,O20,2024,18-25,Male,0
+Unity Action 20,O20,2024,26-45,Female,151
+Unity Action 20,O20,2024,26-45,Male,22
+Unity Action 20,O20,2024,46-60,Female,19
+Unity Action 20,O20,2024,46-60,Male,116
+Unity Action 20,O20,2024,Above 60,Female,89
+Unity Action 20,O20,2024,Above 60,Male,24
+Blue Trust 21,O21,2011,18-25,Female,4
+Blue Trust 21,O21,2011,18-25,Male,93
+Blue Trust 21,O21,2011,26-45,Female,0
+Blue Trust 21,O21,2011,26-45,Male,25
+Blue Trust 21,O21,2011,46-60,Female,151
+Blue Trust 21,O21,2011,46-60,Male,78
+Blue Trust 21,O21,2011,Above 60,Female,139
+Blue Trust 21,O21,2011,Above 60,Male,41
+Blue Trust 21,O21,2012,18-25,Female,12
+Blue Trust 21,O21,2012,18-25,Male,124
+Blue Trust 21,O21,2012,26-45,Female,0
+Blue Trust 21,O21,2012,26-45,Male,32
+Blue Trust 21,O21,2012,46-60,Female,83
+Blue Trust 21,O21,2012,46-60,Male,187
+Blue Trust 21,O21,2012,Above 60,Female,52
+Blue Trust 21,O21,2012,Above 60,Male,48
+Blue Trust 21,O21,2013,18-25,Female,0
+Blue Trust 21,O21,2013,18-25,Male,71
+Blue Trust 21,O21,2013,26-45,Female,397
+Blue Trust 21,O21,2013,26-45,Male,26
+Blue Trust 21,O21,2013,46-60,Female,2
+Blue Trust 21,O21,2013,46-60,Male,12
+Blue Trust 21,O21,2013,Above 60,Female,46
+Blue Trust 21,O21,2013,Above 60,Male,18
+Blue Trust 21,O21,2014,18-25,Female,0
+Blue Trust 21,O21,2014,18-25,Male,179
+Blue Trust 21,O21,2014,26-45,Female,116
+Blue Trust 21,O21,2014,26-45,Male,20
+Blue Trust 21,O21,2014,46-60,Female,7
+Blue Trust 21,O21,2014,46-60,Male,78
+Blue Trust 21,O21,2014,Above 60,Female,105
+Blue Trust 21,O21,2014,Above 60,Male,54
+Blue Trust 21,O21,2015,18-25,Female,32
+Blue Trust 21,O21,2015,18-25,Male,101
+Blue Trust 21,O21,2015,26-45,Female,1
+Blue Trust 21,O21,2015,26-45,Male,237
+Blue Trust 21,O21,2015,46-60,Female,47
+Blue Trust 21,O21,2015,46-60,Male,22
+Blue Trust 21,O21,2015,Above 60,Female,0
+Blue Trust 21,O21,2015,Above 60,Male,79
+Blue Trust 21,O21,2016,18-25,Female,98
+Blue Trust 21,O21,2016,18-25,Male,157
+Blue Trust 21,O21,2016,26-45,Female,1
+Blue Trust 21,O21,2016,26-45,Male,0
+Blue Trust 21,O21,2016,46-60,Female,25
+Blue Trust 21,O21,2016,46-60,Male,4
+Blue Trust 21,O21,2016,Above 60,Female,32
+Blue Trust 21,O21,2016,Above 60,Male,225
+Blue Trust 21,O21,2017,18-25,Female,107
+Blue Trust 21,O21,2017,18-25,Male,19
+Blue Trust 21,O21,2017,26-45,Female,187
+Blue Trust 21,O21,2017,26-45,Male,1
+Blue Trust 21,O21,2017,46-60,Female,27
+Blue Trust 21,O21,2017,46-60,Male,28
+Blue Trust 21,O21,2017,Above 60,Female,0
+Blue Trust 21,O21,2017,Above 60,Male,192
+Blue Trust 21,O21,2018,18-25,Female,13
+Blue Trust 21,O21,2018,18-25,Male,8
+Blue Trust 21,O21,2018,26-45,Female,8
+Blue Trust 21,O21,2018,26-45,Male,126
+Blue Trust 21,O21,2018,46-60,Female,162
+Blue Trust 21,O21,2018,46-60,Male,83
+Blue Trust 21,O21,2018,Above 60,Female,139
+Blue Trust 21,O21,2018,Above 60,Male,0
+Blue Trust 21,O21,2019,18-25,Female,52
+Blue Trust 21,O21,2019,18-25,Male,3
+Blue Trust 21,O21,2019,26-45,Female,246
+Blue Trust 21,O21,2019,26-45,Male,55
+Blue Trust 21,O21,2019,46-60,Female,113
+Blue Trust 21,O21,2019,46-60,Male,8
+Blue Trust 21,O21,2019,Above 60,Female,0
+Blue Trust 21,O21,2019,Above 60,Male,35
+Blue Trust 21,O21,2020,18-25,Female,53
+Blue Trust 21,O21,2020,18-25,Male,3
+Blue Trust 21,O21,2020,26-45,Female,4
+Blue Trust 21,O21,2020,26-45,Male,0
+Blue Trust 21,O21,2020,46-60,Female,166
+Blue Trust 21,O21,2020,46-60,Male,179
+Blue Trust 21,O21,2020,Above 60,Female,52
+Blue Trust 21,O21,2020,Above 60,Male,20
+Blue Trust 21,O21,2021,18-25,Female,149
+Blue Trust 21,O21,2021,18-25,Male,42
+Blue Trust 21,O21,2021,26-45,Female,67
+Blue Trust 21,O21,2021,26-45,Male,110
+Blue Trust 21,O21,2021,46-60,Female,55
+Blue Trust 21,O21,2021,46-60,Male,40
+Blue Trust 21,O21,2021,Above 60,Female,0
+Blue Trust 21,O21,2021,Above 60,Male,13
+Blue Trust 21,O21,2022,18-25,Female,20
+Blue Trust 21,O21,2022,18-25,Male,28
+Blue Trust 21,O21,2022,26-45,Female,73
+Blue Trust 21,O21,2022,26-45,Male,88
+Blue Trust 21,O21,2022,46-60,Female,75
+Blue Trust 21,O21,2022,46-60,Male,111
+Blue Trust 21,O21,2022,Above 60,Female,0
+Blue Trust 21,O21,2022,Above 60,Male,86
+Blue Trust 21,O21,2023,18-25,Female,87
+Blue Trust 21,O21,2023,18-25,Male,28
+Blue Trust 21,O21,2023,26-45,Female,0
+Blue Trust 21,O21,2023,26-45,Male,311
+Blue Trust 21,O21,2023,46-60,Female,12
+Blue Trust 21,O21,2023,46-60,Male,21
+Blue Trust 21,O21,2023,Above 60,Female,64
+Blue Trust 21,O21,2023,Above 60,Male,67
+Blue Trust 21,O21,2024,18-25,Female,95
+Blue Trust 21,O21,2024,18-25,Male,83
+Blue Trust 21,O21,2024,26-45,Female,16
+Blue Trust 21,O21,2024,26-45,Male,0
+Blue Trust 21,O21,2024,46-60,Female,12
+Blue Trust 21,O21,2024,46-60,Male,141
+Blue Trust 21,O21,2024,Above 60,Female,167
+Blue Trust 21,O21,2024,Above 60,Male,47
+West Aid 22,O22,2014,18-25,Female,66
+West Aid 22,O22,2014,18-25,Male,102
+West Aid 22,O22,2014,26-45,Female,3
+West Aid 22,O22,2014,26-45,Male,73
+West Aid 22,O22,2014,46-60,Female,10
+West Aid 22,O22,2014,46-60,Male,0
+West Aid 22,O22,2014,Above 60,Female,2
+West Aid 22,O22,2014,Above 60,Male,157
+West Aid 22,O22,2015,18-25,Female,52
+West Aid 22,O22,2015,18-25,Male,1
+West Aid 22,O22,2015,26-45,Female,81
+West Aid 22,O22,2015,26-45,Male,95
+West Aid 22,O22,2015,46-60,Female,49
+West Aid 22,O22,2015,46-60,Male,104
+West Aid 22,O22,2015,Above 60,Female,10
+West Aid 22,O22,2015,Above 60,Male,0
+West Aid 22,O22,2016,18-25,Female,21
+West Aid 22,O22,2016,18-25,Male,13
+West Aid 22,O22,2016,26-45,Female,50
+West Aid 22,O22,2016,26-45,Male,159
+West Aid 22,O22,2016,46-60,Female,21
+West Aid 22,O22,2016,46-60,Male,132
+West Aid 22,O22,2016,Above 60,Female,28
+West Aid 22,O22,2016,Above 60,Male,0
+West Aid 22,O22,2017,18-25,Female,61
+West Aid 22,O22,2017,18-25,Male,13
+West Aid 22,O22,2017,26-45,Female,33
+West Aid 22,O22,2017,26-45,Male,46
+West Aid 22,O22,2017,46-60,Female,38
+West Aid 22,O22,2017,46-60,Male,37
+West Aid 22,O22,2017,Above 60,Female,159
+West Aid 22,O22,2017,Above 60,Male,0
+West Aid 22,O22,2018,18-25,Female,23
+West Aid 22,O22,2018,18-25,Male,85
+West Aid 22,O22,2018,26-45,Female,10
+West Aid 22,O22,2018,26-45,Male,39
+West Aid 22,O22,2018,46-60,Female,0
+West Aid 22,O22,2018,46-60,Male,216
+West Aid 22,O22,2018,Above 60,Female,22
+West Aid 22,O22,2018,Above 60,Male,68
+West Aid 22,O22,2019,18-25,Female,27
+West Aid 22,O22,2019,18-25,Male,65
+West Aid 22,O22,2019,26-45,Female,9
+West Aid 22,O22,2019,26-45,Male,38
+West Aid 22,O22,2019,46-60,Female,121
+West Aid 22,O22,2019,46-60,Male,0
+West Aid 22,O22,2019,Above 60,Female,133
+West Aid 22,O22,2019,Above 60,Male,9
+West Aid 22,O22,2020,18-25,Female,123
+West Aid 22,O22,2020,18-25,Male,110
+West Aid 22,O22,2020,26-45,Female,28
+West Aid 22,O22,2020,26-45,Male,69
+West Aid 22,O22,2020,46-60,Female,46
+West Aid 22,O22,2020,46-60,Male,120
+West Aid 22,O22,2020,Above 60,Female,39
+West Aid 22,O22,2020,Above 60,Male,0
+West Aid 22,O22,2021,18-25,Female,29
+West Aid 22,O22,2021,18-25,Male,106
+West Aid 22,O22,2021,26-45,Female,9
+West Aid 22,O22,2021,26-45,Male,13
+West Aid 22,O22,2021,46-60,Female,84
+West Aid 22,O22,2021,46-60,Male,96
+West Aid 22,O22,2021,Above 60,Female,156
+West Aid 22,O22,2021,Above 60,Male,0
+West Aid 22,O22,2022,18-25,Female,182
+West Aid 22,O22,2022,18-25,Male,56
+West Aid 22,O22,2022,26-45,Female,67
+West Aid 22,O22,2022,26-45,Male,2
+West Aid 22,O22,2022,46-60,Female,0
+West Aid 22,O22,2022,46-60,Male,168
+West Aid 22,O22,2022,Above 60,Female,15
+West Aid 22,O22,2022,Above 60,Male,95
+West Aid 22,O22,2023,18-25,Female,32
+West Aid 22,O22,2023,18-25,Male,109
+West Aid 22,O22,2023,26-45,Female,85
+West Aid 22,O22,2023,26-45,Male,104
+West Aid 22,O22,2023,46-60,Female,0
+West Aid 22,O22,2023,46-60,Male,6
+West Aid 22,O22,2023,Above 60,Female,86
+West Aid 22,O22,2023,Above 60,Male,129
+West Aid 22,O22,2024,18-25,Female,184
+West Aid 22,O22,2024,18-25,Male,16
+West Aid 22,O22,2024,26-45,Female,198
+West Aid 22,O22,2024,26-45,Male,36
+West Aid 22,O22,2024,46-60,Female,11
+West Aid 22,O22,2024,46-60,Male,0
+West Aid 22,O22,2024,Above 60,Female,98
+West Aid 22,O22,2024,Above 60,Male,98
+True Minds 23,O23,2018,18-25,Female,1
+True Minds 23,O23,2018,18-25,Male,7
+True Minds 23,O23,2018,26-45,Female,0
+True Minds 23,O23,2018,26-45,Male,59
+True Minds 23,O23,2018,46-60,Female,45
+True Minds 23,O23,2018,46-60,Male,17
+True Minds 23,O23,2018,Above 60,Female,78
+True Minds 23,O23,2018,Above 60,Male,31
+True Minds 23,O23,2019,18-25,Female,3
+True Minds 23,O23,2019,18-25,Male,43
+True Minds 23,O23,2019,26-45,Female,4
+True Minds 23,O23,2019,26-45,Male,50
+True Minds 23,O23,2019,46-60,Female,0
+True Minds 23,O23,2019,46-60,Male,14
+True Minds 23,O23,2019,Above 60,Female,121
+True Minds 23,O23,2019,Above 60,Male,2
+True Minds 23,O23,2020,18-25,Female,79
+True Minds 23,O23,2020,18-25,Male,31
+True Minds 23,O23,2020,26-45,Female,0
+True Minds 23,O23,2020,26-45,Male,19
+True Minds 23,O23,2020,46-60,Female,50
+True Minds 23,O23,2020,46-60,Male,24
+True Minds 23,O23,2020,Above 60,Female,14
+True Minds 23,O23,2020,Above 60,Male,38
+True Minds 23,O23,2021,18-25,Female,15
+True Minds 23,O23,2021,18-25,Male,16
+True Minds 23,O23,2021,26-45,Female,2
+True Minds 23,O23,2021,26-45,Male,120
+True Minds 23,O23,2021,46-60,Female,38
+True Minds 23,O23,2021,46-60,Male,0
+True Minds 23,O23,2021,Above 60,Female,94
+True Minds 23,O23,2021,Above 60,Male,18
+True Minds 23,O23,2022,18-25,Female,29
+True Minds 23,O23,2022,18-25,Male,9
+True Minds 23,O23,2022,26-45,Female,23
+True Minds 23,O23,2022,26-45,Male,0
+True Minds 23,O23,2022,46-60,Female,71
+True Minds 23,O23,2022,46-60,Male,3
+True Minds 23,O23,2022,Above 60,Female,87
+True Minds 23,O23,2022,Above 60,Male,1
+True Minds 23,O23,2023,18-25,Female,26
+True Minds 23,O23,2023,18-25,Male,105
+True Minds 23,O23,2023,26-45,Female,44
+True Minds 23,O23,2023,26-45,Male,16
+True Minds 23,O23,2023,46-60,Female,82
+True Minds 23,O23,2023,46-60,Male,0
+True Minds 23,O23,2023,Above 60,Female,41
+True Minds 23,O23,2023,Above 60,Male,58
+True Minds 23,O23,2024,18-25,Female,67
+True Minds 23,O23,2024,18-25,Male,102
+True Minds 23,O23,2024,26-45,Female,3
+True Minds 23,O23,2024,26-45,Male,21
+True Minds 23,O23,2024,46-60,Female,83
+True Minds 23,O23,2024,46-60,Male,0
+True Minds 23,O23,2024,Above 60,Female,4
+True Minds 23,O23,2024,Above 60,Male,49
+Open Access 24,O24,2018,18-25,Female,88
+Open Access 24,O24,2018,18-25,Male,0
+Open Access 24,O24,2018,26-45,Female,36
+Open Access 24,O24,2018,26-45,Male,62
+Open Access 24,O24,2018,46-60,Female,101
+Open Access 24,O24,2018,46-60,Male,196
+Open Access 24,O24,2018,Above 60,Female,32
+Open Access 24,O24,2018,Above 60,Male,6
+Open Access 24,O24,2019,18-25,Female,17
+Open Access 24,O24,2019,18-25,Male,270
+Open Access 24,O24,2019,26-45,Female,5
+Open Access 24,O24,2019,26-45,Male,20
+Open Access 24,O24,2019,46-60,Female,0
+Open Access 24,O24,2019,46-60,Male,13
+Open Access 24,O24,2019,Above 60,Female,15
+Open Access 24,O24,2019,Above 60,Male,130
+Open Access 24,O24,2020,18-25,Female,229
+Open Access 24,O24,2020,18-25,Male,36
+Open Access 24,O24,2020,26-45,Female,29
+Open Access 24,O24,2020,26-45,Male,5
+Open Access 24,O24,2020,46-60,Female,2
+Open Access 24,O24,2020,46-60,Male,0
+Open Access 24,O24,2020,Above 60,Female,74
+Open Access 24,O24,2020,Above 60,Male,47
+Open Access 24,O24,2021,18-25,Female,69
+Open Access 24,O24,2021,18-25,Male,99
+Open Access 24,O24,2021,26-45,Female,4
+Open Access 24,O24,2021,26-45,Male,24
+Open Access 24,O24,2021,46-60,Female,123
+Open Access 24,O24,2021,46-60,Male,0
+Open Access 24,O24,2021,Above 60,Female,210
+Open Access 24,O24,2021,Above 60,Male,14
+Open Access 24,O24,2022,18-25,Female,186
+Open Access 24,O24,2022,18-25,Male,43
+Open Access 24,O24,2022,26-45,Female,33
+Open Access 24,O24,2022,26-45,Male,111
+Open Access 24,O24,2022,46-60,Female,1
+Open Access 24,O24,2022,46-60,Male,31
+Open Access 24,O24,2022,Above 60,Female,33
+Open Access 24,O24,2022,Above 60,Male,0
+Open Access 24,O24,2023,18-25,Female,30
+Open Access 24,O24,2023,18-25,Male,26
+Open Access 24,O24,2023,26-45,Female,277
+Open Access 24,O24,2023,26-45,Male,110
+Open Access 24,O24,2023,46-60,Female,24
+Open Access 24,O24,2023,46-60,Male,0
+Open Access 24,O24,2023,Above 60,Female,49
+Open Access 24,O24,2023,Above 60,Male,40
+Open Access 24,O24,2024,18-25,Female,40
+Open Access 24,O24,2024,18-25,Male,23
+Open Access 24,O24,2024,26-45,Female,24
+Open Access 24,O24,2024,26-45,Male,123
+Open Access 24,O24,2024,46-60,Female,161
+Open Access 24,O24,2024,46-60,Male,80
+Open Access 24,O24,2024,Above 60,Female,0
+Open Access 24,O24,2024,Above 60,Male,54
+Hope Path 25,O25,2016,18-25,Female,293
+Hope Path 25,O25,2016,18-25,Male,43
+Hope Path 25,O25,2016,26-45,Female,1
+Hope Path 25,O25,2016,26-45,Male,110
+Hope Path 25,O25,2016,46-60,Female,0
+Hope Path 25,O25,2016,46-60,Male,4
+Hope Path 25,O25,2016,Above 60,Female,64
+Hope Path 25,O25,2016,Above 60,Male,11
+Hope Path 25,O25,2017,18-25,Female,47
+Hope Path 25,O25,2017,18-25,Male,84
+Hope Path 25,O25,2017,26-45,Female,281
+Hope Path 25,O25,2017,26-45,Male,19
+Hope Path 25,O25,2017,46-60,Female,95
+Hope Path 25,O25,2017,46-60,Male,0
+Hope Path 25,O25,2017,Above 60,Female,10
+Hope Path 25,O25,2017,Above 60,Male,25
+Hope Path 25,O25,2018,18-25,Female,148
+Hope Path 25,O25,2018,18-25,Male,36
+Hope Path 25,O25,2018,26-45,Female,16
+Hope Path 25,O25,2018,26-45,Male,26
+Hope Path 25,O25,2018,46-60,Female,10
+Hope Path 25,O25,2018,46-60,Male,147
+Hope Path 25,O25,2018,Above 60,Female,154
+Hope Path 25,O25,2018,Above 60,Male,0
+Hope Path 25,O25,2019,18-25,Female,37
+Hope Path 25,O25,2019,18-25,Male,7
+Hope Path 25,O25,2019,26-45,Female,0
+Hope Path 25,O25,2019,26-45,Male,17
+Hope Path 25,O25,2019,46-60,Female,269
+Hope Path 25,O25,2019,46-60,Male,9
+Hope Path 25,O25,2019,Above 60,Female,79
+Hope Path 25,O25,2019,Above 60,Male,80
+Hope Path 25,O25,2020,18-25,Female,53
+Hope Path 25,O25,2020,18-25,Male,17
+Hope Path 25,O25,2020,26-45,Female,113
+Hope Path 25,O25,2020,26-45,Male,0
+Hope Path 25,O25,2020,46-60,Female,109
+Hope Path 25,O25,2020,46-60,Male,48
+Hope Path 25,O25,2020,Above 60,Female,72
+Hope Path 25,O25,2020,Above 60,Male,4
+Hope Path 25,O25,2021,18-25,Female,22
+Hope Path 25,O25,2021,18-25,Male,38
+Hope Path 25,O25,2021,26-45,Female,169
+Hope Path 25,O25,2021,26-45,Male,78
+Hope Path 25,O25,2021,46-60,Female,59
+Hope Path 25,O25,2021,46-60,Male,0
+Hope Path 25,O25,2021,Above 60,Female,30
+Hope Path 25,O25,2021,Above 60,Male,17
+Hope Path 25,O25,2022,18-25,Female,6
+Hope Path 25,O25,2022,18-25,Male,0
+Hope Path 25,O25,2022,26-45,Female,85
+Hope Path 25,O25,2022,26-45,Male,106
+Hope Path 25,O25,2022,46-60,Female,91
+Hope Path 25,O25,2022,46-60,Male,286
+Hope Path 25,O25,2022,Above 60,Female,0
+Hope Path 25,O25,2022,Above 60,Male,0
+Hope Path 25,O25,2023,18-25,Female,140
+Hope Path 25,O25,2023,18-25,Male,43
+Hope Path 25,O25,2023,26-45,Female,99
+Hope Path 25,O25,2023,26-45,Male,55
+Hope Path 25,O25,2023,46-60,Female,31
+Hope Path 25,O25,2023,46-60,Male,38
+Hope Path 25,O25,2023,Above 60,Female,0
+Hope Path 25,O25,2023,Above 60,Male,86
+Hope Path 25,O25,2024,18-25,Female,268
+Hope Path 25,O25,2024,18-25,Male,73
+Hope Path 25,O25,2024,26-45,Female,115
+Hope Path 25,O25,2024,26-45,Male,19
+Hope Path 25,O25,2024,46-60,Female,29
+Hope Path 25,O25,2024,46-60,Male,0
+Hope Path 25,O25,2024,Above 60,Female,0
+Hope Path 25,O25,2024,Above 60,Male,51
+Nova Earth 26,O26,2016,18-25,Female,104
+Nova Earth 26,O26,2016,18-25,Male,83
+Nova Earth 26,O26,2016,26-45,Female,94
+Nova Earth 26,O26,2016,26-45,Male,0
+Nova Earth 26,O26,2016,46-60,Female,48
+Nova Earth 26,O26,2016,46-60,Male,137
+Nova Earth 26,O26,2016,Above 60,Female,0
+Nova Earth 26,O26,2016,Above 60,Male,106
+Nova Earth 26,O26,2017,18-25,Female,0
+Nova Earth 26,O26,2017,18-25,Male,121
+Nova Earth 26,O26,2017,26-45,Female,10
+Nova Earth 26,O26,2017,26-45,Male,44
+Nova Earth 26,O26,2017,46-60,Female,129
+Nova Earth 26,O26,2017,46-60,Male,18
+Nova Earth 26,O26,2017,Above 60,Female,149
+Nova Earth 26,O26,2017,Above 60,Male,182
+Nova Earth 26,O26,2018,18-25,Female,141
+Nova Earth 26,O26,2018,18-25,Male,39
+Nova Earth 26,O26,2018,26-45,Female,42
+Nova Earth 26,O26,2018,26-45,Male,253
+Nova Earth 26,O26,2018,46-60,Female,0
+Nova Earth 26,O26,2018,46-60,Male,20
+Nova Earth 26,O26,2018,Above 60,Female,29
+Nova Earth 26,O26,2018,Above 60,Male,174
+Nova Earth 26,O26,2019,18-25,Female,182
+Nova Earth 26,O26,2019,18-25,Male,39
+Nova Earth 26,O26,2019,26-45,Female,156
+Nova Earth 26,O26,2019,26-45,Male,20
+Nova Earth 26,O26,2019,46-60,Female,51
+Nova Earth 26,O26,2019,46-60,Male,0
+Nova Earth 26,O26,2019,Above 60,Female,33
+Nova Earth 26,O26,2019,Above 60,Male,142
+Nova Earth 26,O26,2020,18-25,Female,84
+Nova Earth 26,O26,2020,18-25,Male,213
+Nova Earth 26,O26,2020,26-45,Female,64
+Nova Earth 26,O26,2020,26-45,Male,162
+Nova Earth 26,O26,2020,46-60,Female,64
+Nova Earth 26,O26,2020,46-60,Male,0
+Nova Earth 26,O26,2020,Above 60,Female,14
+Nova Earth 26,O26,2020,Above 60,Male,21
+Nova Earth 26,O26,2021,18-25,Female,3
+Nova Earth 26,O26,2021,18-25,Male,18
+Nova Earth 26,O26,2021,26-45,Female,115
+Nova Earth 26,O26,2021,26-45,Male,250
+Nova Earth 26,O26,2021,46-60,Female,30
+Nova Earth 26,O26,2021,46-60,Male,58
+Nova Earth 26,O26,2021,Above 60,Female,0
+Nova Earth 26,O26,2021,Above 60,Male,103
+Nova Earth 26,O26,2022,18-25,Female,116
+Nova Earth 26,O26,2022,18-25,Male,0
+Nova Earth 26,O26,2022,26-45,Female,60
+Nova Earth 26,O26,2022,26-45,Male,175
+Nova Earth 26,O26,2022,46-60,Female,30
+Nova Earth 26,O26,2022,46-60,Male,187
+Nova Earth 26,O26,2022,Above 60,Female,55
+Nova Earth 26,O26,2022,Above 60,Male,106
+Nova Earth 26,O26,2023,18-25,Female,322
+Nova Earth 26,O26,2023,18-25,Male,133
+Nova Earth 26,O26,2023,26-45,Female,18
+Nova Earth 26,O26,2023,26-45,Male,0
+Nova Earth 26,O26,2023,46-60,Female,28
+Nova Earth 26,O26,2023,46-60,Male,86
+Nova Earth 26,O26,2023,Above 60,Female,89
+Nova Earth 26,O26,2023,Above 60,Male,0
+Nova Earth 26,O26,2024,18-25,Female,151
+Nova Earth 26,O26,2024,18-25,Male,76
+Nova Earth 26,O26,2024,26-45,Female,346
+Nova Earth 26,O26,2024,26-45,Male,29
+Nova Earth 26,O26,2024,46-60,Female,16
+Nova Earth 26,O26,2024,46-60,Male,0
+Nova Earth 26,O26,2024,Above 60,Female,111
+Nova Earth 26,O26,2024,Above 60,Male,7
+East Community 27,O27,2015,18-25,Female,38
+East Community 27,O27,2015,18-25,Male,20
+East Community 27,O27,2015,26-45,Female,14
+East Community 27,O27,2015,26-45,Male,0
+East Community 27,O27,2015,46-60,Female,178
+East Community 27,O27,2015,46-60,Male,11
+East Community 27,O27,2015,Above 60,Female,146
+East Community 27,O27,2015,Above 60,Male,15
+East Community 27,O27,2016,18-25,Female,68
+East Community 27,O27,2016,18-25,Male,47
+East Community 27,O27,2016,26-45,Female,53
+East Community 27,O27,2016,26-45,Male,154
+East Community 27,O27,2016,46-60,Female,15
+East Community 27,O27,2016,46-60,Male,38
+East Community 27,O27,2016,Above 60,Female,27
+East Community 27,O27,2016,Above 60,Male,0
+East Community 27,O27,2017,18-25,Female,3
+East Community 27,O27,2017,18-25,Male,124
+East Community 27,O27,2017,26-45,Female,0
+East Community 27,O27,2017,26-45,Male,26
+East Community 27,O27,2017,46-60,Female,148
+East Community 27,O27,2017,46-60,Male,15
+East Community 27,O27,2017,Above 60,Female,54
+East Community 27,O27,2017,Above 60,Male,21
+East Community 27,O27,2018,18-25,Female,24
+East Community 27,O27,2018,18-25,Male,192
+East Community 27,O27,2018,26-45,Female,163
+East Community 27,O27,2018,26-45,Male,5
+East Community 27,O27,2018,46-60,Female,8
+East Community 27,O27,2018,46-60,Male,0
+East Community 27,O27,2018,Above 60,Female,1
+East Community 27,O27,2018,Above 60,Male,15
+East Community 27,O27,2019,18-25,Female,7
+East Community 27,O27,2019,18-25,Male,0
+East Community 27,O27,2019,26-45,Female,124
+East Community 27,O27,2019,26-45,Male,100
+East Community 27,O27,2019,46-60,Female,122
+East Community 27,O27,2019,46-60,Male,8
+East Community 27,O27,2019,Above 60,Female,34
+East Community 27,O27,2019,Above 60,Male,5
+East Community 27,O27,2020,18-25,Female,59
+East Community 27,O27,2020,18-25,Male,8
+East Community 27,O27,2020,26-45,Female,75
+East Community 27,O27,2020,26-45,Male,105
+East Community 27,O27,2020,46-60,Female,33
+East Community 27,O27,2020,46-60,Male,0
+East Community 27,O27,2020,Above 60,Female,93
+East Community 27,O27,2020,Above 60,Male,25
+East Community 27,O27,2021,18-25,Female,0
+East Community 27,O27,2021,18-25,Male,41
+East Community 27,O27,2021,26-45,Female,4
+East Community 27,O27,2021,26-45,Male,134
+East Community 27,O27,2021,46-60,Female,14
+East Community 27,O27,2021,46-60,Male,12
+East Community 27,O27,2021,Above 60,Female,93
+East Community 27,O27,2021,Above 60,Male,37
+East Community 27,O27,2022,18-25,Female,86
+East Community 27,O27,2022,18-25,Male,35
+East Community 27,O27,2022,26-45,Female,124
+East Community 27,O27,2022,26-45,Male,0
+East Community 27,O27,2022,46-60,Female,34
+East Community 27,O27,2022,46-60,Male,41
+East Community 27,O27,2022,Above 60,Female,177
+East Community 27,O27,2022,Above 60,Male,7
+East Community 27,O27,2023,18-25,Female,34
+East Community 27,O27,2023,18-25,Male,12
+East Community 27,O27,2023,26-45,Female,174
+East Community 27,O27,2023,26-45,Male,29
+East Community 27,O27,2023,46-60,Female,0
+East Community 27,O27,2023,46-60,Male,60
+East Community 27,O27,2023,Above 60,Female,90
+East Community 27,O27,2023,Above 60,Male,3
+East Community 27,O27,2024,18-25,Female,370
+East Community 27,O27,2024,18-25,Male,18
+East Community 27,O27,2024,26-45,Female,8
+East Community 27,O27,2024,26-45,Male,1
+East Community 27,O27,2024,46-60,Female,11
+East Community 27,O27,2024,46-60,Male,10
+East Community 27,O27,2024,Above 60,Female,0
+East Community 27,O27,2024,Above 60,Male,22
+Nova Alliance 28,O28,2015,18-25,Female,146
+Nova Alliance 28,O28,2015,18-25,Male,55
+Nova Alliance 28,O28,2015,26-45,Female,4
+Nova Alliance 28,O28,2015,26-45,Male,54
+Nova Alliance 28,O28,2015,46-60,Female,74
+Nova Alliance 28,O28,2015,46-60,Male,0
+Nova Alliance 28,O28,2015,Above 60,Female,36
+Nova Alliance 28,O28,2015,Above 60,Male,73
+Nova Alliance 28,O28,2016,18-25,Female,216
+Nova Alliance 28,O28,2016,18-25,Male,0
+Nova Alliance 28,O28,2016,26-45,Female,22
+Nova Alliance 28,O28,2016,26-45,Male,48
+Nova Alliance 28,O28,2016,46-60,Female,71
+Nova Alliance 28,O28,2016,46-60,Male,74
+Nova Alliance 28,O28,2016,Above 60,Female,17
+Nova Alliance 28,O28,2016,Above 60,Male,5
+Nova Alliance 28,O28,2017,18-25,Female,137
+Nova Alliance 28,O28,2017,18-25,Male,13
+Nova Alliance 28,O28,2017,26-45,Female,4
+Nova Alliance 28,O28,2017,26-45,Male,46
+Nova Alliance 28,O28,2017,46-60,Female,7
+Nova Alliance 28,O28,2017,46-60,Male,171
+Nova Alliance 28,O28,2017,Above 60,Female,0
+Nova Alliance 28,O28,2017,Above 60,Male,4
+Nova Alliance 28,O28,2018,18-25,Female,0
+Nova Alliance 28,O28,2018,18-25,Male,9
+Nova Alliance 28,O28,2018,26-45,Female,15
+Nova Alliance 28,O28,2018,26-45,Male,47
+Nova Alliance 28,O28,2018,46-60,Female,26
+Nova Alliance 28,O28,2018,46-60,Male,18
+Nova Alliance 28,O28,2018,Above 60,Female,268
+Nova Alliance 28,O28,2018,Above 60,Male,27
+Nova Alliance 28,O28,2019,18-25,Female,39
+Nova Alliance 28,O28,2019,18-25,Male,30
+Nova Alliance 28,O28,2019,26-45,Female,61
+Nova Alliance 28,O28,2019,26-45,Male,63
+Nova Alliance 28,O28,2019,46-60,Female,49
+Nova Alliance 28,O28,2019,46-60,Male,128
+Nova Alliance 28,O28,2019,Above 60,Female,51
+Nova Alliance 28,O28,2019,Above 60,Male,0
+Nova Alliance 28,O28,2020,18-25,Female,30
+Nova Alliance 28,O28,2020,18-25,Male,91
+Nova Alliance 28,O28,2020,26-45,Female,63
+Nova Alliance 28,O28,2020,26-45,Male,54
+Nova Alliance 28,O28,2020,46-60,Female,0
+Nova Alliance 28,O28,2020,46-60,Male,44
+Nova Alliance 28,O28,2020,Above 60,Female,31
+Nova Alliance 28,O28,2020,Above 60,Male,183
+Nova Alliance 28,O28,2021,18-25,Female,15
+Nova Alliance 28,O28,2021,18-25,Male,3
+Nova Alliance 28,O28,2021,26-45,Female,29
+Nova Alliance 28,O28,2021,26-45,Male,153
+Nova Alliance 28,O28,2021,46-60,Female,56
+Nova Alliance 28,O28,2021,46-60,Male,23
+Nova Alliance 28,O28,2021,Above 60,Female,0
+Nova Alliance 28,O28,2021,Above 60,Male,173
+Nova Alliance 28,O28,2022,18-25,Female,338
+Nova Alliance 28,O28,2022,18-25,Male,0
+Nova Alliance 28,O28,2022,26-45,Female,10
+Nova Alliance 28,O28,2022,26-45,Male,27
+Nova Alliance 28,O28,2022,46-60,Female,6
+Nova Alliance 28,O28,2022,46-60,Male,35
+Nova Alliance 28,O28,2022,Above 60,Female,0
+Nova Alliance 28,O28,2022,Above 60,Male,98
+Nova Alliance 28,O28,2023,18-25,Female,0
+Nova Alliance 28,O28,2023,18-25,Male,83
+Nova Alliance 28,O28,2023,26-45,Female,72
+Nova Alliance 28,O28,2023,26-45,Male,16
+Nova Alliance 28,O28,2023,46-60,Female,104
+Nova Alliance 28,O28,2023,46-60,Male,86
+Nova Alliance 28,O28,2023,Above 60,Female,74
+Nova Alliance 28,O28,2023,Above 60,Male,125
+Nova Alliance 28,O28,2024,18-25,Female,0
+Nova Alliance 28,O28,2024,18-25,Male,207
+Nova Alliance 28,O28,2024,26-45,Female,81
+Nova Alliance 28,O28,2024,26-45,Male,90
+Nova Alliance 28,O28,2024,46-60,Female,55
+Nova Alliance 28,O28,2024,46-60,Male,13
+Nova Alliance 28,O28,2024,Above 60,Female,116
+Nova Alliance 28,O28,2024,Above 60,Male,51
+Unity Hands 29,O29,2016,18-25,Female,43
+Unity Hands 29,O29,2016,18-25,Male,17
+Unity Hands 29,O29,2016,26-45,Female,96
+Unity Hands 29,O29,2016,26-45,Male,67
+Unity Hands 29,O29,2016,46-60,Female,10
+Unity Hands 29,O29,2016,46-60,Male,25
+Unity Hands 29,O29,2016,Above 60,Female,68
+Unity Hands 29,O29,2016,Above 60,Male,0
+Unity Hands 29,O29,2017,18-25,Female,70
+Unity Hands 29,O29,2017,18-25,Male,91
+Unity Hands 29,O29,2017,26-45,Female,36
+Unity Hands 29,O29,2017,26-45,Male,0
+Unity Hands 29,O29,2017,46-60,Female,19
+Unity Hands 29,O29,2017,46-60,Male,78
+Unity Hands 29,O29,2017,Above 60,Female,43
+Unity Hands 29,O29,2017,Above 60,Male,2
+Unity Hands 29,O29,2018,18-25,Female,9
+Unity Hands 29,O29,2018,18-25,Male,37
+Unity Hands 29,O29,2018,26-45,Female,78
+Unity Hands 29,O29,2018,26-45,Male,125
+Unity Hands 29,O29,2018,46-60,Female,77
+Unity Hands 29,O29,2018,46-60,Male,19
+Unity Hands 29,O29,2018,Above 60,Female,18
+Unity Hands 29,O29,2018,Above 60,Male,0
+Unity Hands 29,O29,2019,18-25,Female,89
+Unity Hands 29,O29,2019,18-25,Male,50
+Unity Hands 29,O29,2019,26-45,Female,5
+Unity Hands 29,O29,2019,26-45,Male,103
+Unity Hands 29,O29,2019,46-60,Female,0
+Unity Hands 29,O29,2019,46-60,Male,22
+Unity Hands 29,O29,2019,Above 60,Female,22
+Unity Hands 29,O29,2019,Above 60,Male,37
+Unity Hands 29,O29,2020,18-25,Female,207
+Unity Hands 29,O29,2020,18-25,Male,4
+Unity Hands 29,O29,2020,26-45,Female,39
+Unity Hands 29,O29,2020,26-45,Male,47
+Unity Hands 29,O29,2020,46-60,Female,5
+Unity Hands 29,O29,2020,46-60,Male,0
+Unity Hands 29,O29,2020,Above 60,Female,27
+Unity Hands 29,O29,2020,Above 60,Male,6
+Unity Hands 29,O29,2021,18-25,Female,21
+Unity Hands 29,O29,2021,18-25,Male,22
+Unity Hands 29,O29,2021,26-45,Female,208
+Unity Hands 29,O29,2021,26-45,Male,0
+Unity Hands 29,O29,2021,46-60,Female,115
+Unity Hands 29,O29,2021,46-60,Male,33
+Unity Hands 29,O29,2021,Above 60,Female,6
+Unity Hands 29,O29,2021,Above 60,Male,40
+Unity Hands 29,O29,2022,18-25,Female,79
+Unity Hands 29,O29,2022,18-25,Male,62
+Unity Hands 29,O29,2022,26-45,Female,0
+Unity Hands 29,O29,2022,26-45,Male,117
+Unity Hands 29,O29,2022,46-60,Female,51
+Unity Hands 29,O29,2022,46-60,Male,7
+Unity Hands 29,O29,2022,Above 60,Female,8
+Unity Hands 29,O29,2022,Above 60,Male,82
+Unity Hands 29,O29,2023,18-25,Female,83
+Unity Hands 29,O29,2023,18-25,Male,2
+Unity Hands 29,O29,2023,26-45,Female,132
+Unity Hands 29,O29,2023,26-45,Male,67
+Unity Hands 29,O29,2023,46-60,Female,68
+Unity Hands 29,O29,2023,46-60,Male,38
+Unity Hands 29,O29,2023,Above 60,Female,84
+Unity Hands 29,O29,2023,Above 60,Male,0
+Unity Hands 29,O29,2024,18-25,Female,66
+Unity Hands 29,O29,2024,18-25,Male,81
+Unity Hands 29,O29,2024,26-45,Female,36
+Unity Hands 29,O29,2024,26-45,Male,165
+Unity Hands 29,O29,2024,46-60,Female,79
+Unity Hands 29,O29,2024,46-60,Male,23
+Unity Hands 29,O29,2024,Above 60,Female,4
+Unity Hands 29,O29,2024,Above 60,Male,0
+Green Circle 30,O30,2019,18-25,Female,120
+Green Circle 30,O30,2019,18-25,Male,52
+Green Circle 30,O30,2019,26-45,Female,54
+Green Circle 30,O30,2019,26-45,Male,0
+Green Circle 30,O30,2019,46-60,Female,29
+Green Circle 30,O30,2019,46-60,Male,45
+Green Circle 30,O30,2019,Above 60,Female,15
+Green Circle 30,O30,2019,Above 60,Male,40
+Green Circle 30,O30,2020,18-25,Female,43
+Green Circle 30,O30,2020,18-25,Male,77
+Green Circle 30,O30,2020,26-45,Female,40
+Green Circle 30,O30,2020,26-45,Male,0
+Green Circle 30,O30,2020,46-60,Female,10
+Green Circle 30,O30,2020,46-60,Male,50
+Green Circle 30,O30,2020,Above 60,Female,52
+Green Circle 30,O30,2020,Above 60,Male,128
+Green Circle 30,O30,2021,18-25,Female,79
+Green Circle 30,O30,2021,18-25,Male,99
+Green Circle 30,O30,2021,26-45,Female,0
+Green Circle 30,O30,2021,26-45,Male,21
+Green Circle 30,O30,2021,46-60,Female,9
+Green Circle 30,O30,2021,46-60,Male,55
+Green Circle 30,O30,2021,Above 60,Female,21
+Green Circle 30,O30,2021,Above 60,Male,94
+Green Circle 30,O30,2022,18-25,Female,152
+Green Circle 30,O30,2022,18-25,Male,21
+Green Circle 30,O30,2022,26-45,Female,0
+Green Circle 30,O30,2022,26-45,Male,18
+Green Circle 30,O30,2022,46-60,Female,9
+Green Circle 30,O30,2022,46-60,Male,232
+Green Circle 30,O30,2022,Above 60,Female,74
+Green Circle 30,O30,2022,Above 60,Male,14
+Green Circle 30,O30,2023,18-25,Female,0
+Green Circle 30,O30,2023,18-25,Male,118
+Green Circle 30,O30,2023,26-45,Female,56
+Green Circle 30,O30,2023,26-45,Male,22
+Green Circle 30,O30,2023,46-60,Female,118
+Green Circle 30,O30,2023,46-60,Male,63
+Green Circle 30,O30,2023,Above 60,Female,150
+Green Circle 30,O30,2023,Above 60,Male,61
+Green Circle 30,O30,2024,18-25,Female,21
+Green Circle 30,O30,2024,18-25,Male,52
+Green Circle 30,O30,2024,26-45,Female,0
+Green Circle 30,O30,2024,26-45,Male,43
+Green Circle 30,O30,2024,46-60,Female,62
+Green Circle 30,O30,2024,46-60,Male,243
+Green Circle 30,O30,2024,Above 60,Female,91
+Green Circle 30,O30,2024,Above 60,Male,47
+Open Action 31,O31,2012,18-25,Female,0
+Open Action 31,O31,2012,18-25,Male,103
+Open Action 31,O31,2012,26-45,Female,9
+Open Action 31,O31,2012,26-45,Male,58
+Open Action 31,O31,2012,46-60,Female,11
+Open Action 31,O31,2012,46-60,Male,35
+Open Action 31,O31,2012,Above 60,Female,15
+Open Action 31,O31,2012,Above 60,Male,15
+Open Action 31,O31,2013,18-25,Female,16
+Open Action 31,O31,2013,18-25,Male,63
+Open Action 31,O31,2013,26-45,Female,4
+Open Action 31,O31,2013,26-45,Male,9
+Open Action 31,O31,2013,46-60,Female,0
+Open Action 31,O31,2013,46-60,Male,8
+Open Action 31,O31,2013,Above 60,Female,60
+Open Action 31,O31,2013,Above 60,Male,76
+Open Action 31,O31,2014,18-25,Female,1
+Open Action 31,O31,2014,18-25,Male,0
+Open Action 31,O31,2014,26-45,Female,60
+Open Action 31,O31,2014,26-45,Male,35
+Open Action 31,O31,2014,46-60,Female,12
+Open Action 31,O31,2014,46-60,Male,7
+Open Action 31,O31,2014,Above 60,Female,53
+Open Action 31,O31,2014,Above 60,Male,67
+Open Action 31,O31,2015,18-25,Female,16
+Open Action 31,O31,2015,18-25,Male,38
+Open Action 31,O31,2015,26-45,Female,14
+Open Action 31,O31,2015,26-45,Male,19
+Open Action 31,O31,2015,46-60,Female,35
+Open Action 31,O31,2015,46-60,Male,0
+Open Action 31,O31,2015,Above 60,Female,96
+Open Action 31,O31,2015,Above 60,Male,21
+Open Action 31,O31,2016,18-25,Female,0
+Open Action 31,O31,2016,18-25,Male,3
+Open Action 31,O31,2016,26-45,Female,38
+Open Action 31,O31,2016,26-45,Male,3
+Open Action 31,O31,2016,46-60,Female,22
+Open Action 31,O31,2016,46-60,Male,20
+Open Action 31,O31,2016,Above 60,Female,1
+Open Action 31,O31,2016,Above 60,Male,147
+Open Action 31,O31,2017,18-25,Female,25
+Open Action 31,O31,2017,18-25,Male,0
+Open Action 31,O31,2017,26-45,Female,47
+Open Action 31,O31,2017,26-45,Male,6
+Open Action 31,O31,2017,46-60,Female,53
+Open Action 31,O31,2017,46-60,Male,3
+Open Action 31,O31,2017,Above 60,Female,105
+Open Action 31,O31,2017,Above 60,Male,8
+Open Action 31,O31,2018,18-25,Female,38
+Open Action 31,O31,2018,18-25,Male,10
+Open Action 31,O31,2018,26-45,Female,76
+Open Action 31,O31,2018,26-45,Male,0
+Open Action 31,O31,2018,46-60,Female,65
+Open Action 31,O31,2018,46-60,Male,10
+Open Action 31,O31,2018,Above 60,Female,25
+Open Action 31,O31,2018,Above 60,Male,39
+Open Action 31,O31,2019,18-25,Female,115
+Open Action 31,O31,2019,18-25,Male,24
+Open Action 31,O31,2019,26-45,Female,8
+Open Action 31,O31,2019,26-45,Male,0
+Open Action 31,O31,2019,46-60,Female,33
+Open Action 31,O31,2019,46-60,Male,27
+Open Action 31,O31,2019,Above 60,Female,31
+Open Action 31,O31,2019,Above 60,Male,2
+Open Action 31,O31,2020,18-25,Female,44
+Open Action 31,O31,2020,18-25,Male,35
+Open Action 31,O31,2020,26-45,Female,59
+Open Action 31,O31,2020,26-45,Male,84
+Open Action 31,O31,2020,46-60,Female,47
+Open Action 31,O31,2020,46-60,Male,14
+Open Action 31,O31,2020,Above 60,Female,0
+Open Action 31,O31,2020,Above 60,Male,17
+Open Action 31,O31,2021,18-25,Female,125
+Open Action 31,O31,2021,18-25,Male,0
+Open Action 31,O31,2021,26-45,Female,24
+Open Action 31,O31,2021,26-45,Male,122
+Open Action 31,O31,2021,46-60,Female,1
+Open Action 31,O31,2021,46-60,Male,57
+Open Action 31,O31,2021,Above 60,Female,66
+Open Action 31,O31,2021,Above 60,Male,1
+Open Action 31,O31,2022,18-25,Female,0
+Open Action 31,O31,2022,18-25,Male,79
+Open Action 31,O31,2022,26-45,Female,43
+Open Action 31,O31,2022,26-45,Male,28
+Open Action 31,O31,2022,46-60,Female,42
+Open Action 31,O31,2022,46-60,Male,16
+Open Action 31,O31,2022,Above 60,Female,89
+Open Action 31,O31,2022,Above 60,Male,3
+Open Action 31,O31,2023,18-25,Female,0
+Open Action 31,O31,2023,18-25,Male,11
+Open Action 31,O31,2023,26-45,Female,121
+Open Action 31,O31,2023,26-45,Male,11
+Open Action 31,O31,2023,46-60,Female,67
+Open Action 31,O31,2023,46-60,Male,127
+Open Action 31,O31,2023,Above 60,Female,1
+Open Action 31,O31,2023,Above 60,Male,51
+Open Action 31,O31,2024,18-25,Female,4
+Open Action 31,O31,2024,18-25,Male,0
+Open Action 31,O31,2024,26-45,Female,37
+Open Action 31,O31,2024,26-45,Male,58
+Open Action 31,O31,2024,46-60,Female,174
+Open Action 31,O31,2024,46-60,Male,24
+Open Action 31,O31,2024,Above 60,Female,68
+Open Action 31,O31,2024,Above 60,Male,3
+Prime Access 32,O32,2017,18-25,Female,47
+Prime Access 32,O32,2017,18-25,Male,62
+Prime Access 32,O32,2017,26-45,Female,15
+Prime Access 32,O32,2017,26-45,Male,14
+Prime Access 32,O32,2017,46-60,Female,0
+Prime Access 32,O32,2017,46-60,Male,37
+Prime Access 32,O32,2017,Above 60,Female,19
+Prime Access 32,O32,2017,Above 60,Male,20
+Prime Access 32,O32,2018,18-25,Female,42
+Prime Access 32,O32,2018,18-25,Male,44
+Prime Access 32,O32,2018,26-45,Female,78
+Prime Access 32,O32,2018,26-45,Male,0
+Prime Access 32,O32,2018,46-60,Female,6
+Prime Access 32,O32,2018,46-60,Male,8
+Prime Access 32,O32,2018,Above 60,Female,23
+Prime Access 32,O32,2018,Above 60,Male,2
+Prime Access 32,O32,2019,18-25,Female,66
+Prime Access 32,O32,2019,18-25,Male,0
+Prime Access 32,O32,2019,26-45,Female,52
+Prime Access 32,O32,2019,26-45,Male,5
+Prime Access 32,O32,2019,46-60,Female,21
+Prime Access 32,O32,2019,46-60,Male,28
+Prime Access 32,O32,2019,Above 60,Female,26
+Prime Access 32,O32,2019,Above 60,Male,6
+Prime Access 32,O32,2020,18-25,Female,76
+Prime Access 32,O32,2020,18-25,Male,88
+Prime Access 32,O32,2020,26-45,Female,0
+Prime Access 32,O32,2020,26-45,Male,35
+Prime Access 32,O32,2020,46-60,Female,19
+Prime Access 32,O32,2020,46-60,Male,23
+Prime Access 32,O32,2020,Above 60,Female,6
+Prime Access 32,O32,2020,Above 60,Male,23
+Prime Access 32,O32,2021,18-25,Female,3
+Prime Access 32,O32,2021,18-25,Male,22
+Prime Access 32,O32,2021,26-45,Female,7
+Prime Access 32,O32,2021,26-45,Male,66
+Prime Access 32,O32,2021,46-60,Female,0
+Prime Access 32,O32,2021,46-60,Male,14
+Prime Access 32,O32,2021,Above 60,Female,103
+Prime Access 32,O32,2021,Above 60,Male,58
+Prime Access 32,O32,2022,18-25,Female,85
+Prime Access 32,O32,2022,18-25,Male,22
+Prime Access 32,O32,2022,26-45,Female,20
+Prime Access 32,O32,2022,26-45,Male,20
+Prime Access 32,O32,2022,46-60,Female,17
+Prime Access 32,O32,2022,46-60,Male,6
+Prime Access 32,O32,2022,Above 60,Female,79
+Prime Access 32,O32,2022,Above 60,Male,0
+Prime Access 32,O32,2023,18-25,Female,37
+Prime Access 32,O32,2023,18-25,Male,1
+Prime Access 32,O32,2023,26-45,Female,56
+Prime Access 32,O32,2023,26-45,Male,74
+Prime Access 32,O32,2023,46-60,Female,20
+Prime Access 32,O32,2023,46-60,Male,101
+Prime Access 32,O32,2023,Above 60,Female,0
+Prime Access 32,O32,2023,Above 60,Male,9
+Prime Access 32,O32,2024,18-25,Female,0
+Prime Access 32,O32,2024,18-25,Male,146
+Prime Access 32,O32,2024,26-45,Female,76
+Prime Access 32,O32,2024,26-45,Male,0
+Prime Access 32,O32,2024,46-60,Female,20
+Prime Access 32,O32,2024,46-60,Male,49
+Prime Access 32,O32,2024,Above 60,Female,68
+Prime Access 32,O32,2024,Above 60,Male,3
+Bright Alliance 33,O33,2013,18-25,Female,5
+Bright Alliance 33,O33,2013,18-25,Male,56
+Bright Alliance 33,O33,2013,26-45,Female,268
+Bright Alliance 33,O33,2013,26-45,Male,20
+Bright Alliance 33,O33,2013,46-60,Female,7
+Bright Alliance 33,O33,2013,46-60,Male,24
+Bright Alliance 33,O33,2013,Above 60,Female,165
+Bright Alliance 33,O33,2013,Above 60,Male,0
+Bright Alliance 33,O33,2014,18-25,Female,124
+Bright Alliance 33,O33,2014,18-25,Male,270
+Bright Alliance 33,O33,2014,26-45,Female,82
+Bright Alliance 33,O33,2014,26-45,Male,24
+Bright Alliance 33,O33,2014,46-60,Female,16
+Bright Alliance 33,O33,2014,46-60,Male,14
+Bright Alliance 33,O33,2014,Above 60,Female,41
+Bright Alliance 33,O33,2014,Above 60,Male,0
+Bright Alliance 33,O33,2015,18-25,Female,47
+Bright Alliance 33,O33,2015,18-25,Male,60
+Bright Alliance 33,O33,2015,26-45,Female,60
+Bright Alliance 33,O33,2015,26-45,Male,0
+Bright Alliance 33,O33,2015,46-60,Female,101
+Bright Alliance 33,O33,2015,46-60,Male,9
+Bright Alliance 33,O33,2015,Above 60,Female,221
+Bright Alliance 33,O33,2015,Above 60,Male,68
+Bright Alliance 33,O33,2016,18-25,Female,2
+Bright Alliance 33,O33,2016,18-25,Male,36
+Bright Alliance 33,O33,2016,26-45,Female,57
+Bright Alliance 33,O33,2016,26-45,Male,170
+Bright Alliance 33,O33,2016,46-60,Female,114
+Bright Alliance 33,O33,2016,46-60,Male,40
+Bright Alliance 33,O33,2016,Above 60,Female,135
+Bright Alliance 33,O33,2016,Above 60,Male,0
+Bright Alliance 33,O33,2017,18-25,Female,63
+Bright Alliance 33,O33,2017,18-25,Male,57
+Bright Alliance 33,O33,2017,26-45,Female,0
+Bright Alliance 33,O33,2017,26-45,Male,17
+Bright Alliance 33,O33,2017,46-60,Female,108
+Bright Alliance 33,O33,2017,46-60,Male,195
+Bright Alliance 33,O33,2017,Above 60,Female,27
+Bright Alliance 33,O33,2017,Above 60,Male,87
+Bright Alliance 33,O33,2018,18-25,Female,0
+Bright Alliance 33,O33,2018,18-25,Male,97
+Bright Alliance 33,O33,2018,26-45,Female,143
+Bright Alliance 33,O33,2018,26-45,Male,53
+Bright Alliance 33,O33,2018,46-60,Female,93
+Bright Alliance 33,O33,2018,46-60,Male,73
+Bright Alliance 33,O33,2018,Above 60,Female,4
+Bright Alliance 33,O33,2018,Above 60,Male,72
+Bright Alliance 33,O33,2019,18-25,Female,16
+Bright Alliance 33,O33,2019,18-25,Male,103
+Bright Alliance 33,O33,2019,26-45,Female,57
+Bright Alliance 33,O33,2019,26-45,Male,0
+Bright Alliance 33,O33,2019,46-60,Female,14
+Bright Alliance 33,O33,2019,46-60,Male,44
+Bright Alliance 33,O33,2019,Above 60,Female,128
+Bright Alliance 33,O33,2019,Above 60,Male,177
+Bright Alliance 33,O33,2020,18-25,Female,139
+Bright Alliance 33,O33,2020,18-25,Male,70
+Bright Alliance 33,O33,2020,26-45,Female,110
+Bright Alliance 33,O33,2020,26-45,Male,33
+Bright Alliance 33,O33,2020,46-60,Female,15
+Bright Alliance 33,O33,2020,46-60,Male,20
+Bright Alliance 33,O33,2020,Above 60,Female,0
+Bright Alliance 33,O33,2020,Above 60,Male,193
+Bright Alliance 33,O33,2021,18-25,Female,51
+Bright Alliance 33,O33,2021,18-25,Male,377
+Bright Alliance 33,O33,2021,26-45,Female,58
+Bright Alliance 33,O33,2021,26-45,Male,3
+Bright Alliance 33,O33,2021,46-60,Female,15
+Bright Alliance 33,O33,2021,46-60,Male,10
+Bright Alliance 33,O33,2021,Above 60,Female,72
+Bright Alliance 33,O33,2021,Above 60,Male,0
+Bright Alliance 33,O33,2022,18-25,Female,16
+Bright Alliance 33,O33,2022,18-25,Male,129
+Bright Alliance 33,O33,2022,26-45,Female,243
+Bright Alliance 33,O33,2022,26-45,Male,135
+Bright Alliance 33,O33,2022,46-60,Female,118
+Bright Alliance 33,O33,2022,46-60,Male,18
+Bright Alliance 33,O33,2022,Above 60,Female,6
+Bright Alliance 33,O33,2022,Above 60,Male,0
+Bright Alliance 33,O33,2023,18-25,Female,32
+Bright Alliance 33,O33,2023,18-25,Male,165
+Bright Alliance 33,O33,2023,26-45,Female,77
+Bright Alliance 33,O33,2023,26-45,Male,156
+Bright Alliance 33,O33,2023,46-60,Female,111
+Bright Alliance 33,O33,2023,46-60,Male,28
+Bright Alliance 33,O33,2023,Above 60,Female,0
+Bright Alliance 33,O33,2023,Above 60,Male,172
+Bright Alliance 33,O33,2024,18-25,Female,11
+Bright Alliance 33,O33,2024,18-25,Male,0
+Bright Alliance 33,O33,2024,26-45,Female,53
+Bright Alliance 33,O33,2024,26-45,Male,148
+Bright Alliance 33,O33,2024,46-60,Female,212
+Bright Alliance 33,O33,2024,46-60,Male,151
+Bright Alliance 33,O33,2024,Above 60,Female,20
+Bright Alliance 33,O33,2024,Above 60,Male,129
+Green Roots 34,O34,2017,18-25,Female,34
+Green Roots 34,O34,2017,18-25,Male,31
+Green Roots 34,O34,2017,26-45,Female,56
+Green Roots 34,O34,2017,26-45,Male,18
+Green Roots 34,O34,2017,46-60,Female,24
+Green Roots 34,O34,2017,46-60,Male,0
+Green Roots 34,O34,2017,Above 60,Female,6
+Green Roots 34,O34,2017,Above 60,Male,97
+Green Roots 34,O34,2018,18-25,Female,56
+Green Roots 34,O34,2018,18-25,Male,63
+Green Roots 34,O34,2018,26-45,Female,28
+Green Roots 34,O34,2018,26-45,Male,0
+Green Roots 34,O34,2018,46-60,Female,50
+Green Roots 34,O34,2018,46-60,Male,10
+Green Roots 34,O34,2018,Above 60,Female,37
+Green Roots 34,O34,2018,Above 60,Male,13
+Green Roots 34,O34,2019,18-25,Female,0
+Green Roots 34,O34,2019,18-25,Male,6
+Green Roots 34,O34,2019,26-45,Female,36
+Green Roots 34,O34,2019,26-45,Male,14
+Green Roots 34,O34,2019,46-60,Female,79
+Green Roots 34,O34,2019,46-60,Male,51
+Green Roots 34,O34,2019,Above 60,Female,81
+Green Roots 34,O34,2019,Above 60,Male,1
+Green Roots 34,O34,2020,18-25,Female,21
+Green Roots 34,O34,2020,18-25,Male,57
+Green Roots 34,O34,2020,26-45,Female,99
+Green Roots 34,O34,2020,26-45,Male,81
+Green Roots 34,O34,2020,46-60,Female,0
+Green Roots 34,O34,2020,46-60,Male,4
+Green Roots 34,O34,2020,Above 60,Female,16
+Green Roots 34,O34,2020,Above 60,Male,29
+Green Roots 34,O34,2021,18-25,Female,19
+Green Roots 34,O34,2021,18-25,Male,0
+Green Roots 34,O34,2021,26-45,Female,37
+Green Roots 34,O34,2021,26-45,Male,3
+Green Roots 34,O34,2021,46-60,Female,116
+Green Roots 34,O34,2021,46-60,Male,12
+Green Roots 34,O34,2021,Above 60,Female,10
+Green Roots 34,O34,2021,Above 60,Male,66
+Green Roots 34,O34,2022,18-25,Female,0
+Green Roots 34,O34,2022,18-25,Male,21
+Green Roots 34,O34,2022,26-45,Female,52
+Green Roots 34,O34,2022,26-45,Male,39
+Green Roots 34,O34,2022,46-60,Female,5
+Green Roots 34,O34,2022,46-60,Male,17
+Green Roots 34,O34,2022,Above 60,Female,89
+Green Roots 34,O34,2022,Above 60,Male,6
+Green Roots 34,O34,2023,18-25,Female,5
+Green Roots 34,O34,2023,18-25,Male,13
+Green Roots 34,O34,2023,26-45,Female,49
+Green Roots 34,O34,2023,26-45,Male,63
+Green Roots 34,O34,2023,46-60,Female,61
+Green Roots 34,O34,2023,46-60,Male,30
+Green Roots 34,O34,2023,Above 60,Female,20
+Green Roots 34,O34,2023,Above 60,Male,0
+Green Roots 34,O34,2024,18-25,Female,31
+Green Roots 34,O34,2024,18-25,Male,36
+Green Roots 34,O34,2024,26-45,Female,16
+Green Roots 34,O34,2024,26-45,Male,3
+Green Roots 34,O34,2024,46-60,Female,127
+Green Roots 34,O34,2024,46-60,Male,49
+Green Roots 34,O34,2024,Above 60,Female,0
+Green Roots 34,O34,2024,Above 60,Male,5
+South Hands 35,O35,2012,18-25,Female,26
+South Hands 35,O35,2012,18-25,Male,16
+South Hands 35,O35,2012,26-45,Female,29
+South Hands 35,O35,2012,26-45,Male,46
+South Hands 35,O35,2012,46-60,Female,18
+South Hands 35,O35,2012,46-60,Male,4
+South Hands 35,O35,2012,Above 60,Female,11
+South Hands 35,O35,2012,Above 60,Male,0
+South Hands 35,O35,2013,18-25,Female,1
+South Hands 35,O35,2013,18-25,Male,4
+South Hands 35,O35,2013,26-45,Female,36
+South Hands 35,O35,2013,26-45,Male,27
+South Hands 35,O35,2013,46-60,Female,19
+South Hands 35,O35,2013,46-60,Male,48
+South Hands 35,O35,2013,Above 60,Female,8
+South Hands 35,O35,2013,Above 60,Male,0
+South Hands 35,O35,2014,18-25,Female,56
+South Hands 35,O35,2014,18-25,Male,9
+South Hands 35,O35,2014,26-45,Female,29
+South Hands 35,O35,2014,26-45,Male,3
+South Hands 35,O35,2014,46-60,Female,0
+South Hands 35,O35,2014,46-60,Male,20
+South Hands 35,O35,2014,Above 60,Female,4
+South Hands 35,O35,2014,Above 60,Male,24
+South Hands 35,O35,2015,18-25,Female,10
+South Hands 35,O35,2015,18-25,Male,26
+South Hands 35,O35,2015,26-45,Female,11
+South Hands 35,O35,2015,26-45,Male,9
+South Hands 35,O35,2015,46-60,Female,74
+South Hands 35,O35,2015,46-60,Male,0
+South Hands 35,O35,2015,Above 60,Female,10
+South Hands 35,O35,2015,Above 60,Male,17
+South Hands 35,O35,2016,18-25,Female,0
+South Hands 35,O35,2016,18-25,Male,21
+South Hands 35,O35,2016,26-45,Female,72
+South Hands 35,O35,2016,26-45,Male,0
+South Hands 35,O35,2016,46-60,Female,15
+South Hands 35,O35,2016,46-60,Male,25
+South Hands 35,O35,2016,Above 60,Female,10
+South Hands 35,O35,2016,Above 60,Male,5
+South Hands 35,O35,2017,18-25,Female,36
+South Hands 35,O35,2017,18-25,Male,16
+South Hands 35,O35,2017,26-45,Female,3
+South Hands 35,O35,2017,26-45,Male,0
+South Hands 35,O35,2017,46-60,Female,24
+South Hands 35,O35,2017,46-60,Male,14
+South Hands 35,O35,2017,Above 60,Female,44
+South Hands 35,O35,2017,Above 60,Male,1
+South Hands 35,O35,2018,18-25,Female,1
+South Hands 35,O35,2018,18-25,Male,9
+South Hands 35,O35,2018,26-45,Female,0
+South Hands 35,O35,2018,26-45,Male,25
+South Hands 35,O35,2018,46-60,Female,7
+South Hands 35,O35,2018,46-60,Male,28
+South Hands 35,O35,2018,Above 60,Female,66
+South Hands 35,O35,2018,Above 60,Male,19
+South Hands 35,O35,2019,18-25,Female,2
+South Hands 35,O35,2019,18-25,Male,37
+South Hands 35,O35,2019,26-45,Female,2
+South Hands 35,O35,2019,26-45,Male,41
+South Hands 35,O35,2019,46-60,Female,0
+South Hands 35,O35,2019,46-60,Male,17
+South Hands 35,O35,2019,Above 60,Female,39
+South Hands 35,O35,2019,Above 60,Male,7
+South Hands 35,O35,2020,18-25,Female,36
+South Hands 35,O35,2020,18-25,Male,4
+South Hands 35,O35,2020,26-45,Female,6
+South Hands 35,O35,2020,26-45,Male,8
+South Hands 35,O35,2020,46-60,Female,24
+South Hands 35,O35,2020,46-60,Male,12
+South Hands 35,O35,2020,Above 60,Female,0
+South Hands 35,O35,2020,Above 60,Male,3
+South Hands 35,O35,2021,18-25,Female,25
+South Hands 35,O35,2021,18-25,Male,9
+South Hands 35,O35,2021,26-45,Female,0
+South Hands 35,O35,2021,26-45,Male,15
+South Hands 35,O35,2021,46-60,Female,34
+South Hands 35,O35,2021,46-60,Male,20
+South Hands 35,O35,2021,Above 60,Female,64
+South Hands 35,O35,2021,Above 60,Male,21
+South Hands 35,O35,2022,18-25,Female,87
+South Hands 35,O35,2022,18-25,Male,6
+South Hands 35,O35,2022,26-45,Female,4
+South Hands 35,O35,2022,26-45,Male,54
+South Hands 35,O35,2022,46-60,Female,0
+South Hands 35,O35,2022,46-60,Male,31
+South Hands 35,O35,2022,Above 60,Female,23
+South Hands 35,O35,2022,Above 60,Male,22
+South Hands 35,O35,2023,18-25,Female,23
+South Hands 35,O35,2023,18-25,Male,63
+South Hands 35,O35,2023,26-45,Female,39
+South Hands 35,O35,2023,26-45,Male,7
+South Hands 35,O35,2023,46-60,Female,0
+South Hands 35,O35,2023,46-60,Male,27
+South Hands 35,O35,2023,Above 60,Female,56
+South Hands 35,O35,2023,Above 60,Male,8
+South Hands 35,O35,2024,18-25,Female,23
+South Hands 35,O35,2024,18-25,Male,93
+South Hands 35,O35,2024,26-45,Female,0
+South Hands 35,O35,2024,26-45,Male,13
+South Hands 35,O35,2024,46-60,Female,95
+South Hands 35,O35,2024,46-60,Male,51
+South Hands 35,O35,2024,Above 60,Female,32
+South Hands 35,O35,2024,Above 60,Male,63
+Unity Aid 36,O36,2013,18-25,Female,21
+Unity Aid 36,O36,2013,18-25,Male,25
+Unity Aid 36,O36,2013,26-45,Female,10
+Unity Aid 36,O36,2013,26-45,Male,0
+Unity Aid 36,O36,2013,46-60,Female,2
+Unity Aid 36,O36,2013,46-60,Male,49
+Unity Aid 36,O36,2013,Above 60,Female,59
+Unity Aid 36,O36,2013,Above 60,Male,48
+Unity Aid 36,O36,2014,18-25,Female,19
+Unity Aid 36,O36,2014,18-25,Male,36
+Unity Aid 36,O36,2014,26-45,Female,18
+Unity Aid 36,O36,2014,26-45,Male,0
+Unity Aid 36,O36,2014,46-60,Female,14
+Unity Aid 36,O36,2014,46-60,Male,22
+Unity Aid 36,O36,2014,Above 60,Female,41
+Unity Aid 36,O36,2014,Above 60,Male,62
+Unity Aid 36,O36,2015,18-25,Female,14
+Unity Aid 36,O36,2015,18-25,Male,33
+Unity Aid 36,O36,2015,26-45,Female,27
+Unity Aid 36,O36,2015,26-45,Male,17
+Unity Aid 36,O36,2015,46-60,Female,28
+Unity Aid 36,O36,2015,46-60,Male,0
+Unity Aid 36,O36,2015,Above 60,Female,54
+Unity Aid 36,O36,2015,Above 60,Male,36
+Unity Aid 36,O36,2016,18-25,Female,0
+Unity Aid 36,O36,2016,18-25,Male,53
+Unity Aid 36,O36,2016,26-45,Female,18
+Unity Aid 36,O36,2016,26-45,Male,18
+Unity Aid 36,O36,2016,46-60,Female,63
+Unity Aid 36,O36,2016,46-60,Male,13
+Unity Aid 36,O36,2016,Above 60,Female,18
+Unity Aid 36,O36,2016,Above 60,Male,26
+Unity Aid 36,O36,2017,18-25,Female,19
+Unity Aid 36,O36,2017,18-25,Male,21
+Unity Aid 36,O36,2017,26-45,Female,0
+Unity Aid 36,O36,2017,26-45,Male,18
+Unity Aid 36,O36,2017,46-60,Female,78
+Unity Aid 36,O36,2017,46-60,Male,44
+Unity Aid 36,O36,2017,Above 60,Female,4
+Unity Aid 36,O36,2017,Above 60,Male,42
+Unity Aid 36,O36,2018,18-25,Female,28
+Unity Aid 36,O36,2018,18-25,Male,61
+Unity Aid 36,O36,2018,26-45,Female,54
+Unity Aid 36,O36,2018,26-45,Male,0
+Unity Aid 36,O36,2018,46-60,Female,27
+Unity Aid 36,O36,2018,46-60,Male,13
+Unity Aid 36,O36,2018,Above 60,Female,10
+Unity Aid 36,O36,2018,Above 60,Male,28
+Unity Aid 36,O36,2019,18-25,Female,63
+Unity Aid 36,O36,2019,18-25,Male,13
+Unity Aid 36,O36,2019,26-45,Female,56
+Unity Aid 36,O36,2019,26-45,Male,9
+Unity Aid 36,O36,2019,46-60,Female,1
+Unity Aid 36,O36,2019,46-60,Male,0
+Unity Aid 36,O36,2019,Above 60,Female,56
+Unity Aid 36,O36,2019,Above 60,Male,16
+Unity Aid 36,O36,2020,18-25,Female,16
+Unity Aid 36,O36,2020,18-25,Male,18
+Unity Aid 36,O36,2020,26-45,Female,14
+Unity Aid 36,O36,2020,26-45,Male,11
+Unity Aid 36,O36,2020,46-60,Female,48
+Unity Aid 36,O36,2020,46-60,Male,0
+Unity Aid 36,O36,2020,Above 60,Female,1
+Unity Aid 36,O36,2020,Above 60,Male,61
+Unity Aid 36,O36,2021,18-25,Female,0
+Unity Aid 36,O36,2021,18-25,Male,13
+Unity Aid 36,O36,2021,26-45,Female,81
+Unity Aid 36,O36,2021,26-45,Male,18
+Unity Aid 36,O36,2021,46-60,Female,46
+Unity Aid 36,O36,2021,46-60,Male,12
+Unity Aid 36,O36,2021,Above 60,Female,36
+Unity Aid 36,O36,2021,Above 60,Male,106
+Unity Aid 36,O36,2022,18-25,Female,0
+Unity Aid 36,O36,2022,18-25,Male,6
+Unity Aid 36,O36,2022,26-45,Female,5
+Unity Aid 36,O36,2022,26-45,Male,26
+Unity Aid 36,O36,2022,46-60,Female,196
+Unity Aid 36,O36,2022,46-60,Male,61
+Unity Aid 36,O36,2022,Above 60,Female,2
+Unity Aid 36,O36,2022,Above 60,Male,2
+Unity Aid 36,O36,2023,18-25,Female,88
+Unity Aid 36,O36,2023,18-25,Male,171
+Unity Aid 36,O36,2023,26-45,Female,34
+Unity Aid 36,O36,2023,26-45,Male,36
+Unity Aid 36,O36,2023,46-60,Female,15
+Unity Aid 36,O36,2023,46-60,Male,0
+Unity Aid 36,O36,2023,Above 60,Female,16
+Unity Aid 36,O36,2023,Above 60,Male,33
+Unity Aid 36,O36,2024,18-25,Female,85
+Unity Aid 36,O36,2024,18-25,Male,12
+Unity Aid 36,O36,2024,26-45,Female,70
+Unity Aid 36,O36,2024,26-45,Male,16
+Unity Aid 36,O36,2024,46-60,Female,0
+Unity Aid 36,O36,2024,46-60,Male,10
+Unity Aid 36,O36,2024,Above 60,Female,181
+Unity Aid 36,O36,2024,Above 60,Male,6
+North Support 37,O37,2013,18-25,Female,313
+North Support 37,O37,2013,18-25,Male,19
+North Support 37,O37,2013,26-45,Female,59
+North Support 37,O37,2013,26-45,Male,0
+North Support 37,O37,2013,46-60,Female,20
+North Support 37,O37,2013,46-60,Male,24
+North Support 37,O37,2013,Above 60,Female,8
+North Support 37,O37,2013,Above 60,Male,8
+North Support 37,O37,2014,18-25,Female,45
+North Support 37,O37,2014,18-25,Male,7
+North Support 37,O37,2014,26-45,Female,53
+North Support 37,O37,2014,26-45,Male,60
+North Support 37,O37,2014,46-60,Female,170
+North Support 37,O37,2014,46-60,Male,21
+North Support 37,O37,2014,Above 60,Female,0
+North Support 37,O37,2014,Above 60,Male,49
+North Support 37,O37,2015,18-25,Female,91
+North Support 37,O37,2015,18-25,Male,64
+North Support 37,O37,2015,26-45,Female,0
+North Support 37,O37,2015,26-45,Male,211
+North Support 37,O37,2015,46-60,Female,34
+North Support 37,O37,2015,46-60,Male,4
+North Support 37,O37,2015,Above 60,Female,28
+North Support 37,O37,2015,Above 60,Male,3
+North Support 37,O37,2016,18-25,Female,118
+North Support 37,O37,2016,18-25,Male,82
+North Support 37,O37,2016,26-45,Female,44
+North Support 37,O37,2016,26-45,Male,0
+North Support 37,O37,2016,46-60,Female,15
+North Support 37,O37,2016,46-60,Male,61
+North Support 37,O37,2016,Above 60,Female,56
+North Support 37,O37,2016,Above 60,Male,22
+North Support 37,O37,2017,18-25,Female,35
+North Support 37,O37,2017,18-25,Male,70
+North Support 37,O37,2017,26-45,Female,68
+North Support 37,O37,2017,26-45,Male,39
+North Support 37,O37,2017,46-60,Female,0
+North Support 37,O37,2017,46-60,Male,147
+North Support 37,O37,2017,Above 60,Female,19
+North Support 37,O37,2017,Above 60,Male,79
+North Support 37,O37,2018,18-25,Female,30
+North Support 37,O37,2018,18-25,Male,207
+North Support 37,O37,2018,26-45,Female,36
+North Support 37,O37,2018,26-45,Male,29
+North Support 37,O37,2018,46-60,Female,0
+North Support 37,O37,2018,46-60,Male,53
+North Support 37,O37,2018,Above 60,Female,80
+North Support 37,O37,2018,Above 60,Male,45
+North Support 37,O37,2019,18-25,Female,2
+North Support 37,O37,2019,18-25,Male,106
+North Support 37,O37,2019,26-45,Female,0
+North Support 37,O37,2019,26-45,Male,106
+North Support 37,O37,2019,46-60,Female,22
+North Support 37,O37,2019,46-60,Male,10
+North Support 37,O37,2019,Above 60,Female,93
+North Support 37,O37,2019,Above 60,Male,78
+North Support 37,O37,2020,18-25,Female,205
+North Support 37,O37,2020,18-25,Male,18
+North Support 37,O37,2020,26-45,Female,16
+North Support 37,O37,2020,26-45,Male,11
+North Support 37,O37,2020,46-60,Female,0
+North Support 37,O37,2020,46-60,Male,15
+North Support 37,O37,2020,Above 60,Female,1
+North Support 37,O37,2020,Above 60,Male,173
+North Support 37,O37,2021,18-25,Female,0
+North Support 37,O37,2021,18-25,Male,13
+North Support 37,O37,2021,26-45,Female,58
+North Support 37,O37,2021,26-45,Male,22
+North Support 37,O37,2021,46-60,Female,101
+North Support 37,O37,2021,46-60,Male,2
+North Support 37,O37,2021,Above 60,Female,89
+North Support 37,O37,2021,Above 60,Male,106
+North Support 37,O37,2022,18-25,Female,49
+North Support 37,O37,2022,18-25,Male,0
+North Support 37,O37,2022,26-45,Female,8
+North Support 37,O37,2022,26-45,Male,280
+North Support 37,O37,2022,46-60,Female,16
+North Support 37,O37,2022,46-60,Male,10
+North Support 37,O37,2022,Above 60,Female,116
+North Support 37,O37,2022,Above 60,Male,60
+North Support 37,O37,2023,18-25,Female,9
+North Support 37,O37,2023,18-25,Male,0
+North Support 37,O37,2023,26-45,Female,77
+North Support 37,O37,2023,26-45,Male,105
+North Support 37,O37,2023,46-60,Female,26
+North Support 37,O37,2023,46-60,Male,78
+North Support 37,O37,2023,Above 60,Female,43
+North Support 37,O37,2023,Above 60,Male,158
+North Support 37,O37,2024,18-25,Female,88
+North Support 37,O37,2024,18-25,Male,37
+North Support 37,O37,2024,26-45,Female,21
+North Support 37,O37,2024,26-45,Male,68
+North Support 37,O37,2024,46-60,Female,209
+North Support 37,O37,2024,46-60,Male,0
+North Support 37,O37,2024,Above 60,Female,4
+North Support 37,O37,2024,Above 60,Male,160
+Nova Partners 38,O38,2016,18-25,Female,5
+Nova Partners 38,O38,2016,18-25,Male,133
+Nova Partners 38,O38,2016,26-45,Female,108
+Nova Partners 38,O38,2016,26-45,Male,231
+Nova Partners 38,O38,2016,46-60,Female,0
+Nova Partners 38,O38,2016,46-60,Male,38
+Nova Partners 38,O38,2016,Above 60,Female,14
+Nova Partners 38,O38,2016,Above 60,Male,31
+Nova Partners 38,O38,2017,18-25,Female,51
+Nova Partners 38,O38,2017,18-25,Male,71
+Nova Partners 38,O38,2017,26-45,Female,14
+Nova Partners 38,O38,2017,26-45,Male,64
+Nova Partners 38,O38,2017,46-60,Female,59
+Nova Partners 38,O38,2017,46-60,Male,0
+Nova Partners 38,O38,2017,Above 60,Female,170
+Nova Partners 38,O38,2017,Above 60,Male,101
+Nova Partners 38,O38,2018,18-25,Female,53
+Nova Partners 38,O38,2018,18-25,Male,70
+Nova Partners 38,O38,2018,26-45,Female,46
+Nova Partners 38,O38,2018,26-45,Male,49
+Nova Partners 38,O38,2018,46-60,Female,15
+Nova Partners 38,O38,2018,46-60,Male,20
+Nova Partners 38,O38,2018,Above 60,Female,0
+Nova Partners 38,O38,2018,Above 60,Male,314
+Nova Partners 38,O38,2019,18-25,Female,59
+Nova Partners 38,O38,2019,18-25,Male,3
+Nova Partners 38,O38,2019,26-45,Female,226
+Nova Partners 38,O38,2019,26-45,Male,90
+Nova Partners 38,O38,2019,46-60,Female,0
+Nova Partners 38,O38,2019,46-60,Male,35
+Nova Partners 38,O38,2019,Above 60,Female,92
+Nova Partners 38,O38,2019,Above 60,Male,34
+Nova Partners 38,O38,2020,18-25,Female,0
+Nova Partners 38,O38,2020,18-25,Male,33
+Nova Partners 38,O38,2020,26-45,Female,77
+Nova Partners 38,O38,2020,26-45,Male,408
+Nova Partners 38,O38,2020,46-60,Female,18
+Nova Partners 38,O38,2020,46-60,Male,48
+Nova Partners 38,O38,2020,Above 60,Female,4
+Nova Partners 38,O38,2020,Above 60,Male,68
+Nova Partners 38,O38,2021,18-25,Female,6
+Nova Partners 38,O38,2021,18-25,Male,69
+Nova Partners 38,O38,2021,26-45,Female,215
+Nova Partners 38,O38,2021,26-45,Male,55
+Nova Partners 38,O38,2021,46-60,Female,123
+Nova Partners 38,O38,2021,46-60,Male,91
+Nova Partners 38,O38,2021,Above 60,Female,0
+Nova Partners 38,O38,2021,Above 60,Male,6
+Nova Partners 38,O38,2022,18-25,Female,43
+Nova Partners 38,O38,2022,18-25,Male,183
+Nova Partners 38,O38,2022,26-45,Female,0
+Nova Partners 38,O38,2022,26-45,Male,28
+Nova Partners 38,O38,2022,46-60,Female,289
+Nova Partners 38,O38,2022,46-60,Male,125
+Nova Partners 38,O38,2022,Above 60,Female,38
+Nova Partners 38,O38,2022,Above 60,Male,16
+Nova Partners 38,O38,2023,18-25,Female,4
+Nova Partners 38,O38,2023,18-25,Male,25
+Nova Partners 38,O38,2023,26-45,Female,19
+Nova Partners 38,O38,2023,26-45,Male,0
+Nova Partners 38,O38,2023,46-60,Female,91
+Nova Partners 38,O38,2023,46-60,Male,443
+Nova Partners 38,O38,2023,Above 60,Female,131
+Nova Partners 38,O38,2023,Above 60,Male,13
+Nova Partners 38,O38,2024,18-25,Female,42
+Nova Partners 38,O38,2024,18-25,Male,96
+Nova Partners 38,O38,2024,26-45,Female,69
+Nova Partners 38,O38,2024,26-45,Male,33
+Nova Partners 38,O38,2024,46-60,Female,228
+Nova Partners 38,O38,2024,46-60,Male,0
+Nova Partners 38,O38,2024,Above 60,Female,141
+Nova Partners 38,O38,2024,Above 60,Male,70
+East Partners 39,O39,2013,18-25,Female,66
+East Partners 39,O39,2013,18-25,Male,0
+East Partners 39,O39,2013,26-45,Female,13
+East Partners 39,O39,2013,26-45,Male,8
+East Partners 39,O39,2013,46-60,Female,33
+East Partners 39,O39,2013,46-60,Male,35
+East Partners 39,O39,2013,Above 60,Female,77
+East Partners 39,O39,2013,Above 60,Male,109
+East Partners 39,O39,2014,18-25,Female,26
+East Partners 39,O39,2014,18-25,Male,89
+East Partners 39,O39,2014,26-45,Female,67
+East Partners 39,O39,2014,26-45,Male,118
+East Partners 39,O39,2014,46-60,Female,5
+East Partners 39,O39,2014,46-60,Male,59
+East Partners 39,O39,2014,Above 60,Female,0
+East Partners 39,O39,2014,Above 60,Male,12
+East Partners 39,O39,2015,18-25,Female,47
+East Partners 39,O39,2015,18-25,Male,5
+East Partners 39,O39,2015,26-45,Female,0
+East Partners 39,O39,2015,26-45,Male,36
+East Partners 39,O39,2015,46-60,Female,42
+East Partners 39,O39,2015,46-60,Male,106
+East Partners 39,O39,2015,Above 60,Female,104
+East Partners 39,O39,2015,Above 60,Male,16
+East Partners 39,O39,2016,18-25,Female,76
+East Partners 39,O39,2016,18-25,Male,182
+East Partners 39,O39,2016,26-45,Female,40
+East Partners 39,O39,2016,26-45,Male,15
+East Partners 39,O39,2016,46-60,Female,23
+East Partners 39,O39,2016,46-60,Male,5
+East Partners 39,O39,2016,Above 60,Female,0
+East Partners 39,O39,2016,Above 60,Male,21
+East Partners 39,O39,2017,18-25,Female,105
+East Partners 39,O39,2017,18-25,Male,31
+East Partners 39,O39,2017,26-45,Female,23
+East Partners 39,O39,2017,26-45,Male,43
+East Partners 39,O39,2017,46-60,Female,0
+East Partners 39,O39,2017,46-60,Male,5
+East Partners 39,O39,2017,Above 60,Female,119
+East Partners 39,O39,2017,Above 60,Male,37
+East Partners 39,O39,2018,18-25,Female,0
+East Partners 39,O39,2018,18-25,Male,17
+East Partners 39,O39,2018,26-45,Female,16
+East Partners 39,O39,2018,26-45,Male,16
+East Partners 39,O39,2018,46-60,Female,91
+East Partners 39,O39,2018,46-60,Male,79
+East Partners 39,O39,2018,Above 60,Female,33
+East Partners 39,O39,2018,Above 60,Male,93
+East Partners 39,O39,2019,18-25,Female,18
+East Partners 39,O39,2019,18-25,Male,147
+East Partners 39,O39,2019,26-45,Female,99
+East Partners 39,O39,2019,26-45,Male,19
+East Partners 39,O39,2019,46-60,Female,12
+East Partners 39,O39,2019,46-60,Male,27
+East Partners 39,O39,2019,Above 60,Female,0
+East Partners 39,O39,2019,Above 60,Male,24
+East Partners 39,O39,2020,18-25,Female,37
+East Partners 39,O39,2020,18-25,Male,8
+East Partners 39,O39,2020,26-45,Female,129
+East Partners 39,O39,2020,26-45,Male,54
+East Partners 39,O39,2020,46-60,Female,0
+East Partners 39,O39,2020,46-60,Male,44
+East Partners 39,O39,2020,Above 60,Female,36
+East Partners 39,O39,2020,Above 60,Male,78
+East Partners 39,O39,2021,18-25,Female,81
+East Partners 39,O39,2021,18-25,Male,0
+East Partners 39,O39,2021,26-45,Female,3
+East Partners 39,O39,2021,26-45,Male,0
+East Partners 39,O39,2021,46-60,Female,14
+East Partners 39,O39,2021,46-60,Male,125
+East Partners 39,O39,2021,Above 60,Female,74
+East Partners 39,O39,2021,Above 60,Male,89
+East Partners 39,O39,2022,18-25,Female,0
+East Partners 39,O39,2022,18-25,Male,62
+East Partners 39,O39,2022,26-45,Female,22
+East Partners 39,O39,2022,26-45,Male,129
+East Partners 39,O39,2022,46-60,Female,3
+East Partners 39,O39,2022,46-60,Male,99
+East Partners 39,O39,2022,Above 60,Female,15
+East Partners 39,O39,2022,Above 60,Male,48
+East Partners 39,O39,2023,18-25,Female,35
+East Partners 39,O39,2023,18-25,Male,16
+East Partners 39,O39,2023,26-45,Female,88
+East Partners 39,O39,2023,26-45,Male,180
+East Partners 39,O39,2023,46-60,Female,37
+East Partners 39,O39,2023,46-60,Male,0
+East Partners 39,O39,2023,Above 60,Female,14
+East Partners 39,O39,2023,Above 60,Male,17
+East Partners 39,O39,2024,18-25,Female,15
+East Partners 39,O39,2024,18-25,Male,86
+East Partners 39,O39,2024,26-45,Female,14
+East Partners 39,O39,2024,26-45,Male,12
+East Partners 39,O39,2024,46-60,Female,133
+East Partners 39,O39,2024,46-60,Male,0
+East Partners 39,O39,2024,Above 60,Female,51
+East Partners 39,O39,2024,Above 60,Male,127
+Care Community 40,O40,2011,18-25,Female,0
+Care Community 40,O40,2011,18-25,Male,150
+Care Community 40,O40,2011,26-45,Female,199
+Care Community 40,O40,2011,26-45,Male,21
+Care Community 40,O40,2011,46-60,Female,17
+Care Community 40,O40,2011,46-60,Male,15
+Care Community 40,O40,2011,Above 60,Female,0
+Care Community 40,O40,2011,Above 60,Male,147
+Care Community 40,O40,2012,18-25,Female,68
+Care Community 40,O40,2012,18-25,Male,49
+Care Community 40,O40,2012,26-45,Female,106
+Care Community 40,O40,2012,26-45,Male,0
+Care Community 40,O40,2012,46-60,Female,209
+Care Community 40,O40,2012,46-60,Male,76
+Care Community 40,O40,2012,Above 60,Female,10
+Care Community 40,O40,2012,Above 60,Male,58
+Care Community 40,O40,2013,18-25,Female,236
+Care Community 40,O40,2013,18-25,Male,1
+Care Community 40,O40,2013,26-45,Female,20
+Care Community 40,O40,2013,26-45,Male,0
+Care Community 40,O40,2013,46-60,Female,22
+Care Community 40,O40,2013,46-60,Male,51
+Care Community 40,O40,2013,Above 60,Female,241
+Care Community 40,O40,2013,Above 60,Male,12
+Care Community 40,O40,2014,18-25,Female,25
+Care Community 40,O40,2014,18-25,Male,93
+Care Community 40,O40,2014,26-45,Female,122
+Care Community 40,O40,2014,26-45,Male,44
+Care Community 40,O40,2014,46-60,Female,50
+Care Community 40,O40,2014,46-60,Male,186
+Care Community 40,O40,2014,Above 60,Female,55
+Care Community 40,O40,2014,Above 60,Male,0
+Care Community 40,O40,2015,18-25,Female,31
+Care Community 40,O40,2015,18-25,Male,2
+Care Community 40,O40,2015,26-45,Female,0
+Care Community 40,O40,2015,26-45,Male,14
+Care Community 40,O40,2015,46-60,Female,35
+Care Community 40,O40,2015,46-60,Male,37
+Care Community 40,O40,2015,Above 60,Female,67
+Care Community 40,O40,2015,Above 60,Male,449
+Care Community 40,O40,2016,18-25,Female,74
+Care Community 40,O40,2016,18-25,Male,76
+Care Community 40,O40,2016,26-45,Female,164
+Care Community 40,O40,2016,26-45,Male,0
+Care Community 40,O40,2016,46-60,Female,79
+Care Community 40,O40,2016,46-60,Male,143
+Care Community 40,O40,2016,Above 60,Female,42
+Care Community 40,O40,2016,Above 60,Male,12
+Care Community 40,O40,2017,18-25,Female,1
+Care Community 40,O40,2017,18-25,Male,66
+Care Community 40,O40,2017,26-45,Female,49
+Care Community 40,O40,2017,26-45,Male,202
+Care Community 40,O40,2017,46-60,Female,0
+Care Community 40,O40,2017,46-60,Male,12
+Care Community 40,O40,2017,Above 60,Female,86
+Care Community 40,O40,2017,Above 60,Male,145
+Care Community 40,O40,2018,18-25,Female,92
+Care Community 40,O40,2018,18-25,Male,26
+Care Community 40,O40,2018,26-45,Female,65
+Care Community 40,O40,2018,26-45,Male,186
+Care Community 40,O40,2018,46-60,Female,9
+Care Community 40,O40,2018,46-60,Male,0
+Care Community 40,O40,2018,Above 60,Female,15
+Care Community 40,O40,2018,Above 60,Male,208
+Care Community 40,O40,2019,18-25,Female,88
+Care Community 40,O40,2019,18-25,Male,94
+Care Community 40,O40,2019,26-45,Female,0
+Care Community 40,O40,2019,26-45,Male,82
+Care Community 40,O40,2019,46-60,Female,45
+Care Community 40,O40,2019,46-60,Male,217
+Care Community 40,O40,2019,Above 60,Female,22
+Care Community 40,O40,2019,Above 60,Male,18
+Care Community 40,O40,2020,18-25,Female,35
+Care Community 40,O40,2020,18-25,Male,103
+Care Community 40,O40,2020,26-45,Female,222
+Care Community 40,O40,2020,26-45,Male,0
+Care Community 40,O40,2020,46-60,Female,57
+Care Community 40,O40,2020,46-60,Male,104
+Care Community 40,O40,2020,Above 60,Female,14
+Care Community 40,O40,2020,Above 60,Male,40
+Care Community 40,O40,2021,18-25,Female,0
+Care Community 40,O40,2021,18-25,Male,119
+Care Community 40,O40,2021,26-45,Female,11
+Care Community 40,O40,2021,26-45,Male,74
+Care Community 40,O40,2021,46-60,Female,14
+Care Community 40,O40,2021,46-60,Male,2
+Care Community 40,O40,2021,Above 60,Female,131
+Care Community 40,O40,2021,Above 60,Male,181
+Care Community 40,O40,2022,18-25,Female,68
+Care Community 40,O40,2022,18-25,Male,60
+Care Community 40,O40,2022,26-45,Female,0
+Care Community 40,O40,2022,26-45,Male,61
+Care Community 40,O40,2022,46-60,Female,185
+Care Community 40,O40,2022,46-60,Male,33
+Care Community 40,O40,2022,Above 60,Female,166
+Care Community 40,O40,2022,Above 60,Male,88
+Care Community 40,O40,2023,18-25,Female,10
+Care Community 40,O40,2023,18-25,Male,201
+Care Community 40,O40,2023,26-45,Female,0
+Care Community 40,O40,2023,26-45,Male,62
+Care Community 40,O40,2023,46-60,Female,156
+Care Community 40,O40,2023,46-60,Male,39
+Care Community 40,O40,2023,Above 60,Female,87
+Care Community 40,O40,2023,Above 60,Male,42
+Care Community 40,O40,2024,18-25,Female,11
+Care Community 40,O40,2024,18-25,Male,189
+Care Community 40,O40,2024,26-45,Female,224
+Care Community 40,O40,2024,26-45,Male,38
+Care Community 40,O40,2024,46-60,Female,36
+Care Community 40,O40,2024,46-60,Male,183
+Care Community 40,O40,2024,Above 60,Female,91
+Care Community 40,O40,2024,Above 60,Male,0

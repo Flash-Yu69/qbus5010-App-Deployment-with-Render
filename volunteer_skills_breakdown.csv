@@ -1,0 +1,1601 @@
+org_id,skill,age_group,gender,sub_percentage
+O01,Education,18-25,Female,0.23
+O01,Education,18-25,Male,0
+O01,Education,26-45,Female,0
+O01,Education,26-45,Male,4.23
+O01,Education,46-60,Female,0
+O01,Education,46-60,Male,9.09
+O01,Education,Above 60,Female,4.1
+O01,Education,Above 60,Male,3.05
+O01,Health,18-25,Female,0
+O01,Health,18-25,Male,6.54
+O01,Health,26-45,Female,1.12
+O01,Health,26-45,Male,0
+O01,Health,46-60,Female,0
+O01,Health,46-60,Male,2.28
+O01,Health,Above 60,Female,3
+O01,Health,Above 60,Male,0.66
+O01,Environment,18-25,Female,11.05
+O01,Environment,18-25,Male,0
+O01,Environment,26-45,Female,12.01
+O01,Environment,26-45,Male,4.76
+O01,Environment,46-60,Female,2.03
+O01,Environment,46-60,Male,0
+O01,Environment,Above 60,Female,0
+O01,Environment,Above 60,Male,18.15
+O01,Law,18-25,Female,0
+O01,Law,18-25,Male,0
+O01,Law,26-45,Female,0.9
+O01,Law,26-45,Male,0.48
+O01,Law,46-60,Female,0.43
+O01,Law,46-60,Male,0
+O01,Law,Above 60,Female,1.24
+O01,Law,Above 60,Male,0.45
+O01,Other,18-25,Female,5.89
+O01,Other,18-25,Male,0
+O01,Other,26-45,Female,4.88
+O01,Other,26-45,Male,1.4
+O01,Other,46-60,Female,0
+O01,Other,46-60,Male,0.72
+O01,Other,Above 60,Female,0
+O01,Other,Above 60,Male,1.21
+O02,Education,18-25,Female,5.66
+O02,Education,18-25,Male,0
+O02,Education,26-45,Female,0
+O02,Education,26-45,Male,4.04
+O02,Education,46-60,Female,8.02
+O02,Education,46-60,Male,0
+O02,Education,Above 60,Female,1.84
+O02,Education,Above 60,Male,5.14
+O02,Health,18-25,Female,0
+O02,Health,18-25,Male,0.69
+O02,Health,26-45,Female,0
+O02,Health,26-45,Male,16.21
+O02,Health,46-60,Female,0
+O02,Health,46-60,Male,14.86
+O02,Health,Above 60,Female,25.54
+O02,Health,Above 60,Male,9.2
+O02,Environment,18-25,Female,0
+O02,Environment,18-25,Male,0.14
+O02,Environment,26-45,Female,0.05
+O02,Environment,26-45,Male,0.12
+O02,Environment,46-60,Female,0
+O02,Environment,46-60,Male,0.05
+O02,Environment,Above 60,Female,0
+O02,Environment,Above 60,Male,0.04
+O02,Law,18-25,Female,0
+O02,Law,18-25,Male,0
+O02,Law,26-45,Female,3.63
+O02,Law,26-45,Male,0.95
+O02,Law,46-60,Female,0.82
+O02,Law,46-60,Male,0
+O02,Law,Above 60,Female,0.12
+O02,Law,Above 60,Male,1.98
+O02,Other,18-25,Female,0.02
+O02,Other,18-25,Male,0
+O02,Other,26-45,Female,0.62
+O02,Other,26-45,Male,0.14
+O02,Other,46-60,Female,0.08
+O02,Other,46-60,Male,0
+O02,Other,Above 60,Female,0
+O02,Other,Above 60,Male,0.14
+O03,Education,18-25,Female,0
+O03,Education,18-25,Male,6.61
+O03,Education,26-45,Female,2.35
+O03,Education,26-45,Male,4.5
+O03,Education,46-60,Female,13.28
+O03,Education,46-60,Male,0
+O03,Education,Above 60,Female,1.36
+O03,Education,Above 60,Male,0
+O03,Health,18-25,Female,3.22
+O03,Health,18-25,Male,5.52
+O03,Health,26-45,Female,0.81
+O03,Health,26-45,Male,0
+O03,Health,46-60,Female,10.18
+O03,Health,46-60,Male,7.27
+O03,Health,Above 60,Female,0
+O03,Health,Above 60,Male,0
+O03,Environment,18-25,Female,6.83
+O03,Environment,18-25,Male,0
+O03,Environment,26-45,Female,0.74
+O03,Environment,26-45,Male,0
+O03,Environment,46-60,Female,0.11
+O03,Environment,46-60,Male,2.43
+O03,Environment,Above 60,Female,0
+O03,Environment,Above 60,Male,2.29
+O03,Law,18-25,Female,2.71
+O03,Law,18-25,Male,0.47
+O03,Law,26-45,Female,0
+O03,Law,26-45,Male,0.18
+O03,Law,46-60,Female,0
+O03,Law,46-60,Male,0
+O03,Law,Above 60,Female,1.31
+O03,Law,Above 60,Male,10.53
+O03,Other,18-25,Female,0
+O03,Other,18-25,Male,4.43
+O03,Other,26-45,Female,3.41
+O03,Other,26-45,Male,3.81
+O03,Other,46-60,Female,5.44
+O03,Other,46-60,Male,0
+O03,Other,Above 60,Female,0
+O03,Other,Above 60,Male,0.21
+O04,Education,18-25,Female,6.5
+O04,Education,18-25,Male,0.3
+O04,Education,26-45,Female,0
+O04,Education,26-45,Male,0
+O04,Education,46-60,Female,5.69
+O04,Education,46-60,Male,0
+O04,Education,Above 60,Female,1.56
+O04,Education,Above 60,Male,0.85
+O04,Health,18-25,Female,1.1
+O04,Health,18-25,Male,2.37
+O04,Health,26-45,Female,0
+O04,Health,26-45,Male,5.89
+O04,Health,46-60,Female,0
+O04,Health,46-60,Male,0
+O04,Health,Above 60,Female,1.11
+O04,Health,Above 60,Male,2.33
+O04,Environment,18-25,Female,0
+O04,Environment,18-25,Male,7.06
+O04,Environment,26-45,Female,6.81
+O04,Environment,26-45,Male,8.45
+O04,Environment,46-60,Female,0
+O04,Environment,46-60,Male,0
+O04,Environment,Above 60,Female,5.67
+O04,Environment,Above 60,Male,1.11
+O04,Law,18-25,Female,2.58
+O04,Law,18-25,Male,0
+O04,Law,26-45,Female,4.48
+O04,Law,26-45,Male,0
+O04,Law,46-60,Female,0
+O04,Law,46-60,Male,0.17
+O04,Law,Above 60,Female,1.92
+O04,Law,Above 60,Male,1.55
+O04,Other,18-25,Female,10.11
+O04,Other,18-25,Male,0
+O04,Other,26-45,Female,0
+O04,Other,26-45,Male,0
+O04,Other,46-60,Female,16.99
+O04,Other,46-60,Male,2.17
+O04,Other,Above 60,Female,1.97
+O04,Other,Above 60,Male,1.26
+O05,Education,18-25,Female,0
+O05,Education,18-25,Male,16.76
+O05,Education,26-45,Female,12.08
+O05,Education,26-45,Male,0
+O05,Education,46-60,Female,0
+O05,Education,46-60,Male,0.62
+O05,Education,Above 60,Female,4
+O05,Education,Above 60,Male,5.94
+O05,Health,18-25,Female,3.67
+O05,Health,18-25,Male,9.44
+O05,Health,26-45,Female,0
+O05,Health,26-45,Male,0
+O05,Health,46-60,Female,0
+O05,Health,46-60,Male,15.17
+O05,Health,Above 60,Female,12.58
+O05,Health,Above 60,Male,4.84
+O05,Environment,18-25,Female,0
+O05,Environment,18-25,Male,0.45
+O05,Environment,26-45,Female,1.33
+O05,Environment,26-45,Male,0.73
+O05,Environment,46-60,Female,1.54
+O05,Environment,46-60,Male,0
+O05,Environment,Above 60,Female,0.25
+O05,Environment,Above 60,Male,0
+O05,Law,18-25,Female,0.03
+O05,Law,18-25,Male,0.29
+O05,Law,26-45,Female,0
+O05,Law,26-45,Male,0
+O05,Law,46-60,Female,1.93
+O05,Law,46-60,Male,0.83
+O05,Law,Above 60,Female,0.02
+O05,Law,Above 60,Male,0
+O05,Other,18-25,Female,0
+O05,Other,18-25,Male,1.46
+O05,Other,26-45,Female,0.35
+O05,Other,26-45,Male,3.09
+O05,Other,46-60,Female,0.72
+O05,Other,46-60,Male,0
+O05,Other,Above 60,Female,1.98
+O05,Other,Above 60,Male,0
+O06,Education,18-25,Female,0
+O06,Education,18-25,Male,0.97
+O06,Education,26-45,Female,2.07
+O06,Education,26-45,Male,1.59
+O06,Education,46-60,Female,0
+O06,Education,46-60,Male,0
+O06,Education,Above 60,Female,0.31
+O06,Education,Above 60,Male,0.26
+O06,Health,18-25,Female,0
+O06,Health,18-25,Male,2.35
+O06,Health,26-45,Female,0
+O06,Health,26-45,Male,0
+O06,Health,46-60,Female,5.23
+O06,Health,46-60,Male,3.07
+O06,Health,Above 60,Female,13.26
+O06,Health,Above 60,Male,0.29
+O06,Environment,18-25,Female,0
+O06,Environment,18-25,Male,0.63
+O06,Environment,26-45,Female,4.18
+O06,Environment,26-45,Male,24.68
+O06,Environment,46-60,Female,0.91
+O06,Environment,46-60,Male,0
+O06,Environment,Above 60,Female,4.6
+O06,Environment,Above 60,Male,0
+O06,Law,18-25,Female,3.07
+O06,Law,18-25,Male,0.15
+O06,Law,26-45,Female,0
+O06,Law,26-45,Male,8.47
+O06,Law,46-60,Female,0
+O06,Law,46-60,Male,0
+O06,Law,Above 60,Female,4.97
+O06,Law,Above 60,Male,0.24
+O06,Other,18-25,Female,4.67
+O06,Other,18-25,Male,0
+O06,Other,26-45,Female,0.65
+O06,Other,26-45,Male,0
+O06,Other,46-60,Female,0
+O06,Other,46-60,Male,3.71
+O06,Other,Above 60,Female,5.84
+O06,Other,Above 60,Male,3.93
+O07,Education,18-25,Female,0
+O07,Education,18-25,Male,5.45
+O07,Education,26-45,Female,2.52
+O07,Education,26-45,Male,0
+O07,Education,46-60,Female,0
+O07,Education,46-60,Male,0.68
+O07,Education,Above 60,Female,2.55
+O07,Education,Above 60,Male,1.4
+O07,Health,18-25,Female,0
+O07,Health,18-25,Male,0.56
+O07,Health,26-45,Female,0.19
+O07,Health,26-45,Male,0.19
+O07,Health,46-60,Female,0.3
+O07,Health,46-60,Male,0.46
+O07,Health,Above 60,Female,0
+O07,Health,Above 60,Male,0
+O07,Environment,18-25,Female,0
+O07,Environment,18-25,Male,14.18
+O07,Environment,26-45,Female,6.43
+O07,Environment,26-45,Male,2.05
+O07,Environment,46-60,Female,0
+O07,Environment,46-60,Male,18.06
+O07,Environment,Above 60,Female,3.28
+O07,Environment,Above 60,Male,0
+O07,Law,18-25,Female,1.56
+O07,Law,18-25,Male,0
+O07,Law,26-45,Female,0.49
+O07,Law,26-45,Male,0
+O07,Law,46-60,Female,4.18
+O07,Law,46-60,Male,12.24
+O07,Law,Above 60,Female,0
+O07,Law,Above 60,Male,0.23
+O07,Other,18-25,Female,0
+O07,Other,18-25,Male,0.15
+O07,Other,26-45,Female,6.79
+O07,Other,26-45,Male,0
+O07,Other,46-60,Female,0
+O07,Other,46-60,Male,13.28
+O07,Other,Above 60,Female,0.73
+O07,Other,Above 60,Male,2.05
+O08,Education,18-25,Female,11.02
+O08,Education,18-25,Male,0
+O08,Education,26-45,Female,18.36
+O08,Education,26-45,Male,7.84
+O08,Education,46-60,Female,0
+O08,Education,46-60,Male,6.34
+O08,Education,Above 60,Female,0
+O08,Education,Above 60,Male,1.34
+O08,Health,18-25,Female,0.99
+O08,Health,18-25,Male,0
+O08,Health,26-45,Female,7.05
+O08,Health,26-45,Male,0
+O08,Health,46-60,Female,3.83
+O08,Health,46-60,Male,3.66
+O08,Health,Above 60,Female,0
+O08,Health,Above 60,Male,19.37
+O08,Environment,18-25,Female,0
+O08,Environment,18-25,Male,0.01
+O08,Environment,26-45,Female,0.1
+O08,Environment,26-45,Male,0
+O08,Environment,46-60,Female,0
+O08,Environment,46-60,Male,0.06
+O08,Environment,Above 60,Female,0.03
+O08,Environment,Above 60,Male,0.2
+O08,Law,18-25,Female,5.84
+O08,Law,18-25,Male,0
+O08,Law,26-45,Female,0.32
+O08,Law,26-45,Male,0
+O08,Law,46-60,Female,1.81
+O08,Law,46-60,Male,1.99
+O08,Law,Above 60,Female,0.54
+O08,Law,Above 60,Male,0
+O08,Other,18-25,Female,0.71
+O08,Other,18-25,Male,0
+O08,Other,26-45,Female,0
+O08,Other,26-45,Male,5.99
+O08,Other,46-60,Female,0
+O08,Other,46-60,Male,1.72
+O08,Other,Above 60,Female,0.15
+O08,Other,Above 60,Male,0.73
+O09,Education,18-25,Female,6.02
+O09,Education,18-25,Male,0
+O09,Education,26-45,Female,0.07
+O09,Education,26-45,Male,0
+O09,Education,46-60,Female,0
+O09,Education,46-60,Male,3.25
+O09,Education,Above 60,Female,0.06
+O09,Education,Above 60,Male,0.2
+O09,Health,18-25,Female,0.05
+O09,Health,18-25,Male,13.03
+O09,Health,26-45,Female,0.47
+O09,Health,26-45,Male,0
+O09,Health,46-60,Female,0
+O09,Health,46-60,Male,0
+O09,Health,Above 60,Female,5.83
+O09,Health,Above 60,Male,1.02
+O09,Environment,18-25,Female,0
+O09,Environment,18-25,Male,7.48
+O09,Environment,26-45,Female,0.28
+O09,Environment,26-45,Male,5.47
+O09,Environment,46-60,Female,7.37
+O09,Environment,46-60,Male,6.6
+O09,Environment,Above 60,Female,0
+O09,Environment,Above 60,Male,0
+O09,Law,18-25,Female,11.61
+O09,Law,18-25,Male,9.15
+O09,Law,26-45,Female,0
+O09,Law,26-45,Male,0
+O09,Law,46-60,Female,1.97
+O09,Law,46-60,Male,2.25
+O09,Law,Above 60,Female,8.62
+O09,Law,Above 60,Male,0
+O09,Other,18-25,Female,1.08
+O09,Other,18-25,Male,0
+O09,Other,26-45,Female,0
+O09,Other,26-45,Male,0.21
+O09,Other,46-60,Female,0
+O09,Other,46-60,Male,0.58
+O09,Other,Above 60,Female,0.33
+O09,Other,Above 60,Male,7
+O10,Education,18-25,Female,5.64
+O10,Education,18-25,Male,0
+O10,Education,26-45,Female,12.37
+O10,Education,26-45,Male,0.65
+O10,Education,46-60,Female,1.47
+O10,Education,46-60,Male,0
+O10,Education,Above 60,Female,11.77
+O10,Education,Above 60,Male,0
+O10,Health,18-25,Female,0
+O10,Health,18-25,Male,7.87
+O10,Health,26-45,Female,0.77
+O10,Health,26-45,Male,13.63
+O10,Health,46-60,Female,1.84
+O10,Health,46-60,Male,0
+O10,Health,Above 60,Female,0
+O10,Health,Above 60,Male,0.89
+O10,Environment,18-25,Female,1.2
+O10,Environment,18-25,Male,0.88
+O10,Environment,26-45,Female,0.05
+O10,Environment,26-45,Male,0.61
+O10,Environment,46-60,Female,0
+O10,Environment,46-60,Male,0
+O10,Environment,Above 60,Female,1.06
+O10,Environment,Above 60,Male,0
+O10,Law,18-25,Female,0
+O10,Law,18-25,Male,0.22
+O10,Law,26-45,Female,7.86
+O10,Law,26-45,Male,3.87
+O10,Law,46-60,Female,0
+O10,Law,46-60,Male,3.78
+O10,Law,Above 60,Female,0
+O10,Law,Above 60,Male,0.27
+O10,Other,18-25,Female,0
+O10,Other,18-25,Male,11.41
+O10,Other,26-45,Female,5.15
+O10,Other,26-45,Male,3.56
+O10,Other,46-60,Female,0.94
+O10,Other,46-60,Male,2.14
+O10,Other,Above 60,Female,0
+O10,Other,Above 60,Male,0
+O11,Education,18-25,Female,0
+O11,Education,18-25,Male,2.12
+O11,Education,26-45,Female,0.13
+O11,Education,26-45,Male,0.27
+O11,Education,46-60,Female,1.25
+O11,Education,46-60,Male,0.03
+O11,Education,Above 60,Female,0
+O11,Education,Above 60,Male,0
+O11,Health,18-25,Female,8.25
+O11,Health,18-25,Male,0.84
+O11,Health,26-45,Female,1.09
+O11,Health,26-45,Male,0
+O11,Health,46-60,Female,1.39
+O11,Health,46-60,Male,0
+O11,Health,Above 60,Female,0
+O11,Health,Above 60,Male,4.63
+O11,Environment,18-25,Female,0.09
+O11,Environment,18-25,Male,11.12
+O11,Environment,26-45,Female,7.2
+O11,Environment,26-45,Male,6.46
+O11,Environment,46-60,Female,0
+O11,Environment,46-60,Male,0
+O11,Environment,Above 60,Female,12.13
+O11,Environment,Above 60,Male,0
+O11,Law,18-25,Female,0
+O11,Law,18-25,Male,6.99
+O11,Law,26-45,Female,3.18
+O11,Law,26-45,Male,4.14
+O11,Law,46-60,Female,7.63
+O11,Law,46-60,Male,0
+O11,Law,Above 60,Female,0
+O11,Law,Above 60,Male,6.56
+O11,Other,18-25,Female,1.32
+O11,Other,18-25,Male,0
+O11,Other,26-45,Female,0
+O11,Other,26-45,Male,2.54
+O11,Other,46-60,Female,6.1
+O11,Other,46-60,Male,0
+O11,Other,Above 60,Female,4.23
+O11,Other,Above 60,Male,0.21
+O12,Education,18-25,Female,11.4
+O12,Education,18-25,Male,0
+O12,Education,26-45,Female,2.73
+O12,Education,26-45,Male,0.45
+O12,Education,46-60,Female,3.68
+O12,Education,46-60,Male,0
+O12,Education,Above 60,Female,6.54
+O12,Education,Above 60,Male,0
+O12,Health,18-25,Female,0
+O12,Health,18-25,Male,1.6
+O12,Health,26-45,Female,1.31
+O12,Health,26-45,Male,4.43
+O12,Health,46-60,Female,3.5
+O12,Health,46-60,Male,0
+O12,Health,Above 60,Female,0
+O12,Health,Above 60,Male,1.86
+O12,Environment,18-25,Female,2.13
+O12,Environment,18-25,Male,0
+O12,Environment,26-45,Female,2.52
+O12,Environment,26-45,Male,0
+O12,Environment,46-60,Female,0.4
+O12,Environment,46-60,Male,0
+O12,Environment,Above 60,Female,1.11
+O12,Environment,Above 60,Male,6.54
+O12,Law,18-25,Female,4.15
+O12,Law,18-25,Male,0.15
+O12,Law,26-45,Female,0
+O12,Law,26-45,Male,0
+O12,Law,46-60,Female,4.16
+O12,Law,46-60,Male,8.48
+O12,Law,Above 60,Female,2.56
+O12,Law,Above 60,Male,0
+O12,Other,18-25,Female,0
+O12,Other,18-25,Male,0
+O12,Other,26-45,Female,5.6
+O12,Other,26-45,Male,0
+O12,Other,46-60,Female,12.78
+O12,Other,46-60,Male,0.33
+O12,Other,Above 60,Female,10.03
+O12,Other,Above 60,Male,1.56
+O13,Education,18-25,Female,0
+O13,Education,18-25,Male,0
+O13,Education,26-45,Female,2.95
+O13,Education,26-45,Male,5.43
+O13,Education,46-60,Female,2.74
+O13,Education,46-60,Male,15.59
+O13,Education,Above 60,Female,3.29
+O13,Education,Above 60,Male,0
+O13,Health,18-25,Female,16.64
+O13,Health,18-25,Male,6.37
+O13,Health,26-45,Female,0
+O13,Health,26-45,Male,0
+O13,Health,46-60,Female,1.97
+O13,Health,46-60,Male,0
+O13,Health,Above 60,Female,0.41
+O13,Health,Above 60,Male,2.61
+O13,Environment,18-25,Female,0.32
+O13,Environment,18-25,Male,0
+O13,Environment,26-45,Female,2.44
+O13,Environment,26-45,Male,0.16
+O13,Environment,46-60,Female,0
+O13,Environment,46-60,Male,3.78
+O13,Environment,Above 60,Female,0
+O13,Environment,Above 60,Male,1.3
+O13,Law,18-25,Female,10.7
+O13,Law,18-25,Male,0
+O13,Law,26-45,Female,2.2
+O13,Law,26-45,Male,0.12
+O13,Law,46-60,Female,0
+O13,Law,46-60,Male,1.38
+O13,Law,Above 60,Female,10
+O13,Law,Above 60,Male,0
+O13,Other,18-25,Female,0.71
+O13,Other,18-25,Male,0.28
+O13,Other,26-45,Female,0
+O13,Other,26-45,Male,2.36
+O13,Other,46-60,Female,0
+O13,Other,46-60,Male,1.12
+O13,Other,Above 60,Female,5.13
+O13,Other,Above 60,Male,0
+O14,Education,18-25,Female,0.07
+O14,Education,18-25,Male,0
+O14,Education,26-45,Female,0.03
+O14,Education,26-45,Male,0
+O14,Education,46-60,Female,1.9
+O14,Education,46-60,Male,3.06
+O14,Education,Above 60,Female,1.24
+O14,Education,Above 60,Male,0
+O14,Health,18-25,Female,13.34
+O14,Health,18-25,Male,8.73
+O14,Health,26-45,Female,8.42
+O14,Health,26-45,Male,0
+O14,Health,46-60,Female,7.12
+O14,Health,46-60,Male,12.09
+O14,Health,Above 60,Female,0
+O14,Health,Above 60,Male,0
+O14,Environment,18-25,Female,0.34
+O14,Environment,18-25,Male,0.37
+O14,Environment,26-45,Female,0.06
+O14,Environment,26-45,Male,0
+O14,Environment,46-60,Female,0.14
+O14,Environment,46-60,Male,0
+O14,Environment,Above 60,Female,0
+O14,Environment,Above 60,Male,0.09
+O14,Law,18-25,Female,0
+O14,Law,18-25,Male,0.99
+O14,Law,26-45,Female,1.58
+O14,Law,26-45,Male,0.82
+O14,Law,46-60,Female,0
+O14,Law,46-60,Male,0
+O14,Law,Above 60,Female,1.84
+O14,Law,Above 60,Male,1.67
+O14,Other,18-25,Female,0
+O14,Other,18-25,Male,2.79
+O14,Other,26-45,Female,1.48
+O14,Other,26-45,Male,20.84
+O14,Other,46-60,Female,0
+O14,Other,46-60,Male,7.56
+O14,Other,Above 60,Female,0
+O14,Other,Above 60,Male,3.43
+O15,Education,18-25,Female,0
+O15,Education,18-25,Male,0
+O15,Education,26-45,Female,21.8
+O15,Education,26-45,Male,3.93
+O15,Education,46-60,Female,4.43
+O15,Education,46-60,Male,10.2
+O15,Education,Above 60,Female,0.74
+O15,Education,Above 60,Male,0
+O15,Health,18-25,Female,0
+O15,Health,18-25,Male,0.84
+O15,Health,26-45,Female,12.01
+O15,Health,26-45,Male,3.19
+O15,Health,46-60,Female,0
+O15,Health,46-60,Male,0.43
+O15,Health,Above 60,Female,2.73
+O15,Health,Above 60,Male,0
+O15,Environment,18-25,Female,1.98
+O15,Environment,18-25,Male,0.34
+O15,Environment,26-45,Female,0
+O15,Environment,26-45,Male,0.68
+O15,Environment,46-60,Female,0
+O15,Environment,46-60,Male,0
+O15,Environment,Above 60,Female,1.67
+O15,Environment,Above 60,Male,5.83
+O15,Law,18-25,Female,0
+O15,Law,18-25,Male,0
+O15,Law,26-45,Female,0
+O15,Law,26-45,Male,0
+O15,Law,46-60,Female,0
+O15,Law,46-60,Male,0
+O15,Law,Above 60,Female,0
+O15,Law,Above 60,Male,0
+O15,Other,18-25,Female,12.53
+O15,Other,18-25,Male,2.05
+O15,Other,26-45,Female,0
+O15,Other,26-45,Male,4.3
+O15,Other,46-60,Female,4.8
+O15,Other,46-60,Male,0
+O15,Other,Above 60,Female,5.52
+O15,Other,Above 60,Male,0
+O16,Education,18-25,Female,0
+O16,Education,18-25,Male,2.12
+O16,Education,26-45,Female,0.73
+O16,Education,26-45,Male,0
+O16,Education,46-60,Female,0.4
+O16,Education,46-60,Male,2.9
+O16,Education,Above 60,Female,0.05
+O16,Education,Above 60,Male,0
+O16,Health,18-25,Female,0
+O16,Health,18-25,Male,0.74
+O16,Health,26-45,Female,0
+O16,Health,26-45,Male,10.1
+O16,Health,46-60,Female,1.72
+O16,Health,46-60,Male,0
+O16,Health,Above 60,Female,0.31
+O16,Health,Above 60,Male,1.13
+O16,Environment,18-25,Female,7.87
+O16,Environment,18-25,Male,1.72
+O16,Environment,26-45,Female,0
+O16,Environment,26-45,Male,0.16
+O16,Environment,46-60,Female,0.51
+O16,Environment,46-60,Male,0
+O16,Environment,Above 60,Female,0
+O16,Environment,Above 60,Male,9.64
+O16,Law,18-25,Female,0
+O16,Law,18-25,Male,1.39
+O16,Law,26-45,Female,0
+O16,Law,26-45,Male,0
+O16,Law,46-60,Female,1.27
+O16,Law,46-60,Male,2.14
+O16,Law,Above 60,Female,5.26
+O16,Law,Above 60,Male,4.24
+O16,Other,18-25,Female,0
+O16,Other,18-25,Male,1.81
+O16,Other,26-45,Female,23.76
+O16,Other,26-45,Male,2.23
+O16,Other,46-60,Female,17.77
+O16,Other,46-60,Male,0.13
+O16,Other,Above 60,Female,0
+O16,Other,Above 60,Male,0
+O17,Education,18-25,Female,8.95
+O17,Education,18-25,Male,0.74
+O17,Education,26-45,Female,6.76
+O17,Education,26-45,Male,1.11
+O17,Education,46-60,Female,1.64
+O17,Education,46-60,Male,0
+O17,Education,Above 60,Female,0
+O17,Education,Above 60,Male,0
+O17,Health,18-25,Female,2.16
+O17,Health,18-25,Male,2.91
+O17,Health,26-45,Female,0
+O17,Health,26-45,Male,0
+O17,Health,46-60,Female,0.33
+O17,Health,46-60,Male,0.81
+O17,Health,Above 60,Female,5.09
+O17,Health,Above 60,Male,0
+O17,Environment,18-25,Female,0.73
+O17,Environment,18-25,Male,1.82
+O17,Environment,26-45,Female,0.35
+O17,Environment,26-45,Male,0
+O17,Environment,46-60,Female,0.6
+O17,Environment,46-60,Male,9.6
+O17,Environment,Above 60,Female,0
+O17,Environment,Above 60,Male,0
+O17,Law,18-25,Female,0
+O17,Law,18-25,Male,6.82
+O17,Law,26-45,Female,5.39
+O17,Law,26-45,Male,7.91
+O17,Law,46-60,Female,5.63
+O17,Law,46-60,Male,0
+O17,Law,Above 60,Female,7.65
+O17,Law,Above 60,Male,0
+O17,Other,18-25,Female,0.92
+O17,Other,18-25,Male,0
+O17,Other,26-45,Female,3.66
+O17,Other,26-45,Male,6.42
+O17,Other,46-60,Female,0
+O17,Other,46-60,Male,8.25
+O17,Other,Above 60,Female,3.75
+O17,Other,Above 60,Male,0
+O18,Education,18-25,Female,5.68
+O18,Education,18-25,Male,3.24
+O18,Education,26-45,Female,0
+O18,Education,26-45,Male,0
+O18,Education,46-60,Female,2.69
+O18,Education,46-60,Male,0
+O18,Education,Above 60,Female,0.13
+O18,Education,Above 60,Male,1.96
+O18,Health,18-25,Female,1.7
+O18,Health,18-25,Male,0
+O18,Health,26-45,Female,0
+O18,Health,26-45,Male,2.24
+O18,Health,46-60,Female,1.13
+O18,Health,46-60,Male,6.77
+O18,Health,Above 60,Female,2.16
+O18,Health,Above 60,Male,0
+O18,Environment,18-25,Female,11.48
+O18,Environment,18-25,Male,10.27
+O18,Environment,26-45,Female,5.79
+O18,Environment,26-45,Male,4.61
+O18,Environment,46-60,Female,0
+O18,Environment,46-60,Male,0
+O18,Environment,Above 60,Female,0
+O18,Environment,Above 60,Male,0.95
+O18,Law,18-25,Female,7.95
+O18,Law,18-25,Male,7.87
+O18,Law,26-45,Female,3.72
+O18,Law,26-45,Male,0
+O18,Law,46-60,Female,2.84
+O18,Law,46-60,Male,0
+O18,Law,Above 60,Female,0
+O18,Law,Above 60,Male,1.92
+O18,Other,18-25,Female,0.97
+O18,Other,18-25,Male,1.48
+O18,Other,26-45,Female,0
+O18,Other,26-45,Male,0
+O18,Other,46-60,Female,0
+O18,Other,46-60,Male,6.78
+O18,Other,Above 60,Female,0.21
+O18,Other,Above 60,Male,5.36
+O19,Education,18-25,Female,0.39
+O19,Education,18-25,Male,0.26
+O19,Education,26-45,Female,0.39
+O19,Education,26-45,Male,0
+O19,Education,46-60,Female,0
+O19,Education,46-60,Male,3.49
+O19,Education,Above 60,Female,0
+O19,Education,Above 60,Male,0.57
+O19,Health,18-25,Female,0
+O19,Health,18-25,Male,0.94
+O19,Health,26-45,Female,0
+O19,Health,26-45,Male,0.17
+O19,Health,46-60,Female,0
+O19,Health,46-60,Male,0.26
+O19,Health,Above 60,Female,1.18
+O19,Health,Above 60,Male,0.55
+O19,Environment,18-25,Female,0.52
+O19,Environment,18-25,Male,1.05
+O19,Environment,26-45,Female,0
+O19,Environment,26-45,Male,0
+O19,Environment,46-60,Female,0.3
+O19,Environment,46-60,Male,3.87
+O19,Environment,Above 60,Female,0
+O19,Environment,Above 60,Male,0.36
+O19,Law,18-25,Female,0
+O19,Law,18-25,Male,0.37
+O19,Law,26-45,Female,1.8
+O19,Law,26-45,Male,0
+O19,Law,46-60,Female,0
+O19,Law,46-60,Male,0.13
+O19,Law,Above 60,Female,1.15
+O19,Law,Above 60,Male,0.35
+O19,Other,18-25,Female,0
+O19,Other,18-25,Male,13.26
+O19,Other,26-45,Female,0
+O19,Other,26-45,Male,0
+O19,Other,46-60,Female,5.14
+O19,Other,46-60,Male,44.8
+O19,Other,Above 60,Female,5.47
+O19,Other,Above 60,Male,13.23
+O20,Education,18-25,Female,0
+O20,Education,18-25,Male,0.52
+O20,Education,26-45,Female,0.15
+O20,Education,26-45,Male,0
+O20,Education,46-60,Female,0.07
+O20,Education,46-60,Male,0.42
+O20,Education,Above 60,Female,0
+O20,Education,Above 60,Male,0.04
+O20,Health,18-25,Female,0
+O20,Health,18-25,Male,2.49
+O20,Health,26-45,Female,4.74
+O20,Health,26-45,Male,11.35
+O20,Health,46-60,Female,15.61
+O20,Health,46-60,Male,0
+O20,Health,Above 60,Female,0
+O20,Health,Above 60,Male,1.31
+O20,Environment,18-25,Female,0.26
+O20,Environment,18-25,Male,7.88
+O20,Environment,26-45,Female,0
+O20,Environment,26-45,Male,5.33
+O20,Environment,46-60,Female,0
+O20,Environment,46-60,Male,5.88
+O20,Environment,Above 60,Female,11.95
+O20,Environment,Above 60,Male,0
+O20,Law,18-25,Female,2.44
+O20,Law,18-25,Male,0
+O20,Law,26-45,Female,0
+O20,Law,26-45,Male,4.71
+O20,Law,46-60,Female,0.75
+O20,Law,46-60,Male,16.01
+O20,Law,Above 60,Female,0.59
+O20,Law,Above 60,Male,0
+O20,Other,18-25,Female,1.56
+O20,Other,18-25,Male,0
+O20,Other,26-45,Female,0.01
+O20,Other,26-45,Male,1.21
+O20,Other,46-60,Female,0
+O20,Other,46-60,Male,0.05
+O20,Other,Above 60,Female,0
+O20,Other,Above 60,Male,4.77
+O21,Education,18-25,Female,0.07
+O21,Education,18-25,Male,0.04
+O21,Education,26-45,Female,0.23
+O21,Education,26-45,Male,0.04
+O21,Education,46-60,Female,0.22
+O21,Education,46-60,Male,0
+O21,Education,Above 60,Female,0
+O21,Education,Above 60,Male,0
+O21,Health,18-25,Female,6.54
+O21,Health,18-25,Male,0
+O21,Health,26-45,Female,2.63
+O21,Health,26-45,Male,20.72
+O21,Health,46-60,Female,0.72
+O21,Health,46-60,Male,0
+O21,Health,Above 60,Female,0
+O21,Health,Above 60,Male,27.59
+O21,Environment,18-25,Female,0
+O21,Environment,18-25,Male,6.04
+O21,Environment,26-45,Female,2.83
+O21,Environment,26-45,Male,5.38
+O21,Environment,46-60,Female,0
+O21,Environment,46-60,Male,0
+O21,Environment,Above 60,Female,3.37
+O21,Environment,Above 60,Male,2.08
+O21,Law,18-25,Female,0.92
+O21,Law,18-25,Male,0
+O21,Law,26-45,Female,0
+O21,Law,26-45,Male,3.16
+O21,Law,46-60,Female,0
+O21,Law,46-60,Male,0.66
+O21,Law,Above 60,Female,0.36
+O21,Law,Above 60,Male,2.3
+O21,Other,18-25,Female,0.76
+O21,Other,18-25,Male,6.55
+O21,Other,26-45,Female,0
+O21,Other,26-45,Male,1.04
+O21,Other,46-60,Female,1.93
+O21,Other,46-60,Male,3.82
+O21,Other,Above 60,Female,0
+O21,Other,Above 60,Male,0
+O22,Education,18-25,Female,0.88
+O22,Education,18-25,Male,2.46
+O22,Education,26-45,Female,0
+O22,Education,26-45,Male,0
+O22,Education,46-60,Female,2.85
+O22,Education,46-60,Male,0.84
+O22,Education,Above 60,Female,0.97
+O22,Education,Above 60,Male,0
+O22,Health,18-25,Female,0
+O22,Health,18-25,Male,5.95
+O22,Health,26-45,Female,1.04
+O22,Health,26-45,Male,2.67
+O22,Health,46-60,Female,3.2
+O22,Health,46-60,Male,0
+O22,Health,Above 60,Female,0
+O22,Health,Above 60,Male,0.24
+O22,Environment,18-25,Female,0
+O22,Environment,18-25,Male,4.53
+O22,Environment,26-45,Female,10.1
+O22,Environment,26-45,Male,0.92
+O22,Environment,46-60,Female,9.52
+O22,Environment,46-60,Male,0
+O22,Environment,Above 60,Female,18.23
+O22,Environment,Above 60,Male,0
+O22,Law,18-25,Female,0
+O22,Law,18-25,Male,5.71
+O22,Law,26-45,Female,1.99
+O22,Law,26-45,Male,0
+O22,Law,46-60,Female,4.52
+O22,Law,46-60,Male,2
+O22,Law,Above 60,Female,5.28
+O22,Law,Above 60,Male,0
+O22,Other,18-25,Female,0
+O22,Other,18-25,Male,0
+O22,Other,26-45,Female,9.75
+O22,Other,26-45,Male,0.05
+O22,Other,46-60,Female,0
+O22,Other,46-60,Male,0.82
+O22,Other,Above 60,Female,2.9
+O22,Other,Above 60,Male,2.68
+O23,Education,18-25,Female,3.01
+O23,Education,18-25,Male,7.37
+O23,Education,26-45,Female,5.69
+O23,Education,26-45,Male,0
+O23,Education,46-60,Female,0
+O23,Education,46-60,Male,5.3
+O23,Education,Above 60,Female,0
+O23,Education,Above 60,Male,9.63
+O23,Health,18-25,Female,0
+O23,Health,18-25,Male,3.18
+O23,Health,26-45,Female,0
+O23,Health,26-45,Male,9.4
+O23,Health,46-60,Female,11.58
+O23,Health,46-60,Male,2.12
+O23,Health,Above 60,Female,0.72
+O23,Health,Above 60,Male,0
+O23,Environment,18-25,Female,0.01
+O23,Environment,18-25,Male,0
+O23,Environment,26-45,Female,0.08
+O23,Environment,26-45,Male,0
+O23,Environment,46-60,Female,0.13
+O23,Environment,46-60,Male,0.19
+O23,Environment,Above 60,Female,0.39
+O23,Environment,Above 60,Male,0
+O23,Law,18-25,Female,1.64
+O23,Law,18-25,Male,1.81
+O23,Law,26-45,Female,1.55
+O23,Law,26-45,Male,0
+O23,Law,46-60,Female,0
+O23,Law,46-60,Male,0
+O23,Law,Above 60,Female,1.95
+O23,Law,Above 60,Male,1.35
+O23,Other,18-25,Female,0
+O23,Other,18-25,Male,3.57
+O23,Other,26-45,Female,19.25
+O23,Other,26-45,Male,4.03
+O23,Other,46-60,Female,5.63
+O23,Other,46-60,Male,0
+O23,Other,Above 60,Female,0
+O23,Other,Above 60,Male,0.42
+O24,Education,18-25,Female,4.68
+O24,Education,18-25,Male,0
+O24,Education,26-45,Female,0
+O24,Education,26-45,Male,1.11
+O24,Education,46-60,Female,1.59
+O24,Education,46-60,Male,0.2
+O24,Education,Above 60,Female,0.32
+O24,Education,Above 60,Male,0
+O24,Health,18-25,Female,1.27
+O24,Health,18-25,Male,0
+O24,Health,26-45,Female,4.51
+O24,Health,26-45,Male,0
+O24,Health,46-60,Female,4.08
+O24,Health,46-60,Male,1.03
+O24,Health,Above 60,Female,2.31
+O24,Health,Above 60,Male,0
+O24,Environment,18-25,Female,0
+O24,Environment,18-25,Male,0.21
+O24,Environment,26-45,Female,8.48
+O24,Environment,26-45,Male,0
+O24,Environment,46-60,Female,26.15
+O24,Environment,46-60,Male,5.54
+O24,Environment,Above 60,Female,8.42
+O24,Environment,Above 60,Male,0
+O24,Law,18-25,Female,0.08
+O24,Law,18-25,Male,0
+O24,Law,26-45,Female,0.14
+O24,Law,26-45,Male,0
+O24,Law,46-60,Female,0.63
+O24,Law,46-60,Male,1.39
+O24,Law,Above 60,Female,0
+O24,Law,Above 60,Male,0.46
+O24,Other,18-25,Female,0
+O24,Other,18-25,Male,0.5
+O24,Other,26-45,Female,1.18
+O24,Other,26-45,Male,0.18
+O24,Other,46-60,Female,0
+O24,Other,46-60,Male,6.57
+O24,Other,Above 60,Female,0
+O24,Other,Above 60,Male,19.07
+O25,Education,18-25,Female,0
+O25,Education,18-25,Male,6.85
+O25,Education,26-45,Female,9.76
+O25,Education,26-45,Male,2.65
+O25,Education,46-60,Female,0
+O25,Education,46-60,Male,0
+O25,Education,Above 60,Female,4.01
+O25,Education,Above 60,Male,5.03
+O25,Health,18-25,Female,0
+O25,Health,18-25,Male,2.93
+O25,Health,26-45,Female,1.96
+O25,Health,26-45,Male,4.09
+O25,Health,46-60,Female,2.44
+O25,Health,46-60,Male,0
+O25,Health,Above 60,Female,1.68
+O25,Health,Above 60,Male,0
+O25,Environment,18-25,Female,0
+O25,Environment,18-25,Male,0
+O25,Environment,26-45,Female,0.69
+O25,Environment,26-45,Male,0.53
+O25,Environment,46-60,Female,0
+O25,Environment,46-60,Male,5.17
+O25,Environment,Above 60,Female,0.93
+O25,Environment,Above 60,Male,1.28
+O25,Law,18-25,Female,12.9
+O25,Law,18-25,Male,9.41
+O25,Law,26-45,Female,9.99
+O25,Law,26-45,Male,11.32
+O25,Law,46-60,Female,0
+O25,Law,46-60,Male,0
+O25,Law,Above 60,Female,0
+O25,Law,Above 60,Male,0.98
+O25,Other,18-25,Female,1.14
+O25,Other,18-25,Male,0.09
+O25,Other,26-45,Female,0
+O25,Other,26-45,Male,0
+O25,Other,46-60,Female,1.71
+O25,Other,46-60,Male,1.72
+O25,Other,Above 60,Female,0.64
+O25,Other,Above 60,Male,0
+O26,Education,18-25,Female,4.17
+O26,Education,18-25,Male,3.13
+O26,Education,26-45,Female,0
+O26,Education,26-45,Male,3.93
+O26,Education,46-60,Female,3.55
+O26,Education,46-60,Male,8.72
+O26,Education,Above 60,Female,0
+O26,Education,Above 60,Male,0
+O26,Health,18-25,Female,0
+O26,Health,18-25,Male,0.83
+O26,Health,26-45,Female,0
+O26,Health,26-45,Male,3.09
+O26,Health,46-60,Female,1.36
+O26,Health,46-60,Male,0
+O26,Health,Above 60,Female,3.2
+O26,Health,Above 60,Male,0.32
+O26,Environment,18-25,Female,5.84
+O26,Environment,18-25,Male,0
+O26,Environment,26-45,Female,0
+O26,Environment,26-45,Male,2.18
+O26,Environment,46-60,Female,5.27
+O26,Environment,46-60,Male,0
+O26,Environment,Above 60,Female,17.07
+O26,Environment,Above 60,Male,11.44
+O26,Law,18-25,Female,0
+O26,Law,18-25,Male,3.8
+O26,Law,26-45,Female,0
+O26,Law,26-45,Male,3.04
+O26,Law,46-60,Female,0
+O26,Law,46-60,Male,0.77
+O26,Law,Above 60,Female,2.34
+O26,Law,Above 60,Male,6.15
+O26,Other,18-25,Female,0.21
+O26,Other,18-25,Male,1.31
+O26,Other,26-45,Female,0
+O26,Other,26-45,Male,3.66
+O26,Other,46-60,Female,0
+O26,Other,46-60,Male,3.76
+O26,Other,Above 60,Female,0
+O26,Other,Above 60,Male,0.86
+O27,Education,18-25,Female,0.01
+O27,Education,18-25,Male,0
+O27,Education,26-45,Female,0
+O27,Education,26-45,Male,0.35
+O27,Education,46-60,Female,0
+O27,Education,46-60,Male,8.62
+O27,Education,Above 60,Female,4.33
+O27,Education,Above 60,Male,16.79
+O27,Health,18-25,Female,2.09
+O27,Health,18-25,Male,4.68
+O27,Health,26-45,Female,0.06
+O27,Health,26-45,Male,0
+O27,Health,46-60,Female,1.08
+O27,Health,46-60,Male,0.49
+O27,Health,Above 60,Female,0
+O27,Health,Above 60,Male,0
+O27,Environment,18-25,Female,9.63
+O27,Environment,18-25,Male,0.94
+O27,Environment,26-45,Female,0.94
+O27,Environment,26-45,Male,1.95
+O27,Environment,46-60,Female,0
+O27,Environment,46-60,Male,3.04
+O27,Environment,Above 60,Female,0
+O27,Environment,Above 60,Male,0
+O27,Law,18-25,Female,0
+O27,Law,18-25,Male,0
+O27,Law,26-45,Female,1.34
+O27,Law,26-45,Male,6.03
+O27,Law,46-60,Female,3.14
+O27,Law,46-60,Male,2.82
+O27,Law,Above 60,Female,1.27
+O27,Law,Above 60,Male,0
+O27,Other,18-25,Female,10.83
+O27,Other,18-25,Male,13.01
+O27,Other,26-45,Female,0
+O27,Other,26-45,Male,0
+O27,Other,46-60,Female,0.3
+O27,Other,46-60,Male,3.69
+O27,Other,Above 60,Female,2.57
+O27,Other,Above 60,Male,0
+O28,Education,18-25,Female,1.37
+O28,Education,18-25,Male,0
+O28,Education,26-45,Female,0.52
+O28,Education,26-45,Male,0.38
+O28,Education,46-60,Female,1.31
+O28,Education,46-60,Male,0
+O28,Education,Above 60,Female,0
+O28,Education,Above 60,Male,0.82
+O28,Health,18-25,Female,0.29
+O28,Health,18-25,Male,1.07
+O28,Health,26-45,Female,0
+O28,Health,26-45,Male,0
+O28,Health,46-60,Female,1.79
+O28,Health,46-60,Male,4.25
+O28,Health,Above 60,Female,0
+O28,Health,Above 60,Male,3.6
+O28,Environment,18-25,Female,8.53
+O28,Environment,18-25,Male,22.83
+O28,Environment,26-45,Female,6.77
+O28,Environment,26-45,Male,0.79
+O28,Environment,46-60,Female,0
+O28,Environment,46-60,Male,0
+O28,Environment,Above 60,Female,0
+O28,Environment,Above 60,Male,2.58
+O28,Law,18-25,Female,5.12
+O28,Law,18-25,Male,1.89
+O28,Law,26-45,Female,0
+O28,Law,26-45,Male,0
+O28,Law,46-60,Female,0
+O28,Law,46-60,Male,1.47
+O28,Law,Above 60,Female,6.51
+O28,Law,Above 60,Male,10.21
+O28,Other,18-25,Female,0
+O28,Other,18-25,Male,0.54
+O28,Other,26-45,Female,11.66
+O28,Other,26-45,Male,1.38
+O28,Other,46-60,Female,3.39
+O28,Other,46-60,Male,0
+O28,Other,Above 60,Female,0
+O28,Other,Above 60,Male,0.83
+O29,Education,18-25,Female,8.07
+O29,Education,18-25,Male,6.03
+O29,Education,26-45,Female,0
+O29,Education,26-45,Male,2.04
+O29,Education,46-60,Female,0
+O29,Education,46-60,Male,1.88
+O29,Education,Above 60,Female,5.98
+O29,Education,Above 60,Male,0
+O29,Health,18-25,Female,1
+O29,Health,18-25,Male,0
+O29,Health,26-45,Female,2.55
+O29,Health,26-45,Male,0
+O29,Health,46-60,Female,0.65
+O29,Health,46-60,Male,0
+O29,Health,Above 60,Female,0.5
+O29,Health,Above 60,Male,1.9
+O29,Environment,18-25,Female,0
+O29,Environment,18-25,Male,5.15
+O29,Environment,26-45,Female,0.6
+O29,Environment,26-45,Male,0
+O29,Environment,46-60,Female,0.29
+O29,Environment,46-60,Male,0
+O29,Environment,Above 60,Female,4.18
+O29,Environment,Above 60,Male,0.58
+O29,Law,18-25,Female,0.71
+O29,Law,18-25,Male,1.62
+O29,Law,26-45,Female,0
+O29,Law,26-45,Male,2.31
+O29,Law,46-60,Female,0.75
+O29,Law,46-60,Male,0
+O29,Law,Above 60,Female,0
+O29,Law,Above 60,Male,2.41
+O29,Other,18-25,Female,0
+O29,Other,18-25,Male,7.15
+O29,Other,26-45,Female,0
+O29,Other,26-45,Male,13.09
+O29,Other,46-60,Female,0
+O29,Other,46-60,Male,16.97
+O29,Other,Above 60,Female,7.96
+O29,Other,Above 60,Male,5.63
+O30,Education,18-25,Female,12.46
+O30,Education,18-25,Male,0.4
+O30,Education,26-45,Female,0
+O30,Education,26-45,Male,5.78
+O30,Education,46-60,Female,0
+O30,Education,46-60,Male,4.96
+O30,Education,Above 60,Female,27.4
+O30,Education,Above 60,Male,0
+O30,Health,18-25,Female,2.29
+O30,Health,18-25,Male,0
+O30,Health,26-45,Female,0
+O30,Health,26-45,Male,2.77
+O30,Health,46-60,Female,1.84
+O30,Health,46-60,Male,0
+O30,Health,Above 60,Female,8.44
+O30,Health,Above 60,Male,1.86
+O30,Environment,18-25,Female,0.74
+O30,Environment,18-25,Male,0
+O30,Environment,26-45,Female,2.7
+O30,Environment,26-45,Male,5.74
+O30,Environment,46-60,Female,0
+O30,Environment,46-60,Male,2.35
+O30,Environment,Above 60,Female,0
+O30,Environment,Above 60,Male,0.07
+O30,Law,18-25,Female,4.76
+O30,Law,18-25,Male,0
+O30,Law,26-45,Female,2.36
+O30,Law,26-45,Male,0
+O30,Law,46-60,Female,3.18
+O30,Law,46-60,Male,5.12
+O30,Law,Above 60,Female,0
+O30,Law,Above 60,Male,3.28
+O30,Other,18-25,Female,0
+O30,Other,18-25,Male,0
+O30,Other,26-45,Female,0
+O30,Other,26-45,Male,0.11
+O30,Other,46-60,Female,0.42
+O30,Other,46-60,Male,0.04
+O30,Other,Above 60,Female,0.39
+O30,Other,Above 60,Male,0.54
+O31,Education,18-25,Female,6.3
+O31,Education,18-25,Male,1.4
+O31,Education,26-45,Female,9.22
+O31,Education,26-45,Male,0
+O31,Education,46-60,Female,0
+O31,Education,46-60,Male,0
+O31,Education,Above 60,Female,1.52
+O31,Education,Above 60,Male,0.36
+O31,Health,18-25,Female,0
+O31,Health,18-25,Male,6.26
+O31,Health,26-45,Female,0
+O31,Health,26-45,Male,12.4
+O31,Health,46-60,Female,7.58
+O31,Health,46-60,Male,4.96
+O31,Health,Above 60,Female,0
+O31,Health,Above 60,Male,0.9
+O31,Environment,18-25,Female,0.18
+O31,Environment,18-25,Male,0.43
+O31,Environment,26-45,Female,0.51
+O31,Environment,26-45,Male,0
+O31,Environment,46-60,Female,0
+O31,Environment,46-60,Male,0.66
+O31,Environment,Above 60,Female,0.32
+O31,Environment,Above 60,Male,0
+O31,Law,18-25,Female,0
+O31,Law,18-25,Male,11.87
+O31,Law,26-45,Female,3.22
+O31,Law,26-45,Male,0
+O31,Law,46-60,Female,0.39
+O31,Law,46-60,Male,8.69
+O31,Law,Above 60,Female,17.53
+O31,Law,Above 60,Male,0
+O31,Other,18-25,Female,1.42
+O31,Other,18-25,Male,1.58
+O31,Other,26-45,Female,0
+O31,Other,26-45,Male,0.59
+O31,Other,46-60,Female,0
+O31,Other,46-60,Male,0.76
+O31,Other,Above 60,Female,0
+O31,Other,Above 60,Male,0.95
+O32,Education,18-25,Female,0
+O32,Education,18-25,Male,0
+O32,Education,26-45,Female,1.26
+O32,Education,26-45,Male,3.3
+O32,Education,46-60,Female,0.39
+O32,Education,46-60,Male,0.09
+O32,Education,Above 60,Female,7.56
+O32,Education,Above 60,Male,0
+O32,Health,18-25,Female,0
+O32,Health,18-25,Male,3.51
+O32,Health,26-45,Female,6.17
+O32,Health,26-45,Male,18.02
+O32,Health,46-60,Female,0
+O32,Health,46-60,Male,3.79
+O32,Health,Above 60,Female,5.51
+O32,Health,Above 60,Male,0
+O32,Environment,18-25,Female,0.15
+O32,Environment,18-25,Male,0.13
+O32,Environment,26-45,Female,3.78
+O32,Environment,26-45,Male,0
+O32,Environment,46-60,Female,0.25
+O32,Environment,46-60,Male,0
+O32,Environment,Above 60,Female,0.69
+O32,Environment,Above 60,Male,0
+O32,Law,18-25,Female,6.68
+O32,Law,18-25,Male,0
+O32,Law,26-45,Female,10.85
+O32,Law,26-45,Male,0
+O32,Law,46-60,Female,5.36
+O32,Law,46-60,Male,6.14
+O32,Law,Above 60,Female,5.67
+O32,Law,Above 60,Male,0
+O32,Other,18-25,Female,0
+O32,Other,18-25,Male,7.21
+O32,Other,26-45,Female,0
+O32,Other,26-45,Male,1.14
+O32,Other,46-60,Female,0
+O32,Other,46-60,Male,1.06
+O32,Other,Above 60,Female,0.13
+O32,Other,Above 60,Male,1.06
+O33,Education,18-25,Female,0
+O33,Education,18-25,Male,0
+O33,Education,26-45,Female,1
+O33,Education,26-45,Male,9.65
+O33,Education,46-60,Female,0
+O33,Education,46-60,Male,11.97
+O33,Education,Above 60,Female,7.66
+O33,Education,Above 60,Male,2.22
+O33,Health,18-25,Female,2.12
+O33,Health,18-25,Male,0
+O33,Health,26-45,Female,2.65
+O33,Health,26-45,Male,3.73
+O33,Health,46-60,Female,0
+O33,Health,46-60,Male,2.71
+O33,Health,Above 60,Female,0
+O33,Health,Above 60,Male,1.79
+O33,Environment,18-25,Female,13.52
+O33,Environment,18-25,Male,2.72
+O33,Environment,26-45,Female,9.54
+O33,Environment,26-45,Male,16.39
+O33,Environment,46-60,Female,0
+O33,Environment,46-60,Male,0
+O33,Environment,Above 60,Female,7.03
+O33,Environment,Above 60,Male,0
+O33,Law,18-25,Female,0.34
+O33,Law,18-25,Male,0.58
+O33,Law,26-45,Female,0
+O33,Law,26-45,Male,0.91
+O33,Law,46-60,Female,0
+O33,Law,46-60,Male,0.1
+O33,Law,Above 60,Female,0.27
+O33,Law,Above 60,Male,0
+O33,Other,18-25,Female,0.27
+O33,Other,18-25,Male,0.13
+O33,Other,26-45,Female,0
+O33,Other,26-45,Male,0
+O33,Other,46-60,Female,0.15
+O33,Other,46-60,Male,0.72
+O33,Other,Above 60,Female,1.73
+O33,Other,Above 60,Male,0
+O34,Education,18-25,Female,0.04
+O34,Education,18-25,Male,0.01
+O34,Education,26-45,Female,0.11
+O34,Education,26-45,Male,0
+O34,Education,46-60,Female,0.12
+O34,Education,46-60,Male,0
+O34,Education,Above 60,Female,0.12
+O34,Education,Above 60,Male,0
+O34,Health,18-25,Female,0.06
+O34,Health,18-25,Male,0.31
+O34,Health,26-45,Female,0.02
+O34,Health,26-45,Male,0
+O34,Health,46-60,Female,0
+O34,Health,46-60,Male,0.18
+O34,Health,Above 60,Female,0.13
+O34,Health,Above 60,Male,0
+O34,Environment,18-25,Female,0.26
+O34,Environment,18-25,Male,0
+O34,Environment,26-45,Female,0.06
+O34,Environment,26-45,Male,0
+O34,Environment,46-60,Female,0
+O34,Environment,46-60,Male,0.1
+O34,Environment,Above 60,Female,0
+O34,Environment,Above 60,Male,0.08
+O34,Law,18-25,Female,0
+O34,Law,18-25,Male,2.47
+O34,Law,26-45,Female,8.92
+O34,Law,26-45,Male,11.91
+O34,Law,46-60,Female,36.19
+O34,Law,46-60,Male,0
+O34,Law,Above 60,Female,8.61
+O34,Law,Above 60,Male,0
+O34,Other,18-25,Female,3.16
+O34,Other,18-25,Male,1.91
+O34,Other,26-45,Female,4.05
+O34,Other,26-45,Male,0
+O34,Other,46-60,Female,3.43
+O34,Other,46-60,Male,0
+O34,Other,Above 60,Female,17.75
+O34,Other,Above 60,Male,0
+O35,Education,18-25,Female,0
+O35,Education,18-25,Male,0.91
+O35,Education,26-45,Female,0
+O35,Education,26-45,Male,3.96
+O35,Education,46-60,Female,0
+O35,Education,46-60,Male,2.73
+O35,Education,Above 60,Female,0.09
+O35,Education,Above 60,Male,2.71
+O35,Health,18-25,Female,2.07
+O35,Health,18-25,Male,0
+O35,Health,26-45,Female,5.33
+O35,Health,26-45,Male,10.35
+O35,Health,46-60,Female,0.84
+O35,Health,46-60,Male,0.41
+O35,Health,Above 60,Female,0
+O35,Health,Above 60,Male,0
+O35,Environment,18-25,Female,0
+O35,Environment,18-25,Male,14.76
+O35,Environment,26-45,Female,1.33
+O35,Environment,26-45,Male,0
+O35,Environment,46-60,Female,0.02
+O35,Environment,46-60,Male,1.12
+O35,Environment,Above 60,Female,0
+O35,Environment,Above 60,Male,16.27
+O35,Law,18-25,Female,8.41
+O35,Law,18-25,Male,6.44
+O35,Law,26-45,Female,3.45
+O35,Law,26-45,Male,0.42
+O35,Law,46-60,Female,16.38
+O35,Law,46-60,Male,0
+O35,Law,Above 60,Female,0
+O35,Law,Above 60,Male,0
+O35,Other,18-25,Female,0.15
+O35,Other,18-25,Male,0.48
+O35,Other,26-45,Female,0
+O35,Other,26-45,Male,0
+O35,Other,46-60,Female,0.66
+O35,Other,46-60,Male,0.3
+O35,Other,Above 60,Female,0
+O35,Other,Above 60,Male,0.41
+O36,Education,18-25,Female,2.82
+O36,Education,18-25,Male,0
+O36,Education,26-45,Female,1.27
+O36,Education,26-45,Male,0
+O36,Education,46-60,Female,3.18
+O36,Education,46-60,Male,0
+O36,Education,Above 60,Female,2.11
+O36,Education,Above 60,Male,1.12
+O36,Health,18-25,Female,0
+O36,Health,18-25,Male,9.4
+O36,Health,26-45,Female,2.91
+O36,Health,26-45,Male,3.64
+O36,Health,46-60,Female,0
+O36,Health,46-60,Male,0
+O36,Health,Above 60,Female,9.51
+O36,Health,Above 60,Male,16.64
+O36,Environment,18-25,Female,0
+O36,Environment,18-25,Male,0.18
+O36,Environment,26-45,Female,0
+O36,Environment,26-45,Male,0.02
+O36,Environment,46-60,Female,0.07
+O36,Environment,46-60,Male,0.01
+O36,Environment,Above 60,Female,0
+O36,Environment,Above 60,Male,0.02
+O36,Law,18-25,Female,0.55
+O36,Law,18-25,Male,0
+O36,Law,26-45,Female,0.34
+O36,Law,26-45,Male,0
+O36,Law,46-60,Female,0.65
+O36,Law,46-60,Male,0
+O36,Law,Above 60,Female,1.26
+O36,Law,Above 60,Male,0.7
+O36,Other,18-25,Female,0
+O36,Other,18-25,Male,0
+O36,Other,26-45,Female,5.38
+O36,Other,26-45,Male,9.05
+O36,Other,46-60,Female,22.4
+O36,Other,46-60,Male,3.47
+O36,Other,Above 60,Female,0
+O36,Other,Above 60,Male,3.3
+O37,Education,18-25,Female,3.49
+O37,Education,18-25,Male,0
+O37,Education,26-45,Female,3.43
+O37,Education,26-45,Male,6.84
+O37,Education,46-60,Female,2.73
+O37,Education,46-60,Male,0
+O37,Education,Above 60,Female,3.31
+O37,Education,Above 60,Male,0
+O37,Health,18-25,Female,1.23
+O37,Health,18-25,Male,0
+O37,Health,26-45,Female,0
+O37,Health,26-45,Male,5.88
+O37,Health,46-60,Female,7.65
+O37,Health,46-60,Male,0
+O37,Health,Above 60,Female,6.23
+O37,Health,Above 60,Male,8.31
+O37,Environment,18-25,Female,0.7
+O37,Environment,18-25,Male,4.45
+O37,Environment,26-45,Female,0
+O37,Environment,26-45,Male,0
+O37,Environment,46-60,Female,1.19
+O37,Environment,46-60,Male,0
+O37,Environment,Above 60,Female,2.21
+O37,Environment,Above 60,Male,0.25
+O37,Law,18-25,Female,1.96
+O37,Law,18-25,Male,1.71
+O37,Law,26-45,Female,5.83
+O37,Law,26-45,Male,0.97
+O37,Law,46-60,Female,1.13
+O37,Law,46-60,Male,0
+O37,Law,Above 60,Female,0
+O37,Law,Above 60,Male,0
+O37,Other,18-25,Female,0
+O37,Other,18-25,Male,7.47
+O37,Other,26-45,Female,6.92
+O37,Other,26-45,Male,0
+O37,Other,46-60,Female,5.84
+O37,Other,46-60,Male,0
+O37,Other,Above 60,Female,9.01
+O37,Other,Above 60,Male,1.26
+O38,Education,18-25,Female,0
+O38,Education,18-25,Male,2.33
+O38,Education,26-45,Female,0
+O38,Education,26-45,Male,0.33
+O38,Education,46-60,Female,0.14
+O38,Education,46-60,Male,0.37
+O38,Education,Above 60,Female,1.93
+O38,Education,Above 60,Male,0
+O38,Health,18-25,Female,1.76
+O38,Health,18-25,Male,7.5
+O38,Health,26-45,Female,5.32
+O38,Health,26-45,Male,18.1
+O38,Health,46-60,Female,9.72
+O38,Health,46-60,Male,0
+O38,Health,Above 60,Female,0
+O38,Health,Above 60,Male,0
+O38,Environment,18-25,Female,4.55
+O38,Environment,18-25,Male,0
+O38,Environment,26-45,Female,5.26
+O38,Environment,26-45,Male,0.44
+O38,Environment,46-60,Female,1.69
+O38,Environment,46-60,Male,3.36
+O38,Environment,Above 60,Female,0
+O38,Environment,Above 60,Male,0
+O38,Law,18-25,Female,1.11
+O38,Law,18-25,Male,0
+O38,Law,26-45,Female,8.11
+O38,Law,26-45,Male,0
+O38,Law,46-60,Female,0
+O38,Law,46-60,Male,0.25
+O38,Law,Above 60,Female,6.99
+O38,Law,Above 60,Male,9.14
+O38,Other,18-25,Female,0
+O38,Other,18-25,Male,0.81
+O38,Other,26-45,Female,0
+O38,Other,26-45,Male,6.08
+O38,Other,46-60,Female,0.48
+O38,Other,46-60,Male,0
+O38,Other,Above 60,Female,3.74
+O38,Other,Above 60,Male,0.39
+O39,Education,18-25,Female,0.5
+O39,Education,18-25,Male,0
+O39,Education,26-45,Female,3.97
+O39,Education,26-45,Male,0
+O39,Education,46-60,Female,0
+O39,Education,46-60,Male,1.48
+O39,Education,Above 60,Female,1.35
+O39,Education,Above 60,Male,0.5
+O39,Health,18-25,Female,0.9
+O39,Health,18-25,Male,5.51
+O39,Health,26-45,Female,0
+O39,Health,26-45,Male,7.72
+O39,Health,46-60,Female,18.69
+O39,Health,46-60,Male,5.88
+O39,Health,Above 60,Female,0
+O39,Health,Above 60,Male,0
+O39,Environment,18-25,Female,0.65
+O39,Environment,18-25,Male,1.72
+O39,Environment,26-45,Female,6.84
+O39,Environment,26-45,Male,0
+O39,Environment,46-60,Female,0
+O39,Environment,46-60,Male,0.47
+O39,Environment,Above 60,Female,11.62
+O39,Environment,Above 60,Male,0
+O39,Law,18-25,Female,8.14
+O39,Law,18-25,Male,4.56
+O39,Law,26-45,Female,10.57
+O39,Law,26-45,Male,0
+O39,Law,46-60,Female,0.37
+O39,Law,46-60,Male,0
+O39,Law,Above 60,Female,1.66
+O39,Law,Above 60,Male,0
+O39,Other,18-25,Female,0.34
+O39,Other,18-25,Male,0
+O39,Other,26-45,Female,0
+O39,Other,26-45,Male,0
+O39,Other,46-60,Female,1.25
+O39,Other,46-60,Male,3.2
+O39,Other,Above 60,Female,2.1
+O39,Other,Above 60,Male,0.11
+O40,Education,18-25,Female,0
+O40,Education,18-25,Male,0
+O40,Education,26-45,Female,0.64
+O40,Education,26-45,Male,1.14
+O40,Education,46-60,Female,2.63
+O40,Education,46-60,Male,0.36
+O40,Education,Above 60,Female,0
+O40,Education,Above 60,Male,0.13
+O40,Health,18-25,Female,0.48
+O40,Health,18-25,Male,0.75
+O40,Health,26-45,Female,11.72
+O40,Health,26-45,Male,7.7
+O40,Health,46-60,Female,0
+O40,Health,46-60,Male,0
+O40,Health,Above 60,Female,0
+O40,Health,Above 60,Male,5.55
+O40,Environment,18-25,Female,0
+O40,Environment,18-25,Male,2.72
+O40,Environment,26-45,Female,1.01
+O40,Environment,26-45,Male,0.09
+O40,Environment,46-60,Female,1.1
+O40,Environment,46-60,Male,0
+O40,Environment,Above 60,Female,0
+O40,Environment,Above 60,Male,0.58
+O40,Law,18-25,Female,1.75
+O40,Law,18-25,Male,0
+O40,Law,26-45,Female,0.71
+O40,Law,26-45,Male,16.06
+O40,Law,46-60,Female,10.2
+O40,Law,46-60,Male,0.88
+O40,Law,Above 60,Female,0
+O40,Law,Above 60,Male,0
+O40,Other,18-25,Female,11.79
+O40,Other,18-25,Male,5.6
+O40,Other,26-45,Female,0
+O40,Other,26-45,Male,0
+O40,Other,46-60,Female,4.66
+O40,Other,46-60,Male,4.06
+O40,Other,Above 60,Female,0
+O40,Other,Above 60,Male,7.69

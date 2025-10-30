@@ -1,0 +1,201 @@
+﻿name,org_id,metric,score
+Blue Path 1,O01,Completeness,95
+Blue Path 1,O01,Effectiveness/Impact,84
+Blue Path 1,O01,Satisfaction,73
+Blue Path 1,O01,Transparency & Accountability,80
+Blue Path 1,O01,Cost-effectiveness,56
+Green Hearts 2,O02,Completeness,80
+Green Hearts 2,O02,Effectiveness/Impact,76
+Green Hearts 2,O02,Satisfaction,79
+Green Hearts 2,O02,Transparency & Accountability,95
+Green Hearts 2,O02,Cost-effectiveness,73
+Spark Support 3,O03,Completeness,74
+Spark Support 3,O03,Effectiveness/Impact,84
+Spark Support 3,O03,Satisfaction,66
+Spark Support 3,O03,Transparency & Accountability,90
+Spark Support 3,O03,Cost-effectiveness,77
+Open Path 4,O04,Completeness,63
+Open Path 4,O04,Effectiveness/Impact,89
+Open Path 4,O04,Satisfaction,76
+Open Path 4,O04,Transparency & Accountability,55
+Open Path 4,O04,Cost-effectiveness,94
+Clear Roots 5,O05,Completeness,82
+Clear Roots 5,O05,Effectiveness/Impact,61
+Clear Roots 5,O05,Satisfaction,76
+Clear Roots 5,O05,Transparency & Accountability,57
+Clear Roots 5,O05,Cost-effectiveness,88
+Care Minds 6,O06,Completeness,73
+Care Minds 6,O06,Effectiveness/Impact,99
+Care Minds 6,O06,Satisfaction,65
+Care Minds 6,O06,Transparency & Accountability,81
+Care Minds 6,O06,Cost-effectiveness,95
+East Path 7,O07,Completeness,72
+East Path 7,O07,Effectiveness/Impact,74
+East Path 7,O07,Satisfaction,57
+East Path 7,O07,Transparency & Accountability,91
+East Path 7,O07,Cost-effectiveness,93
+Spark Scholars 8,O08,Completeness,79
+Spark Scholars 8,O08,Effectiveness/Impact,94
+Spark Scholars 8,O08,Satisfaction,99
+Spark Scholars 8,O08,Transparency & Accountability,59
+Spark Scholars 8,O08,Cost-effectiveness,88
+Kind Action 9,O09,Completeness,79
+Kind Action 9,O09,Effectiveness/Impact,62
+Kind Action 9,O09,Satisfaction,66
+Kind Action 9,O09,Transparency & Accountability,72
+Kind Action 9,O09,Cost-effectiveness,78
+Echo Minds 10,O10,Completeness,84
+Echo Minds 10,O10,Effectiveness/Impact,70
+Echo Minds 10,O10,Satisfaction,81
+Echo Minds 10,O10,Transparency & Accountability,54
+Echo Minds 10,O10,Cost-effectiveness,74
+Prime Aid 11,O11,Completeness,82
+Prime Aid 11,O11,Effectiveness/Impact,94
+Prime Aid 11,O11,Satisfaction,70
+Prime Aid 11,O11,Transparency & Accountability,80
+Prime Aid 11,O11,Cost-effectiveness,85
+South Action 12,O12,Completeness,100
+South Action 12,O12,Effectiveness/Impact,68
+South Action 12,O12,Satisfaction,89
+South Action 12,O12,Transparency & Accountability,78
+South Action 12,O12,Cost-effectiveness,68
+East Roots 13,O13,Completeness,83
+East Roots 13,O13,Effectiveness/Impact,72
+East Roots 13,O13,Satisfaction,81
+East Roots 13,O13,Transparency & Accountability,79
+East Roots 13,O13,Cost-effectiveness,90
+Bridge Earth 14,O14,Completeness,78
+Bridge Earth 14,O14,Effectiveness/Impact,91
+Bridge Earth 14,O14,Satisfaction,71
+Bridge Earth 14,O14,Transparency & Accountability,62
+Bridge Earth 14,O14,Cost-effectiveness,84
+Bridge Access 15,O15,Completeness,72
+Bridge Access 15,O15,Effectiveness/Impact,98
+Bridge Access 15,O15,Satisfaction,73
+Bridge Access 15,O15,Transparency & Accountability,76
+Bridge Access 15,O15,Cost-effectiveness,78
+Green Partners 16,O16,Completeness,85
+Green Partners 16,O16,Effectiveness/Impact,83
+Green Partners 16,O16,Satisfaction,73
+Green Partners 16,O16,Transparency & Accountability,98
+Green Partners 16,O16,Cost-effectiveness,70
+North Trust 17,O17,Completeness,67
+North Trust 17,O17,Effectiveness/Impact,87
+North Trust 17,O17,Satisfaction,79
+North Trust 17,O17,Transparency & Accountability,98
+North Trust 17,O17,Cost-effectiveness,69
+Echo Network 18,O18,Completeness,68
+Echo Network 18,O18,Effectiveness/Impact,60
+Echo Network 18,O18,Satisfaction,80
+Echo Network 18,O18,Transparency & Accountability,79
+Echo Network 18,O18,Cost-effectiveness,76
+Kind Roots 19,O19,Completeness,78
+Kind Roots 19,O19,Effectiveness/Impact,91
+Kind Roots 19,O19,Satisfaction,86
+Kind Roots 19,O19,Transparency & Accountability,69
+Kind Roots 19,O19,Cost-effectiveness,96
+Unity Action 20,O20,Completeness,73
+Unity Action 20,O20,Effectiveness/Impact,89
+Unity Action 20,O20,Satisfaction,85
+Unity Action 20,O20,Transparency & Accountability,82
+Unity Action 20,O20,Cost-effectiveness,65
+Blue Trust 21,O21,Completeness,74
+Blue Trust 21,O21,Effectiveness/Impact,64
+Blue Trust 21,O21,Satisfaction,76
+Blue Trust 21,O21,Transparency & Accountability,71
+Blue Trust 21,O21,Cost-effectiveness,92
+West Aid 22,O22,Completeness,80
+West Aid 22,O22,Effectiveness/Impact,76
+West Aid 22,O22,Satisfaction,85
+West Aid 22,O22,Transparency & Accountability,73
+West Aid 22,O22,Cost-effectiveness,69
+True Minds 23,O23,Completeness,68
+True Minds 23,O23,Effectiveness/Impact,64
+True Minds 23,O23,Satisfaction,84
+True Minds 23,O23,Transparency & Accountability,65
+True Minds 23,O23,Cost-effectiveness,91
+Open Access 24,O24,Completeness,84
+Open Access 24,O24,Effectiveness/Impact,65
+Open Access 24,O24,Satisfaction,55
+Open Access 24,O24,Transparency & Accountability,78
+Open Access 24,O24,Cost-effectiveness,81
+Hope Path 25,O25,Completeness,99
+Hope Path 25,O25,Effectiveness/Impact,68
+Hope Path 25,O25,Satisfaction,96
+Hope Path 25,O25,Transparency & Accountability,79
+Hope Path 25,O25,Cost-effectiveness,74
+Nova Earth 26,O26,Completeness,78
+Nova Earth 26,O26,Effectiveness/Impact,85
+Nova Earth 26,O26,Satisfaction,81
+Nova Earth 26,O26,Transparency & Accountability,86
+Nova Earth 26,O26,Cost-effectiveness,90
+East Community 27,O27,Completeness,94
+East Community 27,O27,Effectiveness/Impact,75
+East Community 27,O27,Satisfaction,93
+East Community 27,O27,Transparency & Accountability,87
+East Community 27,O27,Cost-effectiveness,75
+Nova Alliance 28,O28,Completeness,66
+Nova Alliance 28,O28,Effectiveness/Impact,79
+Nova Alliance 28,O28,Satisfaction,84
+Nova Alliance 28,O28,Transparency & Accountability,69
+Nova Alliance 28,O28,Cost-effectiveness,76
+Unity Hands 29,O29,Completeness,91
+Unity Hands 29,O29,Effectiveness/Impact,76
+Unity Hands 29,O29,Satisfaction,72
+Unity Hands 29,O29,Transparency & Accountability,90
+Unity Hands 29,O29,Cost-effectiveness,86
+Green Circle 30,O30,Completeness,89
+Green Circle 30,O30,Effectiveness/Impact,77
+Green Circle 30,O30,Satisfaction,67
+Green Circle 30,O30,Transparency & Accountability,62
+Green Circle 30,O30,Cost-effectiveness,74
+Open Action 31,O31,Completeness,81
+Open Action 31,O31,Effectiveness/Impact,83
+Open Action 31,O31,Satisfaction,81
+Open Action 31,O31,Transparency & Accountability,98
+Open Action 31,O31,Cost-effectiveness,67
+Prime Access 32,O32,Completeness,97
+Prime Access 32,O32,Effectiveness/Impact,76
+Prime Access 32,O32,Satisfaction,58
+Prime Access 32,O32,Transparency & Accountability,73
+Prime Access 32,O32,Cost-effectiveness,77
+Bright Alliance 33,O33,Completeness,77
+Bright Alliance 33,O33,Effectiveness/Impact,72
+Bright Alliance 33,O33,Satisfaction,79
+Bright Alliance 33,O33,Transparency & Accountability,81
+Bright Alliance 33,O33,Cost-effectiveness,80
+Green Roots 34,O34,Completeness,61
+Green Roots 34,O34,Effectiveness/Impact,85
+Green Roots 34,O34,Satisfaction,79
+Green Roots 34,O34,Transparency & Accountability,79
+Green Roots 34,O34,Cost-effectiveness,81
+South Hands 35,O35,Completeness,86
+South Hands 35,O35,Effectiveness/Impact,71
+South Hands 35,O35,Satisfaction,68
+South Hands 35,O35,Transparency & Accountability,79
+South Hands 35,O35,Cost-effectiveness,63
+Unity Aid 36,O36,Completeness,89
+Unity Aid 36,O36,Effectiveness/Impact,69
+Unity Aid 36,O36,Satisfaction,68
+Unity Aid 36,O36,Transparency & Accountability,69
+Unity Aid 36,O36,Cost-effectiveness,75
+North Support 37,O37,Completeness,76
+North Support 37,O37,Effectiveness/Impact,59
+North Support 37,O37,Satisfaction,78
+North Support 37,O37,Transparency & Accountability,74
+North Support 37,O37,Cost-effectiveness,68
+Nova Partners 38,O38,Completeness,90
+Nova Partners 38,O38,Effectiveness/Impact,90
+Nova Partners 38,O38,Satisfaction,89
+Nova Partners 38,O38,Transparency & Accountability,79
+Nova Partners 38,O38,Cost-effectiveness,76
+East Partners 39,O39,Completeness,78
+East Partners 39,O39,Effectiveness/Impact,63
+East Partners 39,O39,Satisfaction,82
+East Partners 39,O39,Transparency & Accountability,95
+East Partners 39,O39,Cost-effectiveness,77
+Care Community 40,O40,Completeness,97
+Care Community 40,O40,Effectiveness/Impact,93
+Care Community 40,O40,Satisfaction,81
+Care Community 40,O40,Transparency & Accountability,77
+Care Community 40,O40,Cost-effectiveness,72
